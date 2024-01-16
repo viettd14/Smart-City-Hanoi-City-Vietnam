@@ -40,7 +40,7 @@
       6.5.8. [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#558)
 7. TÀI LIỆU THAM KHẢO
 
-# DANH MỤC TỪ VIẾT TẮT(#)
+# DANH MỤC TỪ VIẾT TẮT
 <a name="danhmuctuviettat"></a>
 
 
