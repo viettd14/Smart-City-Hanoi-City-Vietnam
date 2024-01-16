@@ -31,15 +31,14 @@
    6.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)  
    6.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)  
    6.5. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
-   
-      6.5.1. [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
-      6.5.2. [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG](#trungtamgiamsatdieuhanhanninhcongcong)  
-      6.5.3. [TRUNG TÂM ỨNG CỨU KHẨN CẤP](#trungtamungcuukhancap)  
-      6.5.4. [TRUNG TÂM PHÂN TÍCH DỮ LIỆU](#trungtamphantichdulieu)  
-      6.5.5. [TRUNG TÂM GIÁM SÁT BẢO MẬT AN TOÀN THÔNG TIN](#trungtamgiamsatbaomatantoanthongtin)  
-      6.5.6. [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#trungtamhoidapykienphucvunguoidan)  
-      6.5.7. [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
-      6.5.8. [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)  
+      - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
+      - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG](#trungtamgiamsatdieuhanhanninhcongcong)  
+      - [TRUNG TÂM ỨNG CỨU KHẨN CẤP](#trungtamungcuukhancap)  
+      - [TRUNG TÂM PHÂN TÍCH DỮ LIỆU](#trungtamphantichdulieu)  
+      - [TRUNG TÂM GIÁM SÁT BẢO MẬT AN TOÀN THÔNG TIN](#trungtamgiamsatbaomatantoanthongtin)  
+      - [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#trungtamhoidapykienphucvunguoidan)  
+      - [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
+      - [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)  
 8. [TÀI LIỆU THAM KHẢO](#tailieuthamkhao)
 
 # DANH MỤC TỪ VIẾT TẮT
