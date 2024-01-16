@@ -39,7 +39,6 @@ V. NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC
       6. [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#556)
       7. [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#557)
       8. [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#558)
-VI. NHẬN XÉT VÀ ĐÁNH GIÁ CÁ NHÂN
 TÀI LIỆU THAM KHẢO
 
 # Abstract
