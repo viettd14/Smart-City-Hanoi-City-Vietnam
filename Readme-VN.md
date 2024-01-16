@@ -3,8 +3,8 @@
 </div>
 
 # MỤC LỤC
-DANH MỤC TỪ VIẾT TẮT
-MỤC LỤC HÌNH ẢNH
+DANH MỤC TỪ VIẾT TẮT  
+MỤC LỤC HÌNH ẢNH  
 1. ĐẶT VẤN ĐỀ
 2. KHÁI NIỆM  
    2.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#11)  
@@ -45,13 +45,4 @@ TÀI LIỆU THAM KHẢO
 <a name="abstract"></a>
 
 
-
-1. Mục Lớn 1
-   1.1 Mục Lớn 1.1
-   1.2 Mục Lớn 1.2
-2. Mục Lớn 2
-   2.1 Mục Lớn 2.1
-   2.2 Mục Lớn 2.2
-      2.2.1 Mục Lớn 2.2.1
-      2.2.2 Mục Lớn 2.2.2
 
