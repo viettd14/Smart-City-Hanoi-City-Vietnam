@@ -20,7 +20,7 @@
    5.3. [CỔNG DỊCH VỤ CÔNG QUỐC GIA](#congdichvucong)   
 6. [NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC](#nhungtinhnangthongminhhanoidaxaydungduoc)  
    6.1. [GIAO THÔNG THÔNG MINH](#giaothongthongminh)  
-      - [XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS](#xaydunghethonggiaothongthongminh)  
+      6.1.1. [XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS](#xaydunghethonggiaothongthongminh)  
       6.1.2. [MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS](#motsotuyenduongdatrienkhai)  
       6.1.3. [HỆ THỐNG CCTV CỦA ĐÀI VOV](#hethongcctvcuadaivov)  
       6.1.4. [HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG](#hethongdieukhientinhieugiaothong)
