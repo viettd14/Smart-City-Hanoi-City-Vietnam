@@ -30,7 +30,7 @@
    
    6.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)  
    6.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)  
-   6.5. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)  
+   6.5. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)   
       6.5.1. [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
       6.5.2. [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG](#trungtamgiamsatdieuhanhanninhcongcong)  
       6.5.3. [TRUNG TÂM ỨNG CỨU KHẨN CẤP](#trungtamungcuukhancap)  
