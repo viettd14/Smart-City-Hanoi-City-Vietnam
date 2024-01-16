@@ -23,7 +23,7 @@
       - [XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS](#xaydunghethonggiaothongthongminh)  
       - [MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS](#motsotuyenduongdatrienkhai)  
       - [HỆ THỐNG CCTV CỦA ĐÀI VOV](#hethongcctvcuadaivov)  
-      - [HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG](#hethongdieukhientinhieugiaothong)
+      - [HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG](#hethongdieukhientinhieugiaothong)  
    6.2. [ĐỖ XE THÔNG MINH](#doxethongminh)  
       - [ỨNG DỤNG IPARKING](#ungdungiparking)  
       - [XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP](#xaydungnhungbaidauxethongminhdangthap)
