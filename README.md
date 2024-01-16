@@ -1,2 +1,1 @@
-# Smart-City-Hanoi-City-Vietnam-
-Ha Noi is a Smart City
+# Smart City – Ha Noi City (Viet Nam)
