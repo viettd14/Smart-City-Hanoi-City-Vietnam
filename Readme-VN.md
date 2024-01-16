@@ -5,9 +5,9 @@
 # MỤC LỤC
 1. [DANH MỤC TỪ VIẾT TẮT](#danhmuctuviettat)
 2. [ĐẶT VẤN ĐỀ](#datvande)
-3. [KHÁI NIỆM](#khainiem)
+3. [KHÁI NIỆM](#khainiem)  
    3.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#11)  
-   3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#12)
+   3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#12)  
 4. HIỆN TRẠNG HÀ NỘI
    4.1. [TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI](#31)
    4.2. [KHÓ KHĂN](#32)
