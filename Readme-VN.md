@@ -17,7 +17,7 @@
 5. [ỨNG DỤNG SMART CITY HÀ NỘI](#ungdungsmartcityhanoi)  
    5.1. [THÔNG TIN ỨNG DỤNG](#thongtinungdung)  
    5.2. [SỔ LIÊN LẠC ĐIỆN TỬ](#solienlacdientu)  
-   5.3. [CỔNG DỊCH VỤ CÔNG QUỐC GIA](#congdichvucong)  
+   5.3. [CỔNG DỊCH VỤ CÔNG QUỐC GIA](#congdichvucong)   
 6. [NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC](#nhungtinhnangthongminhhanoidaxaydungduoc)  
    6.1. [GIAO THÔNG THÔNG MINH](#giaothongthongminh)  
       6.1.1. [XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS](#xaydunghethonggiaothongthongminh)  
