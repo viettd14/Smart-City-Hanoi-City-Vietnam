@@ -8,12 +8,12 @@
 3. [KHÁI NIỆM](#khainiem)  
    3.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#11)  
    3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#12)  
-4. HIỆN TRẠNG HÀ NỘI
-   4.1. [TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI](#31)
-   4.2. [KHÓ KHĂN](#32)
-   4.3. [THÁCH THỨC](#33)
-   4.4. [CÁC YẾU TỐ CỐT LÕI ĐỂ HÀ NỘI ĐI LÊN SMART CITY](#34)
-   4.5. [LỘ TRÌNH XÂY DỰNG HÀ NỘI SMART CITY](#35)
+4. [HIỆN TRẠNG HÀ NỘI](#hientranghanoi)
+   4.1. [TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI](#tinhhinhphattriensmartcityhanoi)
+   4.2. [KHÓ KHĂN](#khokhan)
+   4.3. [THÁCH THỨC](#thachthuc)
+   4.4. [CÁC YẾU TỐ CỐT LÕI ĐỂ HÀ NỘI ĐI LÊN SMART CITY](#cacyeutocotloidehanoidilensmartcity)
+   4.5. [LỘ TRÌNH XÂY DỰNG HÀ NỘI SMART CITY](#lotrinhxaydunghanoismartcity)
 5. ỨNG DỤNG SMART CITY HÀ NỘI
    5.1. [THÔNG TIN ỨNG DỤNG](#41)
    5.2. [SỔ LIÊN LẠC ĐIỆN TỬ](#42)
