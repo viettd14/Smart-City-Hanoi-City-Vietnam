@@ -6,8 +6,8 @@
 DANH MỤC TỪ VIẾT TẮT
 MỤC LỤC HÌNH ẢNH
 1. ĐẶT VẤN ĐỀ
-2. KHÁI NIỆM
-   2.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#11)
+2. KHÁI NIỆM  
+   2.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#11)  
    2.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#12)
 III. HIỆN TRẠNG HÀ NỘI
    1. [TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI](#31)
