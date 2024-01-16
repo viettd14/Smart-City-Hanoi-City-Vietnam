@@ -20,10 +20,10 @@
    5.3. [CỔNG DỊCH VỤ CÔNG QUỐC GIA](#congdichvucong)   
 6. [NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC](#nhungtinhnangthongminhhanoidaxaydungduoc)  
    6.1. [GIAO THÔNG THÔNG MINH](#giaothongthongminh)  
-      6.1.1. [XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS](#xaydunghethonggiaothongthongminh)  
+      - [XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS](#xaydunghethonggiaothongthongminh)  
       6.1.2. [MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS](#motsotuyenduongdatrienkhai)  
       6.1.3. [HỆ THỐNG CCTV CỦA ĐÀI VOV](#hethongcctvcuadaivov)  
-      6.1.4. [HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG](#hethongdieukhientinhieugiaothong)  
+      6.1.4. [HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG](#hethongdieukhientinhieugiaothong)
    6.2. [ĐỖ XE THÔNG MINH](#doxethongminh)  
       6.2.1. [ỨNG DỤNG IPARKING](#ungdungiparking)  
       6.2.2. [XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP](#xaydungnhungbaidauxethongminhdangthap)  
@@ -38,7 +38,7 @@
       6.5.6. [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#trungtamhoidapykienphucvunguoidan)  
       6.5.7. [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
       6.5.8. [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)  
-7. [TÀI LIỆU THAM KHẢO](#tailieuthamkhao)
+8. [TÀI LIỆU THAM KHẢO](#tailieuthamkhao)
 
 # DANH MỤC TỪ VIẾT TẮT
 <a name="danhmuctuviettat"></a>
