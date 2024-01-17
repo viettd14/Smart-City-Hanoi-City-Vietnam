@@ -494,6 +494,11 @@ Ngoài ra, các trường trên Hà Nội còn cung cấp một số các tính 
 
 ## 5.5. ỨNG DỤNG SMART CITY HÀ NỘI
 <a name="ungdungsmartcityhanoi"></a>
+
+### 5.5.1. THÔNG TIN ỨNG DỤNG
+<a name="thongtinungdung"></a>
+<p align="justify"></p>
+
 <p align="justify">Ứng dụng điện thoại Hà Nội SmartCity được phát triển bởi Trung tâm tin học Hà Nội thuộc Văn phòng UBND thành phố, kích hoạt từ tối 18/3. Người dân có thể cài đặt Hà Nội Smart City qua Google Play hoặc App Store.</p>
 <p align="justify">Thông qua ứng dụng này, người dân có thể cập nhật được tất cả mọi tình hình của TP. Hà Nội hay những thông báo của chính quyền tới những người dân.</p>
 <p align="justify">Theo chủ tịch thành phố Hà Nội, ngoài cung cấp thông tin về tình hình dịch COVID-19, cung cấp bản đồ dịch, ứng dụng còn hỗ trợ các lực lượng giám sát người cách ly tại nhà qua GPS khi đăng ký điện thoại thông minh của người cách ly.</p>
@@ -505,29 +510,51 @@ Ngoài ra, các trường trên Hà Nội còn cung cấp một số các tính 
 </p>
 
 Các tính năng của úng dụng Smart City Hà Nội
--	Thông tin chi tiết dịch bệnh trên Thủ Đô Hà Nội và cả nước: bao gồm các mục: bản đồ dịch bệnh, thống kê tình hình dịch, khai báo y tế và phản ánh.  
+-	`Thông tin chi tiết dịch bệnh trên Thủ Đô Hà Nội và cả nước:` bao gồm các mục: bản đồ dịch bệnh, thống kê tình hình dịch, khai báo y tế và phản ánh.  
 Người dân có thể nắm bắt thông tin về tình hình dịch bệnh Covid 19, tiếp đến có thể biết chính xác khu vực có người mắc Covid 19 qua bản đồ dịch, khu vực có người cách ly để nhận biết các khu vực nguy hiểm, khu vực cách ly, chủ động phòng tráng phù hợp.  
 Người dân có thể nắm bắt vị trí những ca dương tính nCoV đang điều trị (F0), các trường hợp tiếp xúc gần từ F1 đến F5, hiển thị lần lượt bằng chấm màu đỏ đến màu xanh dương.
--	Các dịch vụ công ích: Nộp hồ sơ trực tuyến, theo dõi tình trạng xử lý hồ sơ, đánh giá mức độ hài lòng, giao tiếp với cơ quan công quyền thông qua việc gửi kiến nghị, góp ý, làm đánh giá khảo sát, thanh toán dịch vụ công mức 4.
--	Dịch vụ về giáo dục: 
+-	`Các dịch vụ công ích:` Nộp hồ sơ trực tuyến, theo dõi tình trạng xử lý hồ sơ, đánh giá mức độ hài lòng, giao tiếp với cơ quan công quyền thông qua việc gửi kiến nghị, góp ý, làm đánh giá khảo sát, thanh toán dịch vụ công mức 4.
+-	`Dịch vụ về giáo dục:`
 Sổ liên lạc: giúp phụ huynh có thể theo dõi thường xuyên tình hình học tập của con ở trường và phối hợp với nhà trường đôn đốc việc học tập của con em mình.  
 Đăng ký tuyển sinh các cấp: Mầm non, Tiểu học, THCS, THPT.  
 Cung cấp chức năng nhắn tin trao đổi với giáo viên và với các phụ huynh trong lớp.  
 Thông báo các hoạt động của và tình hình của trẻ tại trường (điểm danh, nhận xét, khám sức khỏe, chia sẻ hình ảnh hoạt động của lớp,…).	  
 Nhận thông báo về học phí và thanh toán học phí qua ứng dụng.  
-
-
-### 5.5.1. THÔNG TIN ỨNG DỤNG
-<a name="thongtinungdung"></a>
-<p align="justify"></p>
+-	`Các dịch vụ về Y tế:`
+Quản lý và theo dõi được tình hình sức khỏe & quá trình khám chữa bệnh của mình và người thân.  
+Đặt lịch khám bệnh trực tuyến với các bệnh viện công trên địa bàn thành phố.  
+Theo dõi, nhắc lịch tái khám.  
+Thanh toán viện phí.  
+Đánh giá mức độ hài lòng khi sử dụng các dịch vụ tại các cơ sở khám chữa bệnh.  
+-	`Dịch vụ khác:` Thanh toán hóa đơn điện, nước, thẻ điện thoại, xe bus, tàu điện.
+<p align="center">
+  <img width="600" src="https://i.imgur.com/SU1hwkg.png" alt="Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội">
+</p>
+<p align="center">
+  <em>Hình 14: Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội</em>
+</p>
 
 ### 5.5.2. SỔ LIÊN LẠC ĐIỆN TỬ
 <a name="solienlacdientu"></a>
-<p align="justify"></p>
+<p align="justify">Sổ liên lạc điện tử là tính năng của ứng dụng smart city Hà Nội được dùng để kết nối thông tin giữa nhà trường và phụ huynh học sinh, giúp cho phụ huynh học sinh có thể theo dõi quá trình học tập, rèn luyện của con em mình một cách chính xác và nhanh nhất.</p>
+Chức năng của sổ liên lạc điện tử:
+-	Xem thời khóa biểu.
+-	Xem bảng điểm, điểm danh.
+-	Nhận thông báo của nhà trường, liên hệ với giáo viên giảng dạy.
+-	Liên hệ với phụ huynh khác.
+-	Góp ý với nhà trường…
 
 ### 5.5.3. CỔNG DỊCH VỤ CÔNG QUỐC GIA
 <a name="congdichvucong"></a>
 <p align="justify"></p>
+Cá nhân, tổ chức dễ dàng truy cập Cổng Dịch vụ công Quốc gia tại địa chỉ: `www.dichvucong.gov.vn` để hưởng nhiều lợi ích từ Cổng Dịch vụ công Quốc gia, như:
+-	Nộp thuế điện tử (thuế thu nhập cá nhân, cá nhân kinh doanh).
+-	Cấp mã số đơn vị quan hệ ngân sách; hủy tờ khai hải quan.
+-	Khai bổ sung hồ sơ hải quan.
+-	Thu phí, lệ phí trước bạ xe ô tô, xe gắn máy
+-	Thu phạt vi phạm giao thông đường bộ; đổi giấy phép lái xe (mức độ 4).
+-	Cấp mới giấy phép lái xe, giấy phép đăng ký kinh doanh.
+-	Và nhiều dịch vụ khác…
 
      
 5.6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)  
