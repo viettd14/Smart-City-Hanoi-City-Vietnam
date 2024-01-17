@@ -5,9 +5,9 @@
 # TABLE OF CONTENTS
 1. [ACRONYMS](#acronyms)
 2. [INTRODUCTION](#introduction)
-3. [KHÁI NIỆM](#khainiem)  
-   3.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#thanhphothongminhlagi)  
-   3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#nhungtieuchidanhgiathanhphothongminh)  
+3. [CONCEPTUAL FRAMEWORK](#conceptualframework)  
+   3.1. [WHAT IS A SMART CITY?](#whatisasmartcity)  
+   3.2. [THE CRITERIA FOR EVALUATING A SMART CITY](#thecriteriaforevaluatingasmartcity)  
 4. [HIỆN TRẠNG HÀ NỘI](#hientranghanoi)  
    4.1. [TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI](#tinhhinhphattriensmartcityhanoi)  
    4.2. [KHÓ KHĂN](#khokhan)  
@@ -82,60 +82,58 @@ Additionally, public awareness regarding smart city development in Vietnam is cu
 
 
 
-# 3. KHÁI NIỆM
-<a name="khainiem"></a>
+# 3. CONCEPTUAL FRAMEWORK 
+<a name="conceptualframework"></a>
 
-## 3.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#thanhphothongminhlagi)  
-<a name="thanhphothongminhlagi"></a>
+## 3.1. WHAT IS A SMART CITY?
+<a name="whatisasmartcity"></a>
 <p align="justify">
-Thành phố thông minh là một thành phố luôn đổi mới và sáng tạo: sử dụng các công nghệ thông tin, truyền thông và các phương tiện khác để nâng cao chất lượng cuộc sống, hiệu quả hoạt động – dịch vụ đô thị, tính cạnh tranh, đồng thời đảm bảo đáp ứng được nhu cầu của các thế hệ hiện tại và tương lai về các khía cạnh kinh tế, xã hội, môi trường và văn hóa.
+A smart city is an ever-evolving and innovative urban area that utilizes information technology, communication, and other means to enhance the quality of life, operational efficiency, urban services, and competitiveness while ensuring the satisfaction of the current and future generations in economic, social, environmental, and cultural aspects.
 </p>
 <p align="justify">
-Thành phố thông minh là nơi thực hiện chiến lược phát triển tổng thể, thống nhất dựa trên các công nghệ và giải pháp thông minh với từ 5 – 8 thành phần: công dân thông minh, năng lượng thông minh, chăm sóc sức khỏe thông minh, tòa nhà thông minh, di động thông minh, cơ sở hạ tầng, công nghệ và điều hành thông minh của chính quyền và giáo dục thông minh.
+A smart city is a place that implements a comprehensive development strategy, unified based on smart technologies and solutions with 5-8 components: smart citizens, smart energy, smart healthcare, smart buildings, smart mobility, infrastructure, smart governance and education technology.
 </p>
 
-## 3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#nhungtieuchidanhgiathanhphothongminh)
-<a name="nhungtieuchidanhgiathanhphothongminh"></a>
+## 3.2. THE CRITERIA FOR EVALUATING A SMART CITY
+<a name="thecriteriaforevaluatingasmartcity"></a>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/DLOxOjz.png" alt="6 tiêu chí của Smart City">
+  <img width="600" src="https://i.imgur.com/DLOxOjz.png" alt="The 6 Criteria of a Smart Cityy">
 </p>
 <p align="center">
-  <em>Hình 1: 6 tiêu chí của Smart City</em>
+  <em>Figure 1: The 6 Criteria of a Smart City</em>
 </p>
 
-`Chính phủ thông minh (chính phủ điện tử):`
+`Smart Government (E-Government):`
 <p align="justify">
-Xây dựng đô thị thông minh phải gắn kết, không được tách rời việc phát triển chính quyền điện tử. Lấy chính quyền điện tử làm nòng cốt để xây dựng đô thị thông minh (ĐTTM) tạo điều kiện thuận lợi nhất cho người dân và doanh nghiệp khi giao tiếp với cơ quan chính quyền.
-</p>
-<p align="justify">
-Người dân phải được cung cấp các ứng dụng để giao tiếp với chính quyền và mọi ý kiến phản ánh của người dân phải được giải đáp nhanh và thoả đáng. Mục tiêu là làm giảm chi phí cung cấp các dịch vụ công, đảm bảo sự liên lạc tốt hơn giữa chính phủ với công dân bằng cách làm cho người dân dễ dàng tiếp cận với chính phủ thông qua web hoặc các ứng dụng mà chính phủ cung cấp. Từ đó, người dân giảm thiểu thời gian và chi phí trong quá trình thực hiện một giao dịch hoặc yêu cầu với chính phủ hoặc cơ quan quản lý.
+Building a smart city must be closely tied to the development of e-government. Making e-government the core to build a smart city (SC) creates the most favorable conditions for citizens and businesses when interacting with government agencies.
 </p>
 <p align="justify">
-Chính phủ cũng cung cấp các dịch vụ điện tử để hỗ trợ doanh nghiệp như: các chính sách, các quy định, thể chế, truy xuất các thông tin về kinh doanh (quy hoạch sử dụng đất, phát triển đô thị, đấu thầu, xây dựng, ...), tải các mẫu đơn, gia hạn giấy phép, đăng ký kinh doanh, xin cấp phép và nộp thuế.
+Citizens must be provided with applications to communicate with the government, and all feedback from citizens must be addressed promptly and satisfactorily. The goal is to reduce the cost of providing public services, ensure better communication between the government and citizens by making it easy for people to access the government through the web or applications provided by the government. As a result, citizens minimize time and costs in conducting transactions or requests with the government or management agencies.
 </p>
-
-`Kinh tế thông minh`
 <p align="justify">
- là qui trình và công nghệ mà các doanh nghiệp dùng để kiểm soát dữ liệu, khai phá tri thức giúp cho các doanh nghiệp có thể đưa các các quyết định hiệu quả hơn trong hoạt động kinh doanh của mình. Công nghệ kinh doanh thông minh cung cấp một cách nhìn toàn cảnh hoạt động của doanh nghiệp từ quá khứ, hiện tại và các dự đoán tương lai. Một số hoạt động của kinh tế thông minh như: marketing online, sale online, sử dụng một số phần mềm để quản lý nhân viên, sản phẩm,…
+The government also provides electronic services to support businesses such as policies, regulations, institutions, accessing business information (land use planning, urban development, bidding, construction, etc.), downloading forms, extending licenses, business registration, licensing, and tax submission.
 </p>
 
-`Môi trường thông minh`
+`Smart economy`
 <p align="justify">
-Sử dụng các thiết bị thông minh khác nhau để làm cho cuộc sống của người dân thoải mái hơn bằng cách thay thế công việc nguy hiểm, lao động chân tay và các nhiệm vụ lặp đi lặp lại bằng các máy móc hoặc thiết bị tự động.
+Smart economy is the process and technology that businesses use to control data, explore knowledge to enable more effective decision-making in their business operations. Smart business technology provides a comprehensive view of a business's activities from the past, present, and future predictions. Some activities of the smart economy include online marketing, online sales, and the use of various software to manage employees, products, etc.
 </p>
 
-Các loại môi trường thông minh:
-- Môi trường máy tính ảo: cho phép các thiết bị thông minh truy cập các dịch vụ thích hợp ở mọi nơi và mọi lúc.  
-- Môi trường vật lý: với nhiều loại thiết bị thông minh bao gồm thẻ, cảm biến và bộ điều khiển.  
-- Môi trường của con người: với các thiết bị thông minh như điện thoại di động, laptop, smartwatch hoặc các thiết bị hỗ trợ sức khỏe như: máy tạo nhịp tim để duy trì hoạt động của tim khỏe mạnh hoặc kính áp tròng AR.
+`Smart environment`
+<p align="justify">
+Smart environment utilizes various smart devices to make people's lives more comfortable by replacing hazardous, manual labor and repetitive tasks with machines or automated devices.</p>
 
+Types of smart environments include:
+- Virtual computing environment: allows smart devices to access suitable services anywhere and anytime.
+- Physical environment: includes various types of smart devices such as tags, sensors, and controllers.
+- Human environment: includes smart devices such as mobile phones, laptops, smartwatches, or health-supporting devices such as heart rate monitors to maintain a healthy heart rate, or AR contact lenses.
 
-Tính năng:
-- Điều khiển thiết bị từ xa.
-- Khả năng kết nối – giao tiếp giữa các thiết: sử dụng phần mềm trung gian hoặc các kết nối không dây để tạo thành một hệ thống.
-- Thu thập thông tin từ các cảm biến.
-- IOT.
-- Khả năng dự đoán và ra quyết định.
+Features:
+- Remote device control.
+- Connectivity - communication between devices: using intermediary software or wireless connections to form a system.
+- Data collection from sensors.
+- IoT (Internet of Things).
+- Predictive and decision-making capabilities.
 
 `Cuộc sống thông minh`
 <p align="justify">
