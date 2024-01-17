@@ -129,6 +129,7 @@ Chính phủ cũng cung cấp các dịch vụ điện tử để hỗ trợ doa
 <p align="justify">
 Sử dụng các thiết bị thông minh khác nhau để làm cho cuộc sống của người dân thoải mái hơn bằng cách thay thế công việc nguy hiểm, lao động chân tay và các nhiệm vụ lặp đi lặp lại bằng các máy móc hoặc thiết bị tự động.
 </p>
+
 Các loại môi trường thông minh:
 - Môi trường máy tính ảo: cho phép các thiết bị thông minh truy cập các dịch vụ thích hợp ở mọi nơi và mọi lúc.  
 - Môi trường vật lý: với nhiều loại thiết bị thông minh bao gồm thẻ, cảm biến và bộ điều khiển.  
