@@ -640,6 +640,7 @@ Bản đồ qui hoạch này, cung cấp thông tin qui hoạch đất ở Hà N
 # 6. NHẬN XÉT
 <a name="nhanxet"></a>
 <p align="justify">Hiện tại, Hà Nội vẫn đang trong quá trình xây dựng Smart City, dự kiến sẽ hoàn thành vào năm 2030, vì vậy, trong bài viết này, em chỉ phân tích những gì Hà Nội đã và đang làm được trong quá trình xây dựng thành phố thông minh.</p>
+
 Hà Nội đã phát triển TP thông minh từ năm 2016 đến 2020, tức là khoảng 5 năm, Hà Nội cơ bản đã hình thành cơ bản các thành phần cốt lõi của thành phố thông minh như:
 - Nền tảng cơ sở hạ tầng.
 -	Các cơ sở dữ liệu cốt lõi.
