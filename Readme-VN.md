@@ -482,12 +482,40 @@ Biểu quyết:
 
 ## 5.4. TRƯỜNG HỌC THÔNG MINH
 <a name="truonghocthongminh"></a>
-<p align="justify"></p>
+<p align="justify">Ngoài việc cung cấp tính năng sổ liên liệc lạc điện tử được đi kèm trong ứng dụng Smart City Hà Nội đã được đề cập và giới thiệu ở phần sau.</p>
+<p align="justify">Trong điều kiện dịch bệnh đang xảy ra trên toàn quốc, các trường học đã tổ chức việc học online thông qua các ứng dụng như: Zoom, MS Team,…</p>
+Ngoài ra, các trường trên Hà Nội còn cung cấp một số các tính năng đặc biệt như:
+-	Sổ liên lạc: giúp phụ huynh có thể theo dõi thường xuyên tình hình học tập của con ở trường và phối hợp với nhà trường đôn đốc việc học tập của con em mình.
+-	Đăng ký tuyển sinh các cấp: Mầm non, Tiểu học, THCS, THPT.
+-	Cung cấp chức năng nhắn tin trao đổi với giáo viên và với các phụ huynh trong lớp.
+-	Thông báo các hoạt động của và tình hình của trẻ tại trường (điểm danh, nhận xét, khám sức khỏe, chia sẻ hình ảnh hoạt động của lớp,…).
+-	Nhận thông báo về học phí và thanh toán học phí qua ứng dụng.
 
 
 ## 5.5. ỨNG DỤNG SMART CITY HÀ NỘI
 <a name="ungdungsmartcityhanoi"></a>
-<p align="justify"></p>
+<p align="justify">Ứng dụng điện thoại Hà Nội SmartCity được phát triển bởi Trung tâm tin học Hà Nội thuộc Văn phòng UBND thành phố, kích hoạt từ tối 18/3. Người dân có thể cài đặt Hà Nội Smart City qua Google Play hoặc App Store.</p>
+<p align="justify">Thông qua ứng dụng này, người dân có thể cập nhật được tất cả mọi tình hình của TP. Hà Nội hay những thông báo của chính quyền tới những người dân.</p>
+<p align="justify">Theo chủ tịch thành phố Hà Nội, ngoài cung cấp thông tin về tình hình dịch COVID-19, cung cấp bản đồ dịch, ứng dụng còn hỗ trợ các lực lượng giám sát người cách ly tại nhà qua GPS khi đăng ký điện thoại thông minh của người cách ly.</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/5HL9dV1.png" alt="Ứng dụng Smart City">
+</p>
+<p align="center">
+  <em>Hình 13: Ứng dụng Smart City</em>
+</p>
+
+Các tính năng của úng dụng Smart City Hà Nội
+-	Thông tin chi tiết dịch bệnh trên Thủ Đô Hà Nội và cả nước: bao gồm các mục: bản đồ dịch bệnh, thống kê tình hình dịch, khai báo y tế và phản ánh.  
+Người dân có thể nắm bắt thông tin về tình hình dịch bệnh Covid 19, tiếp đến có thể biết chính xác khu vực có người mắc Covid 19 qua bản đồ dịch, khu vực có người cách ly để nhận biết các khu vực nguy hiểm, khu vực cách ly, chủ động phòng tráng phù hợp.  
+Người dân có thể nắm bắt vị trí những ca dương tính nCoV đang điều trị (F0), các trường hợp tiếp xúc gần từ F1 đến F5, hiển thị lần lượt bằng chấm màu đỏ đến màu xanh dương.
+-	Các dịch vụ công ích: Nộp hồ sơ trực tuyến, theo dõi tình trạng xử lý hồ sơ, đánh giá mức độ hài lòng, giao tiếp với cơ quan công quyền thông qua việc gửi kiến nghị, góp ý, làm đánh giá khảo sát, thanh toán dịch vụ công mức 4.
+-	Dịch vụ về giáo dục: 
+Sổ liên lạc: giúp phụ huynh có thể theo dõi thường xuyên tình hình học tập của con ở trường và phối hợp với nhà trường đôn đốc việc học tập của con em mình.  
+Đăng ký tuyển sinh các cấp: Mầm non, Tiểu học, THCS, THPT.  
+Cung cấp chức năng nhắn tin trao đổi với giáo viên và với các phụ huynh trong lớp.  
+Thông báo các hoạt động của và tình hình của trẻ tại trường (điểm danh, nhận xét, khám sức khỏe, chia sẻ hình ảnh hoạt động của lớp,…).	  
+Nhận thông báo về học phí và thanh toán học phí qua ứng dụng.  
+
 
 ### 5.5.1. THÔNG TIN ỨNG DỤNG
 <a name="thongtinungdung"></a>
