@@ -109,9 +109,9 @@ Tính năng:
 - Điều khiển thiết bị từ xa.
 - Khả năng kết nối – giao tiếp giữa các thiết: sử dụng phần mềm trung gian hoặc các kết nối không dây để tạo thành một hệ thống.
 - Thu thập thông tin từ các cảm biến.
-- IOT
-- Khả năng dự đoán và ra quyết định
-
+- IOT.
+- Khả năng dự đoán và ra quyết định.  
+`Cuộc sống thông minh` nhằm mục đích tăng chất lượng cuộc sống cho người dân và du khách bằng cách đưa các công nghệ vào đời sống của mọi người như: wifi, điện thoại di động, hoặc các thiết bị hỗ trợ kết nối xã hội. Cung cấp các dịch vụ cải thiện chăm sóc sức khỏe và chăm sóc người già (ví dụ như eHealth, Ambient Living Living), nhà thông minh.
 
 
 
