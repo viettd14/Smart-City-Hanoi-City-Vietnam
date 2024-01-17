@@ -15,12 +15,12 @@
    4.4. [CORE ELEMENTS TO UPGRADE HANOI TO SMART CITY](#core-elements-to-upgrade-hanoi-to-smart-city)  
    4.5. [HANOI SMART CITY DEVELOPMENT ROADMAP](#hanoi-smart-city-development-roadmap)  
 
-5. [NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC](#nhungtinhnangthongminhhanoidaxaydungduoc)  
-   5.1. [GIAO THÔNG THÔNG MINH](#giaothongthongminh)  
-      - [XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS](#xaydunghethonggiaothongthongminh)  
-      - [MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS](#motsotuyenduongdatrienkhai)  
-      - [HỆ THỐNG CCTV CỦA ĐÀI VOV](#hethongcctvcuadaivov)  
-      - [HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG](#hethongdieukhientinhieugiaothong)
+5. [SMART FEATURES IMPLEMENTED IN HANOI](#smartfeaturesimplementedinhanoi)
+   5.1. [SMART TRAFFIC](#smarttraffic)
+      - [BUILDING THE INTELLIGENT TRANSPORTATION SYSTEM (ITS)](#buildingtheintelligenttransportationsystem)
+      - [DEPLOYMENT OF ITS ON SELECTED ROADS](#deploymentofitsonselectedroads)
+      - [VOV'S CCTV SYSTEM](#vovcctvsystem)
+      - [TRAFFIC SIGNAL CONTROL SYSTEM](#trafficsignalcontrolsystem)
    
    5.2. [ĐỖ XE THÔNG MINH](#doxethongminh)  
       - [ỨNG DỤNG IPARKING](#ungdungiparking)  
@@ -237,11 +237,11 @@ The Smart City development plan for Hanoi is divided into three main stages:
     
 
 
-# 5. NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC
-<a name="nhungtinhnangthongminhhanoidaxaydungduoc"></a>
+# 5. SMART FEATURES IMPLEMENTED IN HANOI
+<a name="smartfeaturesimplementedinhanoi"></a>
 
-## 5.1. GIAO THÔNG THÔNG MINH
-<a name="giaothongthongminh"></a>
+## 5.1. SMART TRAFFIC
+<a name="smarttraffic"></a>
 <p align="justify">
 Để phát triển được thành phố thông minh, Hà Nội bắt buộc phải phát triển được hệ thống giao thông thông minh. Với số lượng phương tiện giao thông đang ngày một tăng cao, điều này đã gây ra không ít khó khăn và trở ngại trong việc điều hành, quản lý trong giao thông Hà Nội, minh chứng là các tuyến phố, việc kẹt xe trở nên thường xuyên.
 </p>
@@ -252,8 +252,8 @@ The Smart City development plan for Hanoi is divided into three main stages:
   <em>Hình 3: Giao thông của Hà Nội ngày càng phức tạp</em>
 </p>
 
-### 5.1.1. XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS
-<a name="xaydunghethonggiaothongthongminh"></a>
+### 5.1.1. BUILDING THE INTELLIGENT TRANSPORTATION SYSTEM (ITS)
+<a name="buildingtheintelligenttransportationsystem"></a>
 <p align="justify">
 Để phát triển được thành phố thông minh, Hà Nội bắt buộc phải phát triển được hệ thống giao thông thông minh. Với số lượng phương tiện giao thông đang ngày một tăng cao, điều này đã gây ra không ít khó khăn và trở ngại trong việc điều hành, quản lý trong giao thông Hà Nội, minh chứng là các tuyến phố, việc kẹt xe trở nên thường xuyên.
 <p align="center">
@@ -303,8 +303,8 @@ Lộ trình phát triển hệ thống ITS tại Hà Nội
   <em>Hình 7: lộ trình phát triển hệ thống ITS</em>
 </p>
 
-### 5.1.2. MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS
-<a name="motsotuyenduongdatrienkhai"></a>
+### 5.1.2. DEPLOYMENT OF ITS ON SELECTED ROADS
+<a name="deploymentofitsonselectedroads"></a>
 `Cao tốc Hà Nội - Hải Phòng`  
 Bao gồm 9 hệ thống riêng, được chia làm 3 mảng rõ rệt bao gồm:
 - Mảng giám sát giao thông: hệ thống camera CCTV dọc tuyến, camera dò xe, hệ thống giám sát tải trọng xe, hệ thống biển báo hiệu điện tử và Trung tâm điều hành tuyến. (hệ thống bao gồm 58 camera và trung tâm làm việc 24/7)
@@ -327,8 +327,8 @@ Với 110 camera giao thông được lắp trên cao tốc Hà Nội - Lào Cai
 <p align="justify">Sắp tới, Công an TP. Hà Nội sẽ phối hợp với Sở Giao thông vận tải tiếp tục kiến nghị việc phát triển thêm các thiết bị ngoại vi và hệ thống ưu tiên xe bus, xe cứu thương, xe chữa cháy… để tối ưu hóa về mặt giao thông.</p>
 <p align="justify">Hệ thống ưu tiên này đang được triển khai thử nghiệm tại tuyến xe bus Kim Mã - Yên Nghĩa. Trên tuyến đường này, khi xe bus đi qua những điểm giao cắt có tín hiệu đèn đỏ, tín hiệu đèn sẽ mở ưu tiên cho xe bus đi qua nhằm giảm tối đa thời gian xe bus di chuyển từ điểm đầu đến điểm cuối, tránh ùn tắc giao thông.</p>
   
-### 5.1.3. HỆ THỐNG CCTV CỦA ĐÀI VOV
-<a name="hethongcctvcuadaivov"></a>
+### 5.1.3. VOV'S CCTV SYSTEM
+<a name="vovcctvsystem"></a>
 <p align="justify">Hệ thống giám sát đường bộ thông qua các camera được lắp đặt trên tất cả các tuyến phố của Hà Nội của đài tiếng nói Việt Nam (VOV). Các hình ảnh mà hệ thống thu thập được sẽ truyền đi theo thời gian thực đến các cơ quan công an và hệ thống VOV như: tình trạng kẹt xe, tai nạn giao thông hoặc các công trường xây dựng gây ảnh hưởng tới giao thông, và đài VOV sẽ thông báo tới người dùng thông qua báo đài, internet hoặc trực tiếp trên hệ thống radio của xe.</p>
 <p align="center">
   <img width="600" src="https://i.imgur.com/kxQBXhG.png" alt="CCTV của VOV">
@@ -337,10 +337,9 @@ Với 110 camera giao thông được lắp trên cao tốc Hà Nội - Lào Cai
   <em>Hình 9: CCTV của VOV</em>
 </p>
 
-### 5.1.4. HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG
-<a name="hethongdieukhientinhieugiaothong"></a>
-<p align="justify">HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG (POC FOR VIDEO ANALYTIC BASED TRAFFIC MANAGEMENT)
-</p>
+### 5.1.4. TRAFFIC SIGNAL CONTROL SYSTEM
+<a name="trafficsignalcontrolsystem"></a>
+<p align="justify">HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG (POC FOR VIDEO ANALYTIC BASED TRAFFIC MANAGEMENT)</p>
 <p align="justify">Phối hợp với Ủy ban Nhân dân Hà Nội, Sở Giao thông vận tải và Sở Cảnh sát giao thông Hà Nội, Công ty Cổ phần Công nghệ Itelco và Tập đoàn FPT, Siemens đã trang bị nút giao Phạm Hùng - Mê Trí với công nghệ điều khiển giao thông hiện đại và dự định tới 2030 sẽ triển khai trên toàn Thủ đô Hà Nội.</p>
 <p align="center">
   <img width="600" src="https://i.imgur.com/sQyGZfg.png" alt="ệ thống điều khiển POC của Siemens">
