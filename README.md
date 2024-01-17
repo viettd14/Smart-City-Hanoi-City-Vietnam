@@ -135,30 +135,27 @@ Features:
 - IoT (Internet of Things).
 - Predictive and decision-making capabilities.
 
-`Cuộc sống thông minh`
+`Smart living`
 <p align="justify">
-Nhằm mục đích tăng chất lượng cuộc sống cho người dân và du khách bằng cách đưa các công nghệ vào đời sống của mọi người như: wifi, điện thoại di động, hoặc các thiết bị hỗ trợ kết nối xã hội. Cung cấp các dịch vụ cải thiện chăm sóc sức khỏe và chăm sóc người già (ví dụ như eHealth, Ambient Living Living), nhà thông minh.
+Smart living aims to enhance the quality of life for residents and visitors by integrating technologies into people's daily lives, such as Wi-Fi, mobile phones, or devices that support social connectivity. It provides services to improve healthcare and care for the elderly (e.g., eHealth, Ambient Living), and smart homes.
 </p>
 
-`Di động thông minh (giao thông)`
+`Smart transportation`
 <p align="justify">
-Là sự tích hợp các hình thức vận chuyển (xe, tàu, máy bay..) và cơ sở hạ tầng hiện có để làm cho việc đi lại an toàn hơn, sạch hơn và hiệu quả hơn. Có thể làm giảm việc sử dụng xe chạy bằng xăng. Di động thông minh sử dụng IoT để hỗ trợ người dùng giao tiếp giữa các phương tiện giao thông thông qua mạng không dây.
+Smart transportation is the integration of various forms of transportation (cars, trains, planes, etc.) and existing infrastructure to make travel safer, cleaner, and more efficient. It can reduce the use of gasoline-powered vehicles. Smart transportation utilizes IoT to facilitate communication between different modes of transportation through wireless networks.
 </p>
 <p align="justify">
-Di động thông minh sẽ phân tích dữ liệu theo thời gian thực và tự học máy để hỗ trợ điều tiết giao thông như: tự động tính toán và thay đổi thời gian tín hiệu đèn xanh đèn đỏ hay quản lý cơ sở hạ tầng vật lý như chỗ đỗ xe.
+Smart transportation will analyze real-time data and machine learning to assist in traffic regulation, such as automatically calculating and adjusting traffic signal timings or managing physical infrastructure like parking spaces.</p>
 
-Lợi ích mà di động thông minh đem lại
--	Giảm tai nạn giao thông.
--	Giảm tắc nghẽn giao thông.
--	Nền kinh tế được cải thiện.
--	Giảm ô nhiễm.
+Benefits of Smart Transportation:
+- Reduced traffic accidents.
+- Alleviated traffic congestion.
+- Improved economy.
+- Decreased pollution.
 
-</p>
-
-`Công dân thông minh`
+`Smart citizens`
 <p align="justify">
-Người dân phải có việc làm đầy đủ với thu nhập cao. Đây được coi là một trong số các yếu tố quyết định sự thành bại của Smart City.
-</p>
+Residents should have sufficient employment opportunities with high incomes. This is considered one of the determining factors for the success of a Smart City.</p>
 
 
 # 4. HIỆN TRẠNG HÀ NỘI
