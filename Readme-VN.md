@@ -302,6 +302,7 @@ Giao thông luôn được coi là huyết mạch của mỗi đô thị hay m�
 <p align="justify">
 Hệ thống ITS là sự tích hợp giữa cơ sở hạ tầng GTVT với công nghệ thông tin hỗ trợ quản lý, vận hành hạ tầng giao thông một cách hiệu quả, đảm bảo an toàn giao thông, giảm thời gian và chi phí đi lại, bảo vệ môi trường.
 </p>
+
 Các chức năng chính của ITS bao gồm:
 - Quản lý, điều hành vận tải.
 - Giám sát tình trạng giao thông.
