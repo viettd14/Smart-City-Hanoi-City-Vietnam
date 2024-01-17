@@ -109,8 +109,9 @@ Thành phố thông minh là nơi thực hiện chiến lược phát triển t�
   <em>Hình 1: 6 tiêu chí của Smart City</em>
 </p>
 
+`Chính phủ thông minh (chính phủ điện tử):`
 <p align="justify">
-`Chính phủ thông minh (chính phủ điện tử):` Xây dựng đô thị thông minh phải gắn kết, không được tách rời việc phát triển chính quyền điện tử. Lấy chính quyền điện tử làm nòng cốt để xây dựng đô thị thông minh (ĐTTM) tạo điều kiện thuận lợi nhất cho người dân và doanh nghiệp khi giao tiếp với cơ quan chính quyền.
+Xây dựng đô thị thông minh phải gắn kết, không được tách rời việc phát triển chính quyền điện tử. Lấy chính quyền điện tử làm nòng cốt để xây dựng đô thị thông minh (ĐTTM) tạo điều kiện thuận lợi nhất cho người dân và doanh nghiệp khi giao tiếp với cơ quan chính quyền.
 </p>
 <p align="justify">
 Người dân phải được cung cấp các ứng dụng để giao tiếp với chính quyền và mọi ý kiến phản ánh của người dân phải được giải đáp nhanh và thoả đáng. Mục tiêu là làm giảm chi phí cung cấp các dịch vụ công, đảm bảo sự liên lạc tốt hơn giữa chính phủ với công dân bằng cách làm cho người dân dễ dàng tiếp cận với chính phủ thông qua web hoặc các ứng dụng mà chính phủ cung cấp. Từ đó, người dân giảm thiểu thời gian và chi phí trong quá trình thực hiện một giao dịch hoặc yêu cầu với chính phủ hoặc cơ quan quản lý.
@@ -118,8 +119,10 @@ Người dân phải được cung cấp các ứng dụng để giao tiếp v�
 <p align="justify">
 Chính phủ cũng cung cấp các dịch vụ điện tử để hỗ trợ doanh nghiệp như: các chính sách, các quy định, thể chế, truy xuất các thông tin về kinh doanh (quy hoạch sử dụng đất, phát triển đô thị, đấu thầu, xây dựng, ...), tải các mẫu đơn, gia hạn giấy phép, đăng ký kinh doanh, xin cấp phép và nộp thuế.
 </p>
+
+`Kinh tế thông minh`
 <p align="justify">
-`Kinh tế thông minh` là qui trình và công nghệ mà các doanh nghiệp dùng để kiểm soát dữ liệu, khai phá tri thức giúp cho các doanh nghiệp có thể đưa các các quyết định hiệu quả hơn trong hoạt động kinh doanh của mình. Công nghệ kinh doanh thông minh cung cấp một cách nhìn toàn cảnh hoạt động của doanh nghiệp từ quá khứ, hiện tại và các dự đoán tương lai. Một số hoạt động của kinh tế thông minh như: marketing online, sale online, sử dụng một số phần mềm để quản lý nhân viên, sản phẩm,…
+ là qui trình và công nghệ mà các doanh nghiệp dùng để kiểm soát dữ liệu, khai phá tri thức giúp cho các doanh nghiệp có thể đưa các các quyết định hiệu quả hơn trong hoạt động kinh doanh của mình. Công nghệ kinh doanh thông minh cung cấp một cách nhìn toàn cảnh hoạt động của doanh nghiệp từ quá khứ, hiện tại và các dự đoán tương lai. Một số hoạt động của kinh tế thông minh như: marketing online, sale online, sử dụng một số phần mềm để quản lý nhân viên, sản phẩm,…
 </p>
 <p align="justify">
 `Môi trường thông minh` sử dụng các thiết bị thông minh khác nhau để làm cho cuộc sống của người dân thoải mái hơn bằng cách thay thế công việc nguy hiểm, lao động chân tay và các nhiệm vụ lặp đi lặp lại bằng các máy móc hoặc thiết bị tự động. Các loại môi trường thông minh:
@@ -132,13 +135,15 @@ Tính năng:
 - Thu thập thông tin từ các cảm biến.
 - IOT.
 - Khả năng dự đoán và ra quyết định.
+</p>
 
-</p>
+`Cuộc sống thông minh`
 <p align="justify">
-`Cuộc sống thông minh` nhằm mục đích tăng chất lượng cuộc sống cho người dân và du khách bằng cách đưa các công nghệ vào đời sống của mọi người như: wifi, điện thoại di động, hoặc các thiết bị hỗ trợ kết nối xã hội. Cung cấp các dịch vụ cải thiện chăm sóc sức khỏe và chăm sóc người già (ví dụ như eHealth, Ambient Living Living), nhà thông minh.
+Nhằm mục đích tăng chất lượng cuộc sống cho người dân và du khách bằng cách đưa các công nghệ vào đời sống của mọi người như: wifi, điện thoại di động, hoặc các thiết bị hỗ trợ kết nối xã hội. Cung cấp các dịch vụ cải thiện chăm sóc sức khỏe và chăm sóc người già (ví dụ như eHealth, Ambient Living Living), nhà thông minh.
 </p>
+`Di động thông minh (giao thông)`
 <p align="justify">
-`Di động thông minh (giao thông)` là sự tích hợp các hình thức vận chuyển (xe, tàu, máy bay..) và cơ sở hạ tầng hiện có để làm cho việc đi lại an toàn hơn, sạch hơn và hiệu quả hơn. Có thể làm giảm việc sử dụng xe chạy bằng xăng. Di động thông minh sử dụng IoT để hỗ trợ người dùng giao tiếp giữa các phương tiện giao thông thông qua mạng không dây.
+Là sự tích hợp các hình thức vận chuyển (xe, tàu, máy bay..) và cơ sở hạ tầng hiện có để làm cho việc đi lại an toàn hơn, sạch hơn và hiệu quả hơn. Có thể làm giảm việc sử dụng xe chạy bằng xăng. Di động thông minh sử dụng IoT để hỗ trợ người dùng giao tiếp giữa các phương tiện giao thông thông qua mạng không dây.
 </p>
 <p align="justify">
 Di động thông minh sẽ phân tích dữ liệu theo thời gian thực và tự học máy để hỗ trợ điều tiết giao thông như: tự động tính toán và thay đổi thời gian tín hiệu đèn xanh đèn đỏ hay quản lý cơ sở hạ tầng vật lý như chỗ đỗ xe.
@@ -150,8 +155,10 @@ Lợi ích mà di động thông minh đem lại
 -	Giảm ô nhiễm.
 
 </p>
+
+`Công dân thông minh`
 <p align="justify">
-`Công dân thông minh` người dân phải có việc làm đầy đủ với thu nhập cao. Đây được coi là một trong số các yếu tố quyết định sự thành bại của Smart City.
+Người dân phải có việc làm đầy đủ với thu nhập cao. Đây được coi là một trong số các yếu tố quyết định sự thành bại của Smart City.
 </p>
 
 
