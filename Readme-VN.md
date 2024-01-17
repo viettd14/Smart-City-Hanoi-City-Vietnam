@@ -185,12 +185,12 @@ Kỳ họp thứ năm của Hội đồng Nhân dân thành phố Hà Nội ngà
 <p align="center">
   <em>Hình 2: Hà Nội định hướng xây dựng Smart City 2030</em>
 </p>
-Hà Nội đã ưu tiên lựa chọn 4 lĩnh vực là y tế, giáo dục, giao thông và du lịch trong việc xây dựng Smart City. Và năm 2017, cả 4 vấn đề trên đã bắt đầu được triển khai kết hợp với việc xây dựng chính phủ điện tử, cải cách hành chính, làm nền tảng cho xây dựng Smart City.  
-Về giao thông vận tải nội đô, Hà Nội đã đưa ứng dụng Iparking thông minh, tiện lợi vào hoạt động để giúp người sử dụng tìm kiếm và trả tiền đậu ôtô qua điện thoại, ứng dụng này đã được triển khai trên tất cả các quận của Hà Nội.  
-Đồng thời, hệ thống bản đồ số giao thông Hà Nội cũng đang được gấp rút đưa vào sử dụng nhằm cung cấp cho người dân và du khách các thông tin về tình trạng giao thông, quản lý vận tải hành khách công cộng trên địa bàn.
-Về giáo dục, hệ thống sổ điểm, sổ liên lạc điện tử đã được sử dụng cùng hệ thống tuyển sinh trực tuyến với hơn 2.700 trường học, 250.000 gia đình tham gia với hơn 6,3 triệu lượt truy cập vào cổng tuyển sinh đầu cấp trực tuyến tham gia. Hiện tỷ lệ đăng ký hồ sơ trực tuyến của cả 3 cấp học cấp đạt 70,68%...  
-Về công tác quản lý y tế, Hà Nội là địa phương đầu tiên triển khai diện rộng hệ thống quản lý hồ sơ sức khoẻ điện tử. Hiện đã lập được gần 900.000 hồ sơ.  
-Ngoài ra, cơ sở dữ liệu hơn 8 triệu dân Thủ đô đã được xây dựng để triển khai các ứng dụng, dịch vụ phục vụ công dân, doanh nghiệp và công tác điều hành của thành phố. Cổng giao tiếp điện tử thành phố cũng cung cấp thông tin về quan trắc không khí, môi trường nước hồ Tây, lượng mưa, bản đồ úng ngập...
+<p align="justify">Hà Nội đã ưu tiên lựa chọn 4 lĩnh vực là y tế, giáo dục, giao thông và du lịch trong việc xây dựng Smart City. Và năm 2017, cả 4 vấn đề trên đã bắt đầu được triển khai kết hợp với việc xây dựng chính phủ điện tử, cải cách hành chính, làm nền tảng cho xây dựng Smart City.</p>
+<p align="justify">Về giao thông vận tải nội đô, Hà Nội đã đưa ứng dụng Iparking thông minh, tiện lợi vào hoạt động để giúp người sử dụng tìm kiếm và trả tiền đậu ôtô qua điện thoại, ứng dụng này đã được triển khai trên tất cả các quận của Hà Nội.</p>
+<p align="justify">Đồng thời, hệ thống bản đồ số giao thông Hà Nội cũng đang được gấp rút đưa vào sử dụng nhằm cung cấp cho người dân và du khách các thông tin về tình trạng giao thông, quản lý vận tải hành khách công cộng trên địa bàn.</p>
+<p align="justify">Về giáo dục, hệ thống sổ điểm, sổ liên lạc điện tử đã được sử dụng cùng hệ thống tuyển sinh trực tuyến với hơn 2.700 trường học, 250.000 gia đình tham gia với hơn 6,3 triệu lượt truy cập vào cổng tuyển sinh đầu cấp trực tuyến tham gia. Hiện tỷ lệ đăng ký hồ sơ trực tuyến của cả 3 cấp học cấp đạt 70,68%...</p>
+<p align="justify">Về công tác quản lý y tế, Hà Nội là địa phương đầu tiên triển khai diện rộng hệ thống quản lý hồ sơ sức khoẻ điện tử. Hiện đã lập được gần 900.000 hồ sơ.</p>
+<p align="justify">Ngoài ra, cơ sở dữ liệu hơn 8 triệu dân Thủ đô đã được xây dựng để triển khai các ứng dụng, dịch vụ phục vụ công dân, doanh nghiệp và công tác điều hành của thành phố. Cổng giao tiếp điện tử thành phố cũng cung cấp thông tin về quan trắc không khí, môi trường nước hồ Tây, lượng mưa, bản đồ úng ngập...</p>
 
 ## 4.2. KHÓ KHĂN
 <a name="khokhan"></a>
