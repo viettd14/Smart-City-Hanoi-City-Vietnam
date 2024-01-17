@@ -6,8 +6,8 @@
 1. [DANH MỤC TỪ VIẾT TẮT](#danhmuctuviettat)
 2. [ĐẶT VẤN ĐỀ](#datvande)
 3. [KHÁI NIỆM](#khainiem)  
-   3.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#11)  
-   3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#12)  
+   3.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#thanhphothongminhlagi)  
+   3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#nhungtieuchidanhgiathanhphothongminh)  
 4. [HIỆN TRẠNG HÀ NỘI](#hientranghanoi)  
    4.1. [TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI](#tinhhinhphattriensmartcityhanoi)  
    4.2. [KHÓ KHĂN](#khokhan)  
@@ -81,6 +81,31 @@ Bên cạnh đó, nhận thức của người dân về phát triển thành ph
 
 
 
+#. 3. KHÁI NIỆM
+<a name="khainiem"></a>
+
+## 3.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#thanhphothongminhlagi)  
+<a name="thanhphothongminhlagi"></a>
+Thành phố thông minh là một thành phố luôn đổi mới và sáng tạo: sử dụng các công nghệ thông tin, truyền thông và các phương tiện khác để nâng cao chất lượng cuộc sống, hiệu quả hoạt động – dịch vụ đô thị, tính cạnh tranh, đồng thời đảm bảo đáp ứng được nhu cầu của các thế hệ hiện tại và tương lai về các khía cạnh kinh tế, xã hội, môi trường và văn hóa.
+Thành phố thông minh là nơi thực hiện chiến lược phát triển tổng thể, thống nhất dựa trên các công nghệ và giải pháp thông minh với từ 5 – 8 thành phần: công dân thông minh, năng lượng thông minh, chăm sóc sức khỏe thông minh, tòa nhà thông minh, di động thông minh, cơ sở hạ tầng, công nghệ và điều hành thông minh của chính quyền và giáo dục thông minh.
+
+## 3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#nhungtieuchidanhgiathanhphothongminh)
+<a name="nhungtieuchidanhgiathanhphothongminh"></a>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/DLOxOjz.png" alt="6 tiêu chí của Smart City">
+</p>
+<p align="center">
+  <em>Hình 1: 6 tiêu chí của Smart City</em>
+</p>
+
+`**Chính phủ thông minh (chính phủ điện tử):**` Xây dựng đô thị thông minh phải gắn kết, không được tách rời việc phát triển chính quyền điện tử. Lấy chính quyền điện tử làm nòng cốt để xây dựng đô thị thông minh (ĐTTM) tạo điều kiện thuận lợi nhất cho người dân và doanh nghiệp khi giao tiếp với cơ quan chính quyền.  
+Người dân phải được cung cấp các ứng dụng để giao tiếp với chính quyền và mọi ý kiến phản ánh của người dân phải được giải đáp nhanh và thoả đáng. Mục tiêu là làm giảm chi phí cung cấp các dịch vụ công, đảm bảo sự liên lạc tốt hơn giữa chính phủ với công dân bằng cách làm cho người dân dễ dàng tiếp cận với chính phủ thông qua web hoặc các ứng dụng mà chính phủ cung cấp. Từ đó, người dân giảm thiểu thời gian và chi phí trong quá trình thực hiện một giao dịch hoặc yêu cầu với chính phủ hoặc cơ quan quản lý.  
+Chính phủ cũng cung cấp các dịch vụ điện tử để hỗ trợ doanh nghiệp như: các chính sách, các quy định, thể chế, truy xuất các thông tin về kinh doanh (quy hoạch sử dụng đất, phát triển đô thị, đấu thầu, xây dựng, ...), tải các mẫu đơn, gia hạn giấy phép, đăng ký kinh doanh, xin cấp phép và nộp thuế.  
+
+
+
+
+    
 # 8. NGUỒN THAM KHẢO
 <a name="nguonthamkhao"></a>
 
