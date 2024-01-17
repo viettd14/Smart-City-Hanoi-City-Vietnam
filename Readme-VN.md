@@ -150,6 +150,7 @@ Tính năng:
 <p align="justify">
 Nhằm mục đích tăng chất lượng cuộc sống cho người dân và du khách bằng cách đưa các công nghệ vào đời sống của mọi người như: wifi, điện thoại di động, hoặc các thiết bị hỗ trợ kết nối xã hội. Cung cấp các dịch vụ cải thiện chăm sóc sức khỏe và chăm sóc người già (ví dụ như eHealth, Ambient Living Living), nhà thông minh.
 </p>
+
 `Di động thông minh (giao thông)`
 <p align="justify">
 Là sự tích hợp các hình thức vận chuyển (xe, tàu, máy bay..) và cơ sở hạ tầng hiện có để làm cho việc đi lại an toàn hơn, sạch hơn và hiệu quả hơn. Có thể làm giảm việc sử dụng xe chạy bằng xăng. Di động thông minh sử dụng IoT để hỗ trợ người dùng giao tiếp giữa các phương tiện giao thông thông qua mạng không dây.
