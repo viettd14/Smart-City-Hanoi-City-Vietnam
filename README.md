@@ -4,7 +4,7 @@
 
 # TABLE OF CONTENTS
 1. [ACRONYMS](#acronyms)
-2. [ĐẶT VẤN ĐỀ](#datvande)
+2. [INTRODUCTION](#introduction)
 3. [KHÁI NIỆM](#khainiem)  
    3.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#thanhphothongminhlagi)  
    3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#nhungtieuchidanhgiathanhphothongminh)  
@@ -65,19 +65,19 @@
 
 
 
-# 2. ĐẶT VẤN ĐỀ
-<a name="datvande"></a>
+# 2. INTRODUCTION
+<a name="introduction"></a>
 <p align="justify">
-Ở Việt Nam, cùng với quá trình đô thị hóa, số lượng người dân tập trung sinh sống và làm việc tại các thành phố lớn như Hà Nội, TP. HCM, Đà Nẵng ngày càng tăng. Việc gia tăng dân số đã ảnh hưởng đáng kể đến sự phát triển của các thành phố, bởi tình trạng ô nhiễm môi trường, thiếu thốn các nguồn lực như: Nước sạch, đất đai, không gian và năng lượng...
+In Vietnam, alongside the urbanization process, the concentration of the population in major cities such as Hanoi, Ho Chi Minh City, and Da Nang is increasing. The rise in population has significantly impacted the development of these cities, leading to environmental pollution and shortages of resources such as clean water, land, space, and energy.
 </p>
 <p align="justify">
-Thực tế cho thấy, các đô thị ở Việt Nam ngày càng phát triển mạnh mẽ nhất là trong bối cảnh cuộc Cách mạng công nghiệp 4.0. Sự phát triển đô thị bắt buộc phải đi kèm với thông minh để đáp ứng được nhu cầu ngày càng cao của con người, việc xây dựng các đô thị thông minh đã ngày càng trở nên quan trọng đối với Việt Nam. Trong bối cảnh đó, ngày 1/8/2018, Thủ tướng Chính phủ ban hành Quyết định số 950/QĐ-TTg phê duyệt Đề án Phát triển đô thị thông minh bền vững Việt Nam giai đoạn 2018 – 2025 và định hướng đến năm 2030.
+The reality demonstrates that urban areas in Vietnam are experiencing robust development, particularly in the context of the Fourth Industrial Revolution. Urban development must align with smart solutions to meet the escalating needs of the population. The construction of smart cities has become increasingly crucial for Vietnam. In this context, on August 1, 2018, the Prime Minister issued Decision No. 950/QD-TTg approving the Sustainable Smart Urban Development Project in Vietnam for the period 2018–2025 with a vision to 2030.
 </p>
 <p align="justify">
-Tuy nhiên, hiện nay việc xây dựng và phát triển thành phố thông minh (Smart City) ở Việt Nam đang đối diện với không ít thách thức nảy sinh như: hội nhập, cạnh tranh đô thị, biến đổi khí hậu, nước biển dâng cao, phát triển bền vững đi kèm với tăng trưởng xanh. Các vấn đề phức tạp của quá trình đô thị hóa và phát triển đô thị như chênh lệch giàu nghèo, nhà ở, lao động, việc làm; phát triển vùng ven đô, liên kết đô thị - nông thôn (liên kết vùng), tiết kiệm nguồn tài nguyên thiên nhiên…
+However, the current construction and development of smart cities (Smart City) in Vietnam are facing numerous challenges such as integration, urban competition, climate change, rising sea levels, and sustainable development coupled with green growth. Complex issues arising from the urbanization process and urban development, including wealth disparity, housing, employment, suburban development, urban-rural connectivity (regional connectivity), and conservation of natural resources, pose significant challenges.
 </p>
 <p align="justify">
-Bên cạnh đó, nhận thức của người dân về phát triển thành phố thông minh hiện còn ở mức hạn chế. Mặc dù, khái niệm thành phố thông minh xuất hiện gần 20 năm trên thế giới, nhưng đến nay vẫn còn nhiều tranh luận và chưa có sự thống nhất. Để đưa ra những gợi ý về phát triển TPTM cho Việt Nam, bài viết nghiên cứu các quan điểm về phát triển TPTM trên thế giới, thảo luận về mô hình phát triển đô thị thông minh ở Việt Nam và đề xuất một số kiến nghị.
+Additionally, public awareness regarding smart city development in Vietnam is currently limited. Despite the concept of smart cities having emerged nearly 20 years ago globally, there is still ongoing debate and a lack of consensus. To provide suggestions for the development of Smart City in Vietnam, this article explores perspectives on global smart city development, discusses the smart city development model in Vietnam, and proposes recommendations.
 </p>
 
 
