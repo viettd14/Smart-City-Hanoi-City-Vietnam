@@ -110,8 +110,21 @@ Tính năng:
 - Khả năng kết nối – giao tiếp giữa các thiết: sử dụng phần mềm trung gian hoặc các kết nối không dây để tạo thành một hệ thống.
 - Thu thập thông tin từ các cảm biến.
 - IOT.
-- Khả năng dự đoán và ra quyết định.  
-`Cuộc sống thông minh` nhằm mục đích tăng chất lượng cuộc sống cho người dân và du khách bằng cách đưa các công nghệ vào đời sống của mọi người như: wifi, điện thoại di động, hoặc các thiết bị hỗ trợ kết nối xã hội. Cung cấp các dịch vụ cải thiện chăm sóc sức khỏe và chăm sóc người già (ví dụ như eHealth, Ambient Living Living), nhà thông minh.
+- Khả năng dự đoán và ra quyết định.
+
+`Cuộc sống thông minh` nhằm mục đích tăng chất lượng cuộc sống cho người dân và du khách bằng cách đưa các công nghệ vào đời sống của mọi người như: wifi, điện thoại di động, hoặc các thiết bị hỗ trợ kết nối xã hội. Cung cấp các dịch vụ cải thiện chăm sóc sức khỏe và chăm sóc người già (ví dụ như eHealth, Ambient Living Living), nhà thông minh.  
+`Di động thông minh (giao thông)` là sự tích hợp các hình thức vận chuyển (xe, tàu, máy bay..) và cơ sở hạ tầng hiện có để làm cho việc đi lại an toàn hơn, sạch hơn và hiệu quả hơn. Có thể làm giảm việc sử dụng xe chạy bằng xăng. Di động thông minh sử dụng IoT để hỗ trợ người dùng giao tiếp giữa các phương tiện giao thông thông qua mạng không dây.  
+Di động thông minh sẽ phân tích dữ liệu theo thời gian thực và tự học máy để hỗ trợ điều tiết giao thông như: tự động tính toán và thay đổi thời gian tín hiệu đèn xanh đèn đỏ hay quản lý cơ sở hạ tầng vật lý như chỗ đỗ xe.  
+Lợi ích mà di động thông minh đem lại
+-	Giảm tai nạn giao thông.
+-	Giảm tắc nghẽn giao thông.
+-	Nền kinh tế được cải thiện.
+-	Giảm ô nhiễm.
+
+`Công dân thông minh` người dân phải có việc làm đầy đủ với thu nhập cao. Đây được coi là một trong số các yếu tố quyết định sự thành bại của Smart City.
+
+
+
 
 
 
