@@ -127,11 +127,32 @@ Lợi ích mà di động thông minh đem lại
 
 # 4. HIỆN TRẠNG HÀ NỘI
 <a name="hientranghanoi"></a>
+Hà Nội đã có những bước tiến bộ trong việc ứng dụng công nghệ thông tin, đây là tiền đề cơ bản để tiến tới xây dựng thành phố thông minh...
 
 ## 4.1. TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI(#)
 <a name="tinhhinhphattriensmartcityhanoi"></a>
+Kỳ họp thứ năm của Hội đồng Nhân dân thành phố Hà Nội ngày 4/12/2017 đã quyết định điều chỉnh mục tiêu ứng dụng công nghệ thông tin giai đoạn 2016 - 2020 nhằm hướng tới xây dựng Hà Nội trở thành một thành phố thông minh vào năm 2030.
+<a name="nhungtieuchidanhgiathanhphothongminh"></a>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/xyGSoQ1.png" alt="Hà Nội định hướng xây dựng Smart City 2030">
+</p>
+<p align="center">
+  <em>Hình 2: Hà Nội định hướng xây dựng Smart City 2030</em>
+</p>
+Hà Nội đã ưu tiên lựa chọn 4 lĩnh vực là y tế, giáo dục, giao thông và du lịch trong việc xây dựng Smart City. Và năm 2017, cả 4 vấn đề trên đã bắt đầu được triển khai kết hợp với việc xây dựng chính phủ điện tử, cải cách hành chính, làm nền tảng cho xây dựng Smart City.  
+Về giao thông vận tải nội đô, Hà Nội đã đưa ứng dụng Iparking thông minh, tiện lợi vào hoạt động để giúp người sử dụng tìm kiếm và trả tiền đậu ôtô qua điện thoại, ứng dụng này đã được triển khai trên tất cả các quận của Hà Nội.  
+Đồng thời, hệ thống bản đồ số giao thông Hà Nội cũng đang được gấp rút đưa vào sử dụng nhằm cung cấp cho người dân và du khách các thông tin về tình trạng giao thông, quản lý vận tải hành khách công cộng trên địa bàn.
+Về giáo dục, hệ thống sổ điểm, sổ liên lạc điện tử đã được sử dụng cùng hệ thống tuyển sinh trực tuyến với hơn 2.700 trường học, 250.000 gia đình tham gia với hơn 6,3 triệu lượt truy cập vào cổng tuyển sinh đầu cấp trực tuyến tham gia. Hiện tỷ lệ đăng ký hồ sơ trực tuyến của cả 3 cấp học cấp đạt 70,68%...  
+Về công tác quản lý y tế, Hà Nội là địa phương đầu tiên triển khai diện rộng hệ thống quản lý hồ sơ sức khoẻ điện tử. Hiện đã lập được gần 900.000 hồ sơ.  
+Ngoài ra, cơ sở dữ liệu hơn 8 triệu dân Thủ đô đã được xây dựng để triển khai các ứng dụng, dịch vụ phục vụ công dân, doanh nghiệp và công tác điều hành của thành phố. Cổng giao tiếp điện tử thành phố cũng cung cấp thông tin về quan trắc không khí, môi trường nước hồ Tây, lượng mưa, bản đồ úng ngập...
+
 ## 4.2. KHÓ KHĂN
 <a name="khokhan"></a>
+Do chiến tranh và thời kỳ bao cấp, đã làm cho Hà Nội chậm chân với hiện đại hóa sau nhiều thập niên. Ngày nay, Hà Nội đang không ngừng mở rộng, hướng tới vị thế của một đô thị quốc tế với khuynh hướng thông minh. Xu hướng toàn cầu hóa và bối cảnh cạnh tranh quyết liệt giữa các thành phố lớn, nhất là tại khu vực châu Á – Thái Bình Dương, đã và đang mang tới những đổi thay đáng kể cho Hà Nội trên nhiều lĩnh vực, đồng thời đặt ra các thách thức mới đối với công tác quản trị, tăng cường thu hút đầu tư, mở cửa hội nhập và chú trọng phát triển bền vững.  
+Tổng dân số và nhà ở trên địa bàn Hà Nội, tính đến 1/4/2019 dân số Hà Nội hơn 8 triệu người (2,22 triệu hộ dân cư). Trung bình mỗi năm, dân số Thủ đô tăng thêm khoảng 160.000 người, tương đương một huyện lớn. Gia tăng dân số đang tạo áp lực lên hệ thống cơ sở hạ tầng giao thông đô thị, y tế, giáo dục, môi trường, văn minh đô thị và nhà ở của Thủ đô.  
+Giao thông và logistics yếu kém chính là những vấn đề lớn nhất của Hà Nội. Các phương tiện công cộng như xe bus, lượng người sử dụng không nhiều, chủ yếu là ở học sinh, sinh viên và người lớn tuổi, hầu như mọi người đều sử dụng phương tiện cá nhân. Do đó, lượng xe cộ tham gia lưu thông quá lớn (khoảng 7 triệu xe máy và 1 triệu ô tô) đã khiến hạ tầng của Hà Nội phải chịu nhiều áp lực. Ngoài ra, thành phố cũng chứng kiến sự bùng nổ của các phương tiện mới như xe đạp, xe máy điện và hình thức vận tải công nghệ như Grap,… Tất cả đã làm cho tình trạng giao thông ở Hà Nội ngày càng tăng và phức tạp.
+
+
 ## 4.3. THÁCH THỨC
 <a name="thachthuc"></a>
 ## 4.4. CÁC YẾU TỐ CỐT LÕI ĐỂ HÀ NỘI ĐI LÊN SMART CITY
