@@ -255,7 +255,7 @@ The Smart City development plan for Hanoi is divided into three main stages:
 ### 5.1.1. BUILDING THE INTELLIGENT TRANSPORTATION SYSTEM (ITS)
 <a name="buildingtheintelligenttransportationsystem"></a>
 <p align="justify">
-Để phát triển được thành phố thông minh, Hà Nội bắt buộc phải phát triển được hệ thống giao thông thông minh. Với số lượng phương tiện giao thông đang ngày một tăng cao, điều này đã gây ra không ít khó khăn và trở ngại trong việc điều hành, quản lý trong giao thông Hà Nội, minh chứng là các tuyến phố, việc kẹt xe trở nên thường xuyên.
+To develop a smart city, Hanoi must establish an intelligent transportation system. With the increasing number of vehicles, this has posed numerous challenges and obstacles in the management and operation of Hanoi's traffic. This is evident in the frequent traffic congestions and gridlocks on the city's streets.
 <p align="center">
   <img width="600" src="https://i.imgur.com/DtxHnN4.png" alt="ITS là gì">
 </p>
