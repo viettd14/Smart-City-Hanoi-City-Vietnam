@@ -169,7 +169,7 @@ The fifth session of the Hanoi City People's Council on December 4, 2017, decide
   <img width="600" src="https://i.imgur.com/xyGSoQ1.png" alt="Hanoi's orientation towards building Smart City 2030">
 </p>
 <p align="center">
-  <em>Hình 2: Hanoi's orientation towards building Smart City 2030</em>
+  <em>Figure 2: Hanoi's orientation towards building Smart City 2030</em>
 </p>
 <p align="justify">Hanoi has prioritized four sectors: healthcare, education, transportation, and tourism in building Smart City. In 2017, all these areas began implementation, combined with the development of e-government, administrative reform, forming the foundation for building a Smart City.</p>
 <p align="justify">In terms of urban transportation, Hanoi has introduced the Iparking smart application for convenient car parking, allowing users to find and pay for parking through their phones. This application has been deployed in all districts of Hanoi.</p>
@@ -243,98 +243,96 @@ The Smart City development plan for Hanoi is divided into three main stages:
 ## 5.1. SMART TRAFFIC
 <a name="smarttraffic"></a>
 <p align="justify">
-Để phát triển được thành phố thông minh, Hà Nội bắt buộc phải phát triển được hệ thống giao thông thông minh. Với số lượng phương tiện giao thông đang ngày một tăng cao, điều này đã gây ra không ít khó khăn và trở ngại trong việc điều hành, quản lý trong giao thông Hà Nội, minh chứng là các tuyến phố, việc kẹt xe trở nên thường xuyên.
+To develop a smart city, Hanoi must establish an intelligent transportation system. With the increasing number of vehicles, this has posed numerous challenges and obstacles in the management and operation of Hanoi's traffic. This is evident in the frequent traffic congestions and gridlocks on the city's streets.
 </p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/ELyL8zW.png" alt="Giao thông của Hà Nội ngày càng phức tạp">
+  <img width="600" src="https://i.imgur.com/ELyL8zW.png" alt="The traffic situation in Hanoi is becoming increasingly complex.">
 </p>
 <p align="center">
-  <em>Hình 3: Giao thông của Hà Nội ngày càng phức tạp</em>
+  <em>Figure 3: The traffic situation in Hanoi is becoming increasingly complex.</em>
 </p>
 
 ### 5.1.1. BUILDING THE INTELLIGENT TRANSPORTATION SYSTEM (ITS)
 <a name="buildingtheintelligenttransportationsystem"></a>
 <p align="justify">
-To develop a smart city, Hanoi must establish an intelligent transportation system. With the increasing number of vehicles, this has posed numerous challenges and obstacles in the management and operation of Hanoi's traffic. This is evident in the frequent traffic congestions and gridlocks on the city's streets.
+To develop a smart city, Hanoi must develop a smart transportation system. With the increasing number of vehicles, this has caused numerous difficulties and obstacles in the management and operation of traffic in Hanoi, evidenced by frequent traffic jams on various streets.
 <p align="center">
-  <img width="600" src="https://i.imgur.com/DtxHnN4.png" alt="ITS là gì">
+  <img width="600" src="https://i.imgur.com/DtxHnN4.png" alt="What is ITS?">
 </p>
 <p align="center">
-  <em>Hình 4: ITS là gì?</em>
+  <em>Figure 4: What is ITS?</em>
 </p>
 </p>
 <p align="justify">
-Giao thông luôn được coi là huyết mạch của mỗi đô thị hay mỗi quốc gia. Đối với bất kỳ một thành phố nào, việc phát triển hạ tầng giao thông luôn là lựa chọn hàng đầu trong việc phát triển của thành phố. Cũng chính vì vậy, giao thông thông minh (ITS) là một trong những thành phần quan trọng nhất để hình thành nên Smart City.
-</p>
+Traffic is always considered the lifeblood of every city or country. For any city, developing transportation infrastructure is a top priority for its overall development. Therefore, Intelligent Transportation Systems (ITS) is one of the most crucial components in shaping a Smart City.</p>
 <p align="justify">
-Hệ thống ITS là sự tích hợp giữa cơ sở hạ tầng GTVT với công nghệ thông tin hỗ trợ quản lý, vận hành hạ tầng giao thông một cách hiệu quả, đảm bảo an toàn giao thông, giảm thời gian và chi phí đi lại, bảo vệ môi trường.</p>
+The ITS system is an integration of transportation infrastructure with information technology to efficiently manage and operate the transportation infrastructure. It ensures traffic safety, reduces travel time and costs, and protects the environment.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/ZdKF46l.png" alt="những công nghệ được sử dụng trong ITS">
+  <img width="600" src="https://i.imgur.com/ZdKF46l.png" alt="The technologies used in ITS">
 </p>
 <p align="center">
-  <em>Hình 5: những công nghệ được sử dụng trong ITS</em>
+  <em>Figure 5: The technologies used in ITS</em>
 </p>
 <p align="justify">
-Giao thông luôn được coi là huyết mạch của mỗi đô thị hay mỗi quốc gia. Đối với bất kỳ một thành phố nào, việc phát triển hạ tầng giao thông luôn là lựa chọn hàng đầu trong việc phát triển của thành phố. Cũng chính vì vậy, giao thông thông minh (ITS) là một trong những thành phần quan trọng nhất để hình thành nên Smart City.
-</p>
+Traffic is always considered the lifeblood of every city or nation. For any city, developing transportation infrastructure is always a top choice for its development. Therefore, Intelligent Transportation System (ITS) is one of the most important components in forming a Smart City.</p>
 <p align="justify">
-Hệ thống ITS là sự tích hợp giữa cơ sở hạ tầng GTVT với công nghệ thông tin hỗ trợ quản lý, vận hành hạ tầng giao thông một cách hiệu quả, đảm bảo an toàn giao thông, giảm thời gian và chi phí đi lại, bảo vệ môi trường.
+The ITS system is the integration of transportation infrastructure with information technology to support the efficient management and operation of transportation infrastructure, ensuring traffic safety, reducing travel time and costs, and protecting the environment.</p>
+
+The main functions of ITS include:
+- Transportation management and operation.
+- Monitoring traffic conditions.
+- Ensuring traffic safety and order.
+- Automatic road toll collection: modernizing automatic toll collection booths and electronic weigh stations.
+- Traffic control management.
+- Traffic information system.
+  
+<p align="center">
+  <img width="600" src="https://i.imgur.com/BH3luqx.png" alt="The functions of ITS">
+</p>
+<p align="center">
+  <em>Figure 6: The functions of ITS</em>
 </p>
 
-Các chức năng chính của ITS bao gồm:
-- Quản lý, điều hành vận tải.
-- Giám sát tình trạng giao thông.
-- Đảm bảo trật tự an toàn giao thông.
-- Thu phí đường bộ tự động: hiện đại hoá các trạm thu phí tự động và trạm cân điện tử.
-- Quản lý điều khiển giao thông.
-- Hệ thống thông tin giao thông
+The Development Path of ITS System in Hanoi
 <p align="center">
-  <img width="600" src="https://i.imgur.com/BH3luqx.png" alt="chức năng của ITS">
+  <img width="600" src="https://i.imgur.com/xpJ7tzH.png" alt="The Development Path of ITS System in Hanoi">
 </p>
 <p align="center">
-  <em>Hình 6: chức năng của ITS</em>
-</p>
-
-Lộ trình phát triển hệ thống ITS tại Hà Nội
-<p align="center">
-  <img width="600" src="https://i.imgur.com/xpJ7tzH.png" alt="lộ trình phát triển hệ thống ITS">
-</p>
-<p align="center">
-  <em>Hình 7: lộ trình phát triển hệ thống ITS</em>
+  <em>Figure 7: The Development Path of ITS System in Hanoi</em>
 </p>
 
 ### 5.1.2. DEPLOYMENT OF ITS ON SELECTED ROADS
 <a name="deploymentofitsonselectedroads"></a>
-`Cao tốc Hà Nội - Hải Phòng`  
-Bao gồm 9 hệ thống riêng, được chia làm 3 mảng rõ rệt bao gồm:
-- Mảng giám sát giao thông: hệ thống camera CCTV dọc tuyến, camera dò xe, hệ thống giám sát tải trọng xe, hệ thống biển báo hiệu điện tử và Trung tâm điều hành tuyến. (hệ thống bao gồm 58 camera và trung tâm làm việc 24/7)
-- Mảng tiếp theo là mảng thu phí: gồm hệ thống thu phí khép kín, hệ thống điện thoại liên lạc nội bộ.
-- Cuối cùng là mảng phụ trợ bao gồm hệ thống truyền dẫn, hệ thống cung cấp nguồn, và hệ thống bổ sung như loa phát thanh, camera giám sát cầu vượt.
+`Hanoi - Hai Phong Expressway`
+
+It comprises 9 separate systems, clearly divided into 3 distinct categories, including:
+- Traffic monitoring system: CCTV cameras along the route, vehicle detection cameras, vehicle load monitoring system, electronic traffic signs, and the route control center. (the system includes 58 cameras and operates 24/7)
+- The next category is the toll collection system, including a closed toll collection system and an internal communication phone system.
+- Finally, the supporting category includes the transmission system, power supply system, and supplementary systems such as public address speakers and overpass surveillance cameras.
   
-`Cao tốc Hà Nội – Lào Cai`  
+`Hanoi - Lao Cai Expressway`  
 <p align="justify">
-Với 110 camera giao thông được lắp trên cao tốc Hà Nội - Lào Cai để giám sát, phân tích, đánh giá, theo dõi lượng phương tiện hoạt động trên tuyến; tích hợp được dữ liệu các loại xe như dữ liệu đăng ký xe, dữ liệu quản lý Giấy phép lái xe, dữ liệu đăng kiểm, dữ liệu xe tang vật xe mất cắp; hệ thống giám sẽ tự động phát hiện các xe sử dụng biển số giả, các xe gây tai nạn bỏ chạy, các xe quá niên hạn sử dụng, xe mất cắp. Đồng thời quan sát, ghi nhận các phương tiện trên tuyến tại các điểm phức tạp về trật tự giao thông...
+With 110 traffic cameras installed on the Hanoi - Lao Cai expressway for monitoring, analyzing, evaluating, and tracking the volume of vehicles on the route. It integrates data on various types of vehicles, such as vehicle registration data, driver's license management data, inspection data, and data on stolen vehicles. The monitoring system will automatically detect vehicles using fake license plates, hit-and-run vehicles, vehicles exceeding the age limit, and stolen vehicles. It also observes and records vehicles on the route at complex traffic points.</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/tBaR2GF.png" alt="The system of 110 cameras on the Hanoi – Lao Cai expressway">
 </p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/tBaR2GF.png" alt="hệ thống 110 camera tại cao tốc Hà Nội – Lào Cai">
-</p>
-<p align="center">
-  <em>Hình 8: hệ thống 110 camera tại cao tốc Hà Nội – Lào Cai</em>
+  <em>Figure 8: The system of 110 cameras on the Hanoi – Lao Cai expressway</em>
 </p>
 
-`Nội đô Hà Nội` 
-<p align="justify">Hiện Hà Nội có khoảng 400 camera kết nối với 46 màn hình đặt tại Trung tâm điều khiển đèn tín hiệu giao thông Hà Nội. Khi các tín hiệu báo về cho thấy có ùn tắc hay sự cố ở tuyến đường nào, trung tâm sẽ xác định hướng phân luồng để giải quyết nhanh nhất.</p>
-<p align="justify">Sắp tới, Công an TP. Hà Nội sẽ phối hợp với Sở Giao thông vận tải tiếp tục kiến nghị việc phát triển thêm các thiết bị ngoại vi và hệ thống ưu tiên xe bus, xe cứu thương, xe chữa cháy… để tối ưu hóa về mặt giao thông.</p>
-<p align="justify">Hệ thống ưu tiên này đang được triển khai thử nghiệm tại tuyến xe bus Kim Mã - Yên Nghĩa. Trên tuyến đường này, khi xe bus đi qua những điểm giao cắt có tín hiệu đèn đỏ, tín hiệu đèn sẽ mở ưu tiên cho xe bus đi qua nhằm giảm tối đa thời gian xe bus di chuyển từ điểm đầu đến điểm cuối, tránh ùn tắc giao thông.</p>
+`Inner Hanoi` 
+<p align="justify">Currently, Hanoi has about 400 cameras connected to 46 screens located at the Hanoi Traffic Signal Control Center. When signals indicate congestion or issues on a particular road, the center will determine the traffic flow direction to resolve the situation promptly.</p>
+<p align="justify">In the near future, the Hanoi Police will collaborate with the Department of Transport to propose further development of peripheral devices and priority systems for buses, ambulances, firefighting vehicles, etc., to optimize traffic conditions.</p>
+<p align="justify">This priority system is currently being tested on the Kim Ma - Yen Nghia bus route. On this route, when a bus passes through intersections with red traffic lights, the signal will prioritize the bus to minimize the travel time from the starting point to the destination, avoiding traffic congestion as much as possible.</p>
   
 ### 5.1.3. VOV'S CCTV SYSTEM
 <a name="vovcctvsystem"></a>
-<p align="justify">Hệ thống giám sát đường bộ thông qua các camera được lắp đặt trên tất cả các tuyến phố của Hà Nội của đài tiếng nói Việt Nam (VOV). Các hình ảnh mà hệ thống thu thập được sẽ truyền đi theo thời gian thực đến các cơ quan công an và hệ thống VOV như: tình trạng kẹt xe, tai nạn giao thông hoặc các công trường xây dựng gây ảnh hưởng tới giao thông, và đài VOV sẽ thông báo tới người dùng thông qua báo đài, internet hoặc trực tiếp trên hệ thống radio của xe.</p>
+<p align="justify">The road monitoring system utilizes cameras installed on all streets of Hanoi by the Voice of Vietnam (VOV) radio station. The images collected by the system are transmitted in real-time to law enforcement agencies and the VOV system, providing information on traffic jams, accidents, or construction sites affecting traffic. VOV will then notify users through radio broadcasts, the internet, or directly on the radio system of vehicles.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/kxQBXhG.png" alt="CCTV của VOV">
+  <img width="600" src="https://i.imgur.com/kxQBXhG.png" alt="VOV's CCTV">
 </p>
 <p align="center">
-  <em>Hình 9: CCTV của VOV</em>
+  <em>Figure 9: CVOV's CCTV</em>
 </p>
 
 ### 5.1.4. TRAFFIC SIGNAL CONTROL SYSTEM
