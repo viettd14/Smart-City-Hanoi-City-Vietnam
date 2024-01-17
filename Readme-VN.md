@@ -43,8 +43,17 @@
       - [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)  
 8. [TÀI LIỆU THAM KHẢO](#tailieuthamkhao)
 
-# DANH MỤC TỪ VIẾT TẮT
+# 1. DANH MỤC TỪ VIẾT TẮT
 <a name="danhmuctuviettat"></a>
 
-
+| STT | Từ khóa | Từ viết tắt |
+|:---:|:-------:|:-----------:|
+| 1 | Công nghệ thông tin | CNTT |
+| 2 | Hệ thống giám sát bằng camera | CCTV |
+| 3 | Công nghệ thông tin | CNTT |
+| 4 | Đô thị thông minh/ Thành phố thông minh | ĐTTM/ TPTM |
+| 5 |  |  |
+| 6 |  |  |
+|  |  |  |
+|  |  |  |
 
