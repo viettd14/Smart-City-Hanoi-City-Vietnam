@@ -232,7 +232,8 @@ The Smart City development plan for Hanoi is divided into three main stages:
   - Formation of a digital economy.
 - Stage 3 (2025-2030):
   - Hanoi aims to become a highly developed Smart City.
-  - These stages indicate a progressive development approach, starting with the establishment of fundamental components, moving towards citizen-centric urban planning and the integration of advanced technologies, and finally, achieving a high level of smart city development by 2030.
+
+<p align="justify">These stages indicate a progressive development approach, starting with the establishment of fundamental components, moving towards citizen-centric urban planning and the integration of advanced technologies, and finally, achieving a high level of smart city development by 2030.</p>
     
 
 
