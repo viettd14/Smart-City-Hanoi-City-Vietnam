@@ -44,7 +44,8 @@
       - [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
       - [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)
          
-6. [NGUỒN THAM KHẢO](#nguonthamkhao)
+6. [NHẬN XÉT](#nhanxet)
+7. [NGUỒN THAM KHẢO](#nguonthamkhao)
 
 
 
@@ -570,47 +571,83 @@ Cá nhân, tổ chức dễ dàng truy cập Cổng Dịch vụ công Quốc gia
 `https://quyhoach.hanoi.vn/`  
 Bản đồ qui hoạch này, cung cấp thông tin qui hoạch đất ở Hà Nội tới năm 2030.  
 <p align="justify">Phù hợp với những người đầu tư bất động sản hoặc mua đất, mua nhà để ở. Trên bản đồ, thể hiện rõ về quy hoạch chi tiết, phân lô, phân cụm, phân chia đất công – tư – quân đội rõ ràng.</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/z1Qj6Vy.png" alt="Bản đồ quy hoạch đất đai ở Hà Nội">
+</p>
+<p align="center">
+  <em>Hình 16: Bản đồ quy hoạch đất đai ở Hà Nội</em>
+</p>
 
 
 ## 5.7. TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH
 <a name="trungtamdieukhienthanhphothongminh"></a>
-<p align="justify"></p>
+<p align="justify">Ngày 15/2/2019 UBND thành phố Hà Nội đã công bố quyết định thành lập, xây dựng chính quyền điện tử, thành phố thông minh với trung tâm điều hành thông minh (hệ thống IOC) bao gồm 8 trung tâm chức năng điều hành do Viettel triển khai.</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/wsh0X0u.png" alt="Các chức năng của trung tâm điều khiển thành phố Hà Nội đang được Viettel xây dựng">
+</p>
+<p align="center">
+  <em>Hình 17: Các chức năng của trung tâm điều khiển thành phố Hà Nội đang được Viettel xây dựng</em>
+</p>
+<p align="justify">Trung tâm điều hành thông minh đóng vai trò là bộ não tổng hợp, chỉ huy, điều hành toàn bộ các hoạt động của thành phố Hà Nội thông qua việc giám sát, điều hành các lĩnh vực ảnh hưởng trực tiếp đến hoạt động của thành phố như: Giao thông, An ninh công cộng, Ứng cứu khẩn cấp, Cứu nạn, cứu hộ, Cung cấp điện, Chiếu sáng đô thị, Cấp thoát nước, Thời tiết, Môi trường… của các cơ quan quản lý nhà nước, các doanh nghiệp dịch vụ công ích của thành phố.</p>
 
 ### 5.7.1. TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG
 <a name="trungtamgiamsatdieuhanhgiaothong"></a>
-<p align="justify"></p>
+<p align="justify">Đầu não quản lý điều phối hệ thống giao thông thông minh, ứng dụng camera thông minh và định vị GPS giúp phân tích lưu lượng phương tiện và gửi thông tin về trung tâm điều hành. Trung tâm còn tích hợp hệ thống điều khiển đèn tín hiệu, hệ thống giám sát xử phạt vi phạm giao thông và đưa ra các chỉ số quản lý về giao thông như: tai nạn, tắc đường… Đồng thời, hệ thống ứng dụng cung cấp thông tin mật độ phương tiện nhằm hỗ trợ người dân tham gia giao thông lựa chọn được tuyến đường di chuyển phù hợp.</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/vHxHSKP.png" alt="Trung tâm giám sát điều hành giao thông">
+</p>
+<p align="center">
+  <em>Hình 18: Trung tâm giám sát điều hành giao thông</em>
+</p>
 
 ### 5.7.2. TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG
 <a name="trungtamgiamsatdieuhanhanninhcongcong"></a>
-<p align="justify"></p>
+<p align="justify">Đầu não tích hợp toàn bộ camera của Thành phố. Xử lý hình ảnh thông minh qua thuật toán nhận diện giúp tìm kiếm các đối tượng nghi vấn, phát hiện và tự động cảnh báo các hành vi, vi phạm pháp luật như là: Tụ tập đám đông, biểu tình, đánh nhau và xâm nhập khu vực cấm…</p>
+<p align="justify">Trung tâm thực hiện kiểm soát an ninh công cộng ở các khu vực, địa bàn trọng điểm trên địa bàn Thành phố… nhằm đảm bảo tình hình an ninh trật tự, trật tự đô thị và vệ sinh môi trường.</p>
 
 ### 5.7.3. TRUNG TÂM ỨNG CỨU KHẨN CẤP
 <a name="trungtamungcuukhancap"></a>
-<p align="justify"></p>
+<p align="justify">Thực hiện tích hợp các dịch vụ ứng cứu khẩn cấp cho người dân vào một đầu số duy nhất: 112 thay cho 113, 114, 115, tương tự như dịch vụ 911 của Mỹ.</p>
+<p align="justify">Trung tâm cung cấp các tính năng nâng cao như: Định vị thuê bao, hiển thị trên bản đồ số, điều khiển camera tập trung vào khu vực sự cố từ đó nắm bắt nhanh thông tin hiện trường xảy ra sự cố, tương tác điều phối, giám sát các lực lượng xử lý các tình huống như cấp cứu, phòng cháy chữa cháy…</p>
 
 ### 5.7.4. TRUNG TÂM PHÂN TÍCH DỮ LIỆU
 <a name="trungtamphantichdulieu"></a>
-<p align="justify"></p>
+<p align="justify">Thực hiện thu thập dữ liệu từ các nguồn khác nhau về hệ thống CSDL tập trung như: Dữ liệu từ ứng dụng chuyên ngành; Dữ liệu từ các hệ thống trong trung tâm và Dữ liệu import trực tiếp từ các file dữ liệu riêng lẻ.</p>
+<p align="justify">Thực hiện làm sạch, chuẩn hóa, xây dựng mô hình dữ liệu Data mart, Data Model cho các ngành, các lĩnh vực và tổng hợp các báo cáo thống kê, báo cáo biểu đồ, báo cáo phân tích chuyên sâu phục vụ việc hỗ trợ ra quyết định của Thành phố.Từ đó công bố, cung cấp thông tin kinh tế xã hội cho các cơ quan, tổ chức, cá nhân theo quy định của pháp luật.</p>
 
 ### 5.7.5. TRUNG TÂM GIÁM SÁT BẢO MẬT AN TOÀN THÔNG TIN
 <a name="trungtamgiamsatbaomatantoanthongtin"></a>
-<p align="justify"></p>
+<p align="justify">Viettel cung cấp giải pháp tổng thể bao gồm cả 3 yếu tố: Giải pháp an ninh mạng do Viettel tự nghiên cứu sản xuất, tổ chức quy trình ATTT khép kín, cùng đội ngũ chuyên gia ATTT thực hiện vận hành, giám sát, hỗ trợ và phản ứng xử lý sự cố 24/7 cho toàn bộ các hệ thống CNTT của thành phố.</p>
+<p align="justify">Từ đó đưa ra những phân tích ATTT đối với: Hệ thống mạng, máy chủ, hệ thống Email, máy tính người dùng và ứng dụng. Từ đó đưa ra giải pháp bảo vệ, phòng chống tấn công ATTT một cách hiệu quả nhất.</p>
 
 ### 5.7.6. TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN
 <a name="trungtamhoidapykienphucvunguoidan"></a>
-<p align="justify"></p>
+<p align="justify">Đóng vai trò là kênh giao tiếp trực tuyến với người dân, du khách. Đây là nơi tổng hợp toàn bộ các yêu cầu, giải đáp thắc mắc của người dân đối với kinh tế xã hội của thành phố thông qua các kênh giao tiếp như: tổng đài hỗ trợ, di động, mạng xã hội…</p>
+<p align="justify">Ứng dụng trí tuệ nhân tạo kết hợp tính năng callbot, chatbot…thực hiện trả lời tự động những câu hỏi thường gặp về tất cả các vấn đề của thành phố. Những cuộc gọi yêu cầu giải đáp chuyên sâu có thể được chuyển tới chuyên gia của các Sở ngành. Từ đó hỗ trợ các Sở/ngành giám sát, quản lý và chủ động điều hành các hoạt động tiếp nhận và xử lý kiến nghị của người dân.</p>
 
 ### 5.7.7. TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG
 <a name="trungtamgiamsatthongtinbaochivatruyenthong"></a>
-<p align="justify"></p>
+<p align="justify">Đầu mối giám sát toàn bộ thông tin trên không gian mạng về thành phố bao gồm: 1 triệu trang web tiếng Việt, hơn 40 triệu tài khoản Facebook, hơn 150 nghìn Group hoặc Fanpage và toàn bộ các kênh Youtube. Từ đó chủ động phát hiện sớm những khủng hoảng thông tin cho thành phố, các đơn vị trực thuộc và lãnh đạo thành phố.</p>
+<p align="justify">Ứng dụng các thuật toán như xử lý ngôn ngữ tự nhiên để đánh giá sắc thái bài viết phân loại theo mức độ: Tích cực và tiêu cực.</p>
+<p align="justify">Đồng thời truyền thông/cảnh báo thông tin cho các cơ quan báo chí và toàn bộ người dân Thành phố khi có yêu cầu.</p>
 
 ### 5.7.8. TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH
 <a name="trungtamgiamsatdichvucong"></a>
-<p align="justify"></p>
+<p align="justify">Thực hiện giám sát, theo dõi về hoạt động của các dịch vụ công ích như: Cấp nước sạch; thu gom và xử lý rác thải; thoát nước và xử lý nước thải, chống úng ngập cục bộ; chiếu sáng đô thị…</p>
+<p align="justify">Thực hiện đo lường mức độ hài lòng của người dân, tổ chức đối. Từ đó đánh giá chất lượng dịch vụ và đưa ra quyết định trong việc cung cấp dịch vụ phục vụ, nâng cao đời sống cho người dân..</p>
 
+
+# 6. NHẬN XÉT
+<a name="nhanxet"></a>
+<p align="justify">Hiện tại, Hà Nội vẫn đang trong quá trình xây dựng Smart City, dự kiến sẽ hoàn thành vào năm 2030, vì vậy, trong bài viết này, em chỉ phân tích những gì Hà Nội đã và đang làm được trong quá trình xây dựng thành phố thông minh.</p>
+Hà Nội đã phát triển TP thông minh từ năm 2016 đến 2020, tức là khoảng 5 năm, Hà Nội cơ bản đã hình thành cơ bản các thành phần cốt lõi của thành phố thông minh như:
+- Nền tảng cơ sở hạ tầng.
+-	Các cơ sở dữ liệu cốt lõi.
+-	Hoàn thành xây dựng chính quyền điện tử.
+-	Xây dựng các hệ thống thông minh trong các lĩnh vực thiết yếu: giáo dục, y tế, giao thông,...
 
          
-# 8. NGUỒN THAM KHẢO
+# 7. NGUỒN THAM KHẢO
 <a name="nguonthamkhao"></a>
 http://vneconomy.vn/xay-dung-ha-noi-thanh-smart-city-vao-nam-2030-20180212182115575.htm  
 https://solutions.viettel.vn/giai-phap?tab=vtproducts_business&cat=giao-thong-thong-minh  
