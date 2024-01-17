@@ -76,7 +76,7 @@
 Ở Việt Nam, cùng với quá trình đô thị hóa, số lượng người dân tập trung sinh sống và làm việc tại các thành phố lớn như Hà Nội, TP. HCM, Đà Nẵng ngày càng tăng. Việc gia tăng dân số đã ảnh hưởng đáng kể đến sự phát triển của các thành phố, bởi tình trạng ô nhiễm môi trường, thiếu thốn các nguồn lực như: Nước sạch, đất đai, không gian và năng lượng...  
 Thực tế cho thấy, các đô thị ở Việt Nam ngày càng phát triển mạnh mẽ nhất là trong bối cảnh cuộc Cách mạng công nghiệp 4.0. Sự phát triển đô thị bắt buộc phải đi kèm với thông minh để đáp ứng được nhu cầu ngày càng cao của con người, việc xây dựng các đô thị thông minh đã ngày càng trở nên quan trọng đối với Việt Nam. Trong bối cảnh đó, ngày 1/8/2018, Thủ tướng Chính phủ ban hành Quyết định số 950/QĐ-TTg phê duyệt Đề án Phát triển đô thị thông minh bền vững Việt Nam giai đoạn 2018 – 2025 và định hướng đến năm 2030.  
 Tuy nhiên, hiện nay việc xây dựng và phát triển thành phố thông minh (Smart City) ở Việt Nam đang đối diện với không ít thách thức nảy sinh như: hội nhập, cạnh tranh đô thị, biến đổi khí hậu, nước biển dâng cao, phát triển bền vững đi kèm với tăng trưởng xanh. Các vấn đề phức tạp của quá trình đô thị hóa và phát triển đô thị như chênh lệch giàu nghèo, nhà ở, lao động, việc làm; phát triển vùng ven đô, liên kết đô thị - nông thôn (liên kết vùng), tiết kiệm nguồn tài nguyên thiên nhiên…  
-  Bên cạnh đó, nhận thức của người dân về phát triển thành phố thông minh hiện còn ở mức hạn chế. Mặc dù, khái niệm thành phố thông minh xuất hiện gần 20 năm trên thế giới, nhưng đến nay vẫn còn nhiều tranh luận và chưa có sự thống nhất. Để đưa ra những gợi ý về phát triển TPTM cho Việt Nam, bài viết nghiên cứu các quan điểm về phát triển TPTM trên thế giới, thảo luận về mô hình phát triển đô thị thông minh ở Việt Nam và đề xuất một số kiến nghị.
+Bên cạnh đó, nhận thức của người dân về phát triển thành phố thông minh hiện còn ở mức hạn chế. Mặc dù, khái niệm thành phố thông minh xuất hiện gần 20 năm trên thế giới, nhưng đến nay vẫn còn nhiều tranh luận và chưa có sự thống nhất. Để đưa ra những gợi ý về phát triển TPTM cho Việt Nam, bài viết nghiên cứu các quan điểm về phát triển TPTM trên thế giới, thảo luận về mô hình phát triển đô thị thông minh ở Việt Nam và đề xuất một số kiến nghị.
 
 
 
@@ -85,8 +85,8 @@ Tuy nhiên, hiện nay việc xây dựng và phát triển thành phố thông 
 
 ## 3.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#thanhphothongminhlagi)  
 <a name="thanhphothongminhlagi"></a>
-  Thành phố thông minh là một thành phố luôn đổi mới và sáng tạo: sử dụng các công nghệ thông tin, truyền thông và các phương tiện khác để nâng cao chất lượng cuộc sống, hiệu quả hoạt động – dịch vụ đô thị, tính cạnh tranh, đồng thời đảm bảo đáp ứng được nhu cầu của các thế hệ hiện tại và tương lai về các khía cạnh kinh tế, xã hội, môi trường và văn hóa.
-  Thành phố thông minh là nơi thực hiện chiến lược phát triển tổng thể, thống nhất dựa trên các công nghệ và giải pháp thông minh với từ 5 – 8 thành phần: công dân thông minh, năng lượng thông minh, chăm sóc sức khỏe thông minh, tòa nhà thông minh, di động thông minh, cơ sở hạ tầng, công nghệ và điều hành thông minh của chính quyền và giáo dục thông minh.
+Thành phố thông minh là một thành phố luôn đổi mới và sáng tạo: sử dụng các công nghệ thông tin, truyền thông và các phương tiện khác để nâng cao chất lượng cuộc sống, hiệu quả hoạt động – dịch vụ đô thị, tính cạnh tranh, đồng thời đảm bảo đáp ứng được nhu cầu của các thế hệ hiện tại và tương lai về các khía cạnh kinh tế, xã hội, môi trường và văn hóa.
+Thành phố thông minh là nơi thực hiện chiến lược phát triển tổng thể, thống nhất dựa trên các công nghệ và giải pháp thông minh với từ 5 – 8 thành phần: công dân thông minh, năng lượng thông minh, chăm sóc sức khỏe thông minh, tòa nhà thông minh, di động thông minh, cơ sở hạ tầng, công nghệ và điều hành thông minh của chính quyền và giáo dục thông minh.
 
 ## 3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#nhungtieuchidanhgiathanhphothongminh)
 <a name="nhungtieuchidanhgiathanhphothongminh"></a>
@@ -97,9 +97,20 @@ Tuy nhiên, hiện nay việc xây dựng và phát triển thành phố thông 
   <em>Hình 1: 6 tiêu chí của Smart City</em>
 </p>
 
-  `Chính phủ thông minh (chính phủ điện tử):` Xây dựng đô thị thông minh phải gắn kết, không được tách rời việc phát triển chính quyền điện tử. Lấy chính quyền điện tử làm nòng cốt để xây dựng đô thị thông minh (ĐTTM) tạo điều kiện thuận lợi nhất cho người dân và doanh nghiệp khi giao tiếp với cơ quan chính quyền.  
+`Chính phủ thông minh (chính phủ điện tử):` Xây dựng đô thị thông minh phải gắn kết, không được tách rời việc phát triển chính quyền điện tử. Lấy chính quyền điện tử làm nòng cốt để xây dựng đô thị thông minh (ĐTTM) tạo điều kiện thuận lợi nhất cho người dân và doanh nghiệp khi giao tiếp với cơ quan chính quyền.  
 Người dân phải được cung cấp các ứng dụng để giao tiếp với chính quyền và mọi ý kiến phản ánh của người dân phải được giải đáp nhanh và thoả đáng. Mục tiêu là làm giảm chi phí cung cấp các dịch vụ công, đảm bảo sự liên lạc tốt hơn giữa chính phủ với công dân bằng cách làm cho người dân dễ dàng tiếp cận với chính phủ thông qua web hoặc các ứng dụng mà chính phủ cung cấp. Từ đó, người dân giảm thiểu thời gian và chi phí trong quá trình thực hiện một giao dịch hoặc yêu cầu với chính phủ hoặc cơ quan quản lý.  
 Chính phủ cũng cung cấp các dịch vụ điện tử để hỗ trợ doanh nghiệp như: các chính sách, các quy định, thể chế, truy xuất các thông tin về kinh doanh (quy hoạch sử dụng đất, phát triển đô thị, đấu thầu, xây dựng, ...), tải các mẫu đơn, gia hạn giấy phép, đăng ký kinh doanh, xin cấp phép và nộp thuế.  
+`Kinh tế thông minh` là qui trình và công nghệ mà các doanh nghiệp dùng để kiểm soát dữ liệu, khai phá tri thức giúp cho các doanh nghiệp có thể đưa các các quyết định hiệu quả hơn trong hoạt động kinh doanh của mình. Công nghệ kinh doanh thông minh cung cấp một cách nhìn toàn cảnh hoạt động của doanh nghiệp từ quá khứ, hiện tại và các dự đoán tương lai. Một số hoạt động của kinh tế thông minh như: marketing online, sale online, sử dụng một số phần mềm để quản lý nhân viên, sản phẩm,…  
+`Môi trường thông minh` sử dụng các thiết bị thông minh khác nhau để làm cho cuộc sống của người dân thoải mái hơn bằng cách thay thế công việc nguy hiểm, lao động chân tay và các nhiệm vụ lặp đi lặp lại bằng các máy móc hoặc thiết bị tự động. Các loại môi trường thông minh:
+- Môi trường máy tính ảo: cho phép các thiết bị thông minh truy cập các dịch vụ thích hợp ở mọi nơi và mọi lúc.
+- Môi trường vật lý: với nhiều loại thiết bị thông minh bao gồm thẻ, cảm biến và bộ điều khiển.
+- Môi trường của con người: với các thiết bị thông minh như điện thoại di động, laptop, smartwatch hoặc các thiết bị hỗ trợ sức khỏe như: máy tạo nhịp tim để duy trì hoạt động của tim khỏe mạnh hoặc kính áp tròng AR
+Tính năng:
+- Điều khiển thiết bị từ xa.
+- Khả năng kết nối – giao tiếp giữa các thiết: sử dụng phần mềm trung gian hoặc các kết nối không dây để tạo thành một hệ thống.
+- Thu thập thông tin từ các cảm biến.
+- IOT
+- Khả năng dự đoán và ra quyết định
 
 
 
