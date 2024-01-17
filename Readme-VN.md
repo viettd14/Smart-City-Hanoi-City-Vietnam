@@ -179,7 +179,6 @@ Hà Nội đã có những bước tiến bộ trong việc ứng dụng công n
 ## 4.1. TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI
 <a name="tinhhinhphattriensmartcityhanoi"></a>
 Kỳ họp thứ năm của Hội đồng Nhân dân thành phố Hà Nội ngày 4/12/2017 đã quyết định điều chỉnh mục tiêu ứng dụng công nghệ thông tin giai đoạn 2016 - 2020 nhằm hướng tới xây dựng Hà Nội trở thành một thành phố thông minh vào năm 2030.
-<a name="nhungtieuchidanhgiathanhphothongminh"></a>
 <p align="center">
   <img width="600" src="https://i.imgur.com/xyGSoQ1.png" alt="Hà Nội định hướng xây dựng Smart City 2030">
 </p>
@@ -265,9 +264,24 @@ Thứ năm, cần phải có "chính quyền thông minh", "lãnh đạo thông 
 
 ## 5.1. GIAO THÔNG THÔNG MINH
 <a name="giaothongthongminh"></a>
+<p align="justify">
+Để phát triển được thành phố thông minh, Hà Nội bắt buộc phải phát triển được hệ thống giao thông thông minh. Với số lượng phương tiện giao thông đang ngày một tăng cao, điều này đã gây ra không ít khó khăn và trở ngại trong việc điều hành, quản lý trong giao thông Hà Nội, minh chứng là các tuyến phố, việc kẹt xe trở nên thường xuyên.
+</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/ELyL8zW.png" alt="Giao thông của Hà Nội ngày càng phức tạp">
+</p>
+<p align="center">
+  <em>Hình 3: Giao thông của Hà Nội ngày càng phức tạp</em>
+</p>
 
 ### 5.1.1. XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS
 <a name="xaydunghethonggiaothongthongminh"></a>
+<p align="justify">
+  
+</p>
+<p align="justify">
+  
+</p>
 
 ### 5.1.2. MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS
 <a name="motsotuyenduongdatrienkhai"></a>
