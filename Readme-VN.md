@@ -124,8 +124,10 @@ Chính phủ cũng cung cấp các dịch vụ điện tử để hỗ trợ doa
 <p align="justify">
  là qui trình và công nghệ mà các doanh nghiệp dùng để kiểm soát dữ liệu, khai phá tri thức giúp cho các doanh nghiệp có thể đưa các các quyết định hiệu quả hơn trong hoạt động kinh doanh của mình. Công nghệ kinh doanh thông minh cung cấp một cách nhìn toàn cảnh hoạt động của doanh nghiệp từ quá khứ, hiện tại và các dự đoán tương lai. Một số hoạt động của kinh tế thông minh như: marketing online, sale online, sử dụng một số phần mềm để quản lý nhân viên, sản phẩm,…
 </p>
+
+`Môi trường thông minh`
 <p align="justify">
-`Môi trường thông minh` sử dụng các thiết bị thông minh khác nhau để làm cho cuộc sống của người dân thoải mái hơn bằng cách thay thế công việc nguy hiểm, lao động chân tay và các nhiệm vụ lặp đi lặp lại bằng các máy móc hoặc thiết bị tự động. Các loại môi trường thông minh:
+Sử dụng các thiết bị thông minh khác nhau để làm cho cuộc sống của người dân thoải mái hơn bằng cách thay thế công việc nguy hiểm, lao động chân tay và các nhiệm vụ lặp đi lặp lại bằng các máy móc hoặc thiết bị tự động. Các loại môi trường thông minh:
 </p>
 - Môi trường máy tính ảo: cho phép các thiết bị thông minh truy cập các dịch vụ thích hợp ở mọi nơi và mọi lúc.
 - Môi trường vật lý: với nhiều loại thiết bị thông minh bao gồm thẻ, cảm biến và bộ điều khiển.
