@@ -451,7 +451,33 @@ Với hình thức này, Hà Nội đã triển khai tại các bãi đỗ xe:
 
 ## 5.3. PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ
 <a name="phonghopchinhphuphigiayto"></a>
-<p align="justify"></p>
+<p align="justify">Viettel Solution (VTS) đã phối hợp với chính quyền Hà Nội xây dựng hệ sinh thái chính phủ điện tử sử dụng CNTT để tự động hóa các quy trình của chính phủ để giảm thiểu các thủ tục hành chính, tiết kiệm thời gian, cho phép các cơ quan chính phủ cung cấp dịch vụ công chất lượng cao, giảm chi tiêu ngân sách quốc gia.</p>
+<p align="justify">Hiện tại, Chính phủ có thể họp hoàn toàn phi giấy tờ với Viettel e-Cabinet và biểu quyết sử dụng chữ ký số điện tử của Ban Cơ yếu Chính phủ trên các thiết bị di động. Ngay trong phiên họp, Thủ tướng có thể ký ngay Quyết định để ban hành qua mạng và ngay lập tức tới tất cả bộ, địa phương. Hệ thống này cũng có thể được tuỳ biến để triển khai cho các bộ, ngành và địa phương.</p>
+
+`Hiệu quả hệ thống mang lại`  
+-	Sau gần 1 năm đi vào hoạt động (2019), hệ thống đã tiết kiệm trên 1.200 tỷ đồng từ văn bản điện tử, giúp các đại biểu sử dụng tài liệu điện tử thay thế việc in ấn, sao chụp gần 50.000 tài liệu giấy; thực hiện xử lý 229 phiếu lấy ý kiến thành viên Chính phủ thay thế việc phát hành hơn 6.183 phiếu lấy ý kiến giấy và 28.161 hồ sơ, tài liệu kèm theo. 
+-	Hệ thống này đã phục vụ thành công 12 cuộc họp phi giấy tờ của Chính phủ. (2019).
+-	Giảm ít nhất 30% thời gian các phiên họp so với trung bình các năm trước.
+-	Đạt mục tiêu chính phủ không giấy tờ, 100% văn bản điện tử (trừ văn bản mật của nhà nước).
+-	100% xin ý kiến thành viên Chính phủ được xử lý trên môi trường mạng  minh bạch trong việc quản lý.
+
+`Một số tính năng e-Cabinet cung cấp để hỗ trợ chính phủ:`  
+Lợi ích dịch vụ:
+-	Các đại biểu dễ dàng tham dự cuộc họp mọi lúc, mọi nơi.
+-	Trong suốt quá trình cuộc họp diễn ra, các đại biểu dễ dàng tương tác đa chiều, tức thời trao đổi và chia sẻ đa dạng dữ liệu.
+-	e-Cabinet có giao diện Website đơn giản, trực quan, người dùng có thể dễ dàng tiếp cận, sử dụng và khai thác tối đa các tiện ích mà e-Cabinet mang lại.
+
+Thiết lập phiên họp:
+-	Xác định chủ trì, thành viên, khách mời.
+-	Gửi lịch họp.
+-	Đăng ký tham gia.
+-	Gửi, nhận tài liệu họp và được tích hợp với hệ thống vOffice.
+-	Chữ ký số.
+-	Tích hợp với hệ thống email và SMS
+
+Biểu quyết:
+-	Tổng hợp ý kiến góp ý.
+-	Tổng hợp số phiếu bầu.
 
 
 ## 5.4. TRƯỜNG HỌC THÔNG MINH
