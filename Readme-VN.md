@@ -351,6 +351,13 @@ Với 110 camera giao thông được lắp trên cao tốc Hà Nội - Lào Cai
   
 ### 5.1.3. HỆ THỐNG CCTV CỦA ĐÀI VOV
 <a name="hethongcctvcuadaivov"></a>
+<p align="justify">Hệ thống giám sát đường bộ thông qua các camera được lắp đặt trên tất cả các tuyến phố của Hà Nội của đài tiếng nói Việt Nam (VOV). Các hình ảnh mà hệ thống thu thập được sẽ truyền đi theo thời gian thực đến các cơ quan công an và hệ thống VOV như: tình trạng kẹt xe, tai nạn giao thông hoặc các công trường xây dựng gây ảnh hưởng tới giao thông, và đài VOV sẽ thông báo tới người dùng thông qua báo đài, internet hoặc trực tiếp trên hệ thống radio của xe.</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/kxQBXhG.png" alt="CCTV của VOV">
+</p>
+<p align="center">
+  <em>Hình 9: CCTV của VOV</em>
+</p>
 
 ### 5.1.4. HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG
 <a name="hethongdieukhientinhieugiaothong"></a>
