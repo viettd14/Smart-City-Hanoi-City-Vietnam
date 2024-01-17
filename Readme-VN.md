@@ -14,25 +14,26 @@
    4.3. [THÁCH THỨC](#thachthuc)  
    4.4. [CÁC YẾU TỐ CỐT LÕI ĐỂ HÀ NỘI ĐI LÊN SMART CITY](#cacyeutocotloidehanoidilensmartcity)  
    4.5. [LỘ TRÌNH XÂY DỰNG HÀ NỘI SMART CITY](#lotrinhxaydunghanoismartcity)  
-5. [ỨNG DỤNG SMART CITY HÀ NỘI](#ungdungsmartcityhanoi)  
-   5.1. [THÔNG TIN ỨNG DỤNG](#thongtinungdung)  
-   5.2. [SỔ LIÊN LẠC ĐIỆN TỬ](#solienlacdientu)  
-   5.3. [CỔNG DỊCH VỤ CÔNG QUỐC GIA](#congdichvucong)   
-6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)
-7. [NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC](#nhungtinhnangthongminhhanoidaxaydungduoc)  
-   7.1. [GIAO THÔNG THÔNG MINH](#giaothongthongminh)  
+
+5. [NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC](#nhungtinhnangthongminhhanoidaxaydungduoc)  
+   5.1. [GIAO THÔNG THÔNG MINH](#giaothongthongminh)  
       - [XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS](#xaydunghethonggiaothongthongminh)  
       - [MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS](#motsotuyenduongdatrienkhai)  
       - [HỆ THỐNG CCTV CỦA ĐÀI VOV](#hethongcctvcuadaivov)  
       - [HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG](#hethongdieukhientinhieugiaothong)
    
-   7.2. [ĐỖ XE THÔNG MINH](#doxethongminh)  
+   5.2. [ĐỖ XE THÔNG MINH](#doxethongminh)  
       - [ỨNG DỤNG IPARKING](#ungdungiparking)  
       - [XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP](#xaydungnhungbaidauxethongminhdangthap)
    
-   7.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)  
-   7.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)  
-   7.5. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
+   5.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)  
+   5.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)
+   5.5. [ỨNG DỤNG SMART CITY HÀ NỘI](#ungdungsmartcityhanoi)  
+     - [THÔNG TIN ỨNG DỤNG](#thongtinungdung)  
+     - [SỔ LIÊN LẠC ĐIỆN TỬ](#solienlacdientu)  
+     - [CỔNG DỊCH VỤ CÔNG QUỐC GIA](#congdichvucong)   
+   5.6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)
+   5.7. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
       - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
       - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG](#trungtamgiamsatdieuhanhanninhcongcong)  
       - [TRUNG TÂM ỨNG CỨU KHẨN CẤP](#trungtamungcuukhancap)  
@@ -41,7 +42,7 @@
       - [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#trungtamhoidapykienphucvunguoidan)  
       - [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
       - [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)  
-8. [NGUỒN THAM KHẢO](#nguonthamkhao)
+6. [NGUỒN THAM KHẢO](#nguonthamkhao)
 
 
 
@@ -172,7 +173,7 @@ Người dân phải có việc làm đầy đủ với thu nhập cao. Đây đ
 <a name="hientranghanoi"></a>
 Hà Nội đã có những bước tiến bộ trong việc ứng dụng công nghệ thông tin, đây là tiền đề cơ bản để tiến tới xây dựng thành phố thông minh...
 
-## 4.1. TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI(#)
+## 4.1. TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI
 <a name="tinhhinhphattriensmartcityhanoi"></a>
 Kỳ họp thứ năm của Hội đồng Nhân dân thành phố Hà Nội ngày 4/12/2017 đã quyết định điều chỉnh mục tiêu ứng dụng công nghệ thông tin giai đoạn 2016 - 2020 nhằm hướng tới xây dựng Hà Nội trở thành một thành phố thông minh vào năm 2030.
 <a name="nhungtieuchidanhgiathanhphothongminh"></a>
@@ -256,10 +257,19 @@ Thứ năm, cần phải có "chính quyền thông minh", "lãnh đạo thông 
 
 
 
-# 5. [ỨNG DỤNG SMART CITY HÀ NỘI](#ungdungsmartcityhanoi)  
-   5.1. [THÔNG TIN ỨNG DỤNG](#thongtinungdung)  
-   5.2. [SỔ LIÊN LẠC ĐIỆN TỬ](#solienlacdientu)  
-   5.3. [CỔNG DỊCH VỤ CÔNG QUỐC GIA](#congdichvucong)   
+# 5. ỨNG DỤNG SMART CITY HÀ NỘI
+<a name="ungdungsmartcityhanoi"></a>
+
+## 5.1. THÔNG TIN ỨNG DỤNG
+<a name="thongtinungdung"></a>
+
+## 5.2. SỔ LIÊN LẠC ĐIỆN TỬ
+<a name="solienlacdientu"></a>
+
+## 5.3. CỔNG DỊCH VỤ CÔNG QUỐC GIA
+<a name="congdichvucong"></a>
+
+
 # 6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)
 # 7. [NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC](#nhungtinhnangthongminhhanoidaxaydungduoc)  
    7.1. [GIAO THÔNG THÔNG MINH](#giaothongthongminh)  
