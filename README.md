@@ -8,8 +8,8 @@
 3. [CONCEPTUAL FRAMEWORK](#conceptualframework)  
    3.1. [WHAT IS A SMART CITY?](#whatisasmartcity)  
    3.2. [THE CRITERIA FOR EVALUATING A SMART CITY](#thecriteriaforevaluatingasmartcity)  
-4. [HIỆN TRẠNG HÀ NỘI](#hientranghanoi)  
-   4.1. [TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI](#tinhhinhphattriensmartcityhanoi)  
+4. [THE CURRENT SITUATION OF HANOI CITY](#thecurrentsituationofhanoicity)  
+   4.1. [DEVELOPMENT STATUS OF SMART CITY IN HANOI](#developmentstatusofsmartcityinhanoi)  
    4.2. [KHÓ KHĂN](#khokhan)  
    4.3. [THÁCH THỨC](#thachthuc)  
    4.4. [CÁC YẾU TỐ CỐT LÕI ĐỂ HÀ NỘI ĐI LÊN SMART CITY](#cacyeutocotloidehanoidilensmartcity)  
@@ -158,25 +158,25 @@ Benefits of Smart Transportation:
 Residents should have sufficient employment opportunities with high incomes. This is considered one of the determining factors for the success of a Smart City.</p>
 
 
-# 4. HIỆN TRẠNG HÀ NỘI
-<a name="hientranghanoi"></a>
-Hà Nội đã có những bước tiến bộ trong việc ứng dụng công nghệ thông tin, đây là tiền đề cơ bản để tiến tới xây dựng thành phố thông minh...
+# 4. THE CURRENT SITUATION OF HANOI CITY
+<a name="thecurrentsituationofhanoicity"></a>
+Hanoi has made progress in applying information technology, which is a fundamental premise for moving towards building a smart city.
 
-## 4.1. TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI
-<a name="tinhhinhphattriensmartcityhanoi"></a>
-Kỳ họp thứ năm của Hội đồng Nhân dân thành phố Hà Nội ngày 4/12/2017 đã quyết định điều chỉnh mục tiêu ứng dụng công nghệ thông tin giai đoạn 2016 - 2020 nhằm hướng tới xây dựng Hà Nội trở thành một thành phố thông minh vào năm 2030.
+## 4.1. DEVELOPMENT STATUS OF SMART CITY IN HANOI.
+<a name="developmentstatusofsmartcityinhanoi"></a>
+The fifth session of the Hanoi City People's Council on December 4, 2017, decided to adjust the goals of applying information technology in the period 2016-2020, aiming to transform Hanoi into a Smart City by 2030.
 <p align="center">
-  <img width="600" src="https://i.imgur.com/xyGSoQ1.png" alt="Hà Nội định hướng xây dựng Smart City 2030">
+  <img width="600" src="https://i.imgur.com/xyGSoQ1.png" alt="Hanoi's orientation towards building Smart City 2030">
 </p>
 <p align="center">
-  <em>Hình 2: Hà Nội định hướng xây dựng Smart City 2030</em>
+  <em>Hình 2: Hanoi's orientation towards building Smart City 2030</em>
 </p>
-<p align="justify">Hà Nội đã ưu tiên lựa chọn 4 lĩnh vực là y tế, giáo dục, giao thông và du lịch trong việc xây dựng Smart City. Và năm 2017, cả 4 vấn đề trên đã bắt đầu được triển khai kết hợp với việc xây dựng chính phủ điện tử, cải cách hành chính, làm nền tảng cho xây dựng Smart City.</p>
-<p align="justify">Về giao thông vận tải nội đô, Hà Nội đã đưa ứng dụng Iparking thông minh, tiện lợi vào hoạt động để giúp người sử dụng tìm kiếm và trả tiền đậu ôtô qua điện thoại, ứng dụng này đã được triển khai trên tất cả các quận của Hà Nội.</p>
-<p align="justify">Đồng thời, hệ thống bản đồ số giao thông Hà Nội cũng đang được gấp rút đưa vào sử dụng nhằm cung cấp cho người dân và du khách các thông tin về tình trạng giao thông, quản lý vận tải hành khách công cộng trên địa bàn.</p>
-<p align="justify">Về giáo dục, hệ thống sổ điểm, sổ liên lạc điện tử đã được sử dụng cùng hệ thống tuyển sinh trực tuyến với hơn 2.700 trường học, 250.000 gia đình tham gia với hơn 6,3 triệu lượt truy cập vào cổng tuyển sinh đầu cấp trực tuyến tham gia. Hiện tỷ lệ đăng ký hồ sơ trực tuyến của cả 3 cấp học cấp đạt 70,68%...</p>
-<p align="justify">Về công tác quản lý y tế, Hà Nội là địa phương đầu tiên triển khai diện rộng hệ thống quản lý hồ sơ sức khoẻ điện tử. Hiện đã lập được gần 900.000 hồ sơ.</p>
-<p align="justify">Ngoài ra, cơ sở dữ liệu hơn 8 triệu dân Thủ đô đã được xây dựng để triển khai các ứng dụng, dịch vụ phục vụ công dân, doanh nghiệp và công tác điều hành của thành phố. Cổng giao tiếp điện tử thành phố cũng cung cấp thông tin về quan trắc không khí, môi trường nước hồ Tây, lượng mưa, bản đồ úng ngập...</p>
+<p align="justify">Hanoi has prioritized four sectors: healthcare, education, transportation, and tourism in building Smart City. In 2017, all these areas began implementation, combined with the development of e-government, administrative reform, forming the foundation for building a Smart City.</p>
+<p align="justify">In terms of urban transportation, Hanoi has introduced the Iparking smart application for convenient car parking, allowing users to find and pay for parking through their phones. This application has been deployed in all districts of Hanoi.</p>
+<p align="justify">Additionally, the digital traffic map system of Hanoi is being urgently put into operation to provide information on traffic conditions and manage public passenger transport in the area.</p>
+<p align="justify">In education, the electronic grade book and communication book system has been used, along with the online enrollment system for more than 2,700 schools and 250,000 families participating, with over 6.3 million accesses to the online enrollment portal. The current registration rate for online profiles for all three levels of education is 70.68%...</p>
+<p align="justify">In health management, Hanoi is the first locality to widely deploy the electronic health record management system. Nearly 900,000 health records have been established.</p>
+<p align="justify">Moreover, a database of over 8 million residents of the Capital has been built to deploy applications, services for citizens, businesses, and the city's operational activities. The city's electronic communication portal also provides information on air quality, West Lake water environment, rainfall, and flood maps...</p>
 
 ## 4.2. KHÓ KHĂN
 <a name="khokhan"></a>
