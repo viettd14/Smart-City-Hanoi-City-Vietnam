@@ -150,7 +150,10 @@ Ngoài ra, cơ sở dữ liệu hơn 8 triệu dân Thủ đô đã được xâ
 <a name="khokhan"></a>
 Do chiến tranh và thời kỳ bao cấp, đã làm cho Hà Nội chậm chân với hiện đại hóa sau nhiều thập niên. Ngày nay, Hà Nội đang không ngừng mở rộng, hướng tới vị thế của một đô thị quốc tế với khuynh hướng thông minh. Xu hướng toàn cầu hóa và bối cảnh cạnh tranh quyết liệt giữa các thành phố lớn, nhất là tại khu vực châu Á – Thái Bình Dương, đã và đang mang tới những đổi thay đáng kể cho Hà Nội trên nhiều lĩnh vực, đồng thời đặt ra các thách thức mới đối với công tác quản trị, tăng cường thu hút đầu tư, mở cửa hội nhập và chú trọng phát triển bền vững.  
 Tổng dân số và nhà ở trên địa bàn Hà Nội, tính đến 1/4/2019 dân số Hà Nội hơn 8 triệu người (2,22 triệu hộ dân cư). Trung bình mỗi năm, dân số Thủ đô tăng thêm khoảng 160.000 người, tương đương một huyện lớn. Gia tăng dân số đang tạo áp lực lên hệ thống cơ sở hạ tầng giao thông đô thị, y tế, giáo dục, môi trường, văn minh đô thị và nhà ở của Thủ đô.  
-Giao thông và logistics yếu kém chính là những vấn đề lớn nhất của Hà Nội. Các phương tiện công cộng như xe bus, lượng người sử dụng không nhiều, chủ yếu là ở học sinh, sinh viên và người lớn tuổi, hầu như mọi người đều sử dụng phương tiện cá nhân. Do đó, lượng xe cộ tham gia lưu thông quá lớn (khoảng 7 triệu xe máy và 1 triệu ô tô) đã khiến hạ tầng của Hà Nội phải chịu nhiều áp lực. Ngoài ra, thành phố cũng chứng kiến sự bùng nổ của các phương tiện mới như xe đạp, xe máy điện và hình thức vận tải công nghệ như Grap,… Tất cả đã làm cho tình trạng giao thông ở Hà Nội ngày càng tăng và phức tạp.
+<p align="justify">
+  Giao thông và logistics yếu kém chính là những vấn đề lớn nhất của Hà Nội. Các phương tiện công cộng như xe bus, lượng người sử dụng không nhiều, chủ yếu là ở học sinh, sinh viên và người lớn tuổi, hầu như mọi người đều sử dụng phương tiện cá nhân. Do đó, lượng xe cộ tham gia lưu thông quá lớn (khoảng 7 triệu xe máy và 1 triệu ô tô) đã khiến hạ tầng của Hà Nội phải chịu nhiều áp lực. Ngoài ra, thành phố cũng chứng kiến sự bùng nổ của các phương tiện mới như xe đạp, xe máy điện và hình thức vận tải công nghệ như Grap,… Tất cả đã làm cho tình trạng giao thông ở Hà Nội ngày càng tăng và phức tạp.
+</p>
+
 
 
 ## 4.3. THÁCH THỨC
