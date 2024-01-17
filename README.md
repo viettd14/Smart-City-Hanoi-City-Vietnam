@@ -337,20 +337,20 @@ With 110 traffic cameras installed on the Hanoi - Lao Cai expressway for monitor
 
 ### 5.1.4. TRAFFIC SIGNAL CONTROL SYSTEM
 <a name="trafficsignalcontrolsystem"></a>
-<p align="justify">HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG (POC FOR VIDEO ANALYTIC BASED TRAFFIC MANAGEMENT)</p>
-<p align="justify">Phối hợp với Ủy ban Nhân dân Hà Nội, Sở Giao thông vận tải và Sở Cảnh sát giao thông Hà Nội, Công ty Cổ phần Công nghệ Itelco và Tập đoàn FPT, Siemens đã trang bị nút giao Phạm Hùng - Mê Trí với công nghệ điều khiển giao thông hiện đại và dự định tới 2030 sẽ triển khai trên toàn Thủ đô Hà Nội.</p>
+<p align="justify">POC FOR VIDEO ANALYTIC BASED TRAFFIC MANAGEMENT</p>
+<p align="justify">In collaboration with the Hanoi People's Committee, the Department of Transport, and the Hanoi Traffic Police Department, Itelco Technology Company, FPT Corporation, and Siemens have equipped the Pham Hung - Me Tri intersection with modern traffic control technology. The plan is to extend this technology across the entire capital city of Hanoi by 2030.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/sQyGZfg.png" alt="ệ thống điều khiển POC của Siemens">
+  <img width="600" src="https://i.imgur.com/sQyGZfg.png" alt="Siemens POC control system">
 </p>
 <p align="center">
-  <em>Hình 10: Hệ thống điều khiển POC của Siemens</em>
+  <em>Figure 10: Siemens POC control system</em>
 </p>
-<p align="justify">Trong giờ cao điểm, đường phố Hà Nội bị tắc nghẽn bởi hàng ngàn xe trên mỗi ngã tư. Với hệ thống kiểm soát lưu lượng của Siemens thông qua việc phân tích các video. Hệ thống sẽ tự động phát hiện và thay đổi thời gian tín hiệu đèn giao thông để phù hợp trên tuyến phố để tối ưu lưu lượng giao thông một cách tốt nhất có thể. Ví dụ, vào giờ cao điểm buổi sáng, hệ thống sẽ tự động thay đổi thời gian đèn xanh hoặc đèn đỏ của tuyến số 1 nhiều hơn thời điểm bình thường (thời điểm bình thường đèn xanh của tuyến 1 là 30s sẽ được tăng lên thành 50s, để có thể tránh kẹt xe hoặc ùn ứ nhiều xe ở tuyến 2), và giờ cao điểm vào buổi chiều thì sẽ tự động thay đổi ngược lại.</p>
+<p align="justify">During peak hours, the streets of Hanoi are congested with thousands of vehicles at each intersection. With Siemens' traffic control system, which analyzes video footage, the system will automatically detect and adjust traffic signal timings along the street to optimize traffic flow as efficiently as possible. For example, during the morning peak hours, the system will automatically increase the green or red light duration for route 1 compared to normal times (the normal green light duration for route 1 is 30 seconds, which will be increased to 50 seconds, to avoid congestion or a queue of vehicles on route 2), and during the evening peak hours, it will automatically adjust it the other way around.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/kxQBXhG.png" alt="Hệ thống điều khiển POC của Siemens">
+  <img width="600" src="https://i.imgur.com/kxQBXhG.png" alt=""Lane division at the Siemens system intersection.">
 </p>
 <p align="center">
-  <em>Hình 11: Hệ thống điều khiển POC của Siemens</em>
+  <em>Figure 11: Lane division at the Siemens system intersection.</em>
 </p>
 
 
