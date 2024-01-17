@@ -26,8 +26,8 @@
       - [ỨNG DỤNG IPARKING](#ungdungiparking)  
       - [XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP](#xaydungnhungbaidauxethongminhdangthap)
    
-   5.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)  
-   5.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)
+   5.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)   
+   5.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)  
    5.5. [ỨNG DỤNG SMART CITY HÀ NỘI](#ungdungsmartcityhanoi)  
      - [THÔNG TIN ỨNG DỤNG](#thongtinungdung)  
      - [SỔ LIÊN LẠC ĐIỆN TỬ](#solienlacdientu)
