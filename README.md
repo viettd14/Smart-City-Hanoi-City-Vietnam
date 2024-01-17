@@ -10,10 +10,10 @@
    3.2. [THE CRITERIA FOR EVALUATING A SMART CITY](#thecriteriaforevaluatingasmartcity)  
 4. [THE CURRENT SITUATION OF HANOI CITY](#thecurrentsituationofhanoicity)  
    4.1. [DEVELOPMENT STATUS OF SMART CITY IN HANOI](#developmentstatusofsmartcityinhanoi)  
-   4.2. [KHÓ KHĂN](#khokhan)  
-   4.3. [THÁCH THỨC](#thachthuc)  
-   4.4. [CÁC YẾU TỐ CỐT LÕI ĐỂ HÀ NỘI ĐI LÊN SMART CITY](#cacyeutocotloidehanoidilensmartcity)  
-   4.5. [LỘ TRÌNH XÂY DỰNG HÀ NỘI SMART CITY](#lotrinhxaydunghanoismartcity)  
+   4.2. [CHALLENGES](#challenges)  
+   4.3. [ISSUES](#issues)  
+   4.4. [CORE ELEMENTS TO UPGRADE HANOI TO SMART CITY](#core-elements-to-upgrade-hanoi-to-smart-city)  
+   4.5. [HANOI SMART CITY DEVELOPMENT ROADMAP](#hanoi-smart-city-development-roadmap)  
 
 5. [NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC](#nhungtinhnangthongminhhanoidaxaydungduoc)  
    5.1. [GIAO THÔNG THÔNG MINH](#giaothongthongminh)  
@@ -178,48 +178,37 @@ The fifth session of the Hanoi City People's Council on December 4, 2017, decide
 <p align="justify">In health management, Hanoi is the first locality to widely deploy the electronic health record management system. Nearly 900,000 health records have been established.</p>
 <p align="justify">Moreover, a database of over 8 million residents of the Capital has been built to deploy applications, services for citizens, businesses, and the city's operational activities. The city's electronic communication portal also provides information on air quality, West Lake water environment, rainfall, and flood maps...</p>
 
-## 4.2. KHÓ KHĂN
-<a name="khokhan"></a>
+## 4.2. CHALLENGES
+<a name="challenges"></a>
 <p align="justify">
-Do chiến tranh và thời kỳ bao cấp, đã làm cho Hà Nội chậm chân với hiện đại hóa sau nhiều thập niên. Ngày nay, Hà Nội đang không ngừng mở rộng, hướng tới vị thế của một đô thị quốc tế với khuynh hướng thông minh. Xu hướng toàn cầu hóa và bối cảnh cạnh tranh quyết liệt giữa các thành phố lớn, nhất là tại khu vực châu Á – Thái Bình Dương, đã và đang mang tới những đổi thay đáng kể cho Hà Nội trên nhiều lĩnh vực, đồng thời đặt ra các thách thức mới đối với công tác quản trị, tăng cường thu hút đầu tư, mở cửa hội nhập và chú trọng phát triển bền vững.
-</p>
+Due to wars and the period of subsidies, Hanoi has lagged behind in modernization for many decades. Nowadays, Hanoi is continuously expanding, aiming to become an international city with a smart orientation. Globalization trends and fierce competition among major cities, especially in the Asia-Pacific region, have brought significant changes to Hanoi in various fields, while also posing new challenges for governance, attracting investment, opening up to integration, and emphasizing sustainable development.</p>
 <p align="justify">
-Tổng dân số và nhà ở trên địa bàn Hà Nội, tính đến 1/4/2019 dân số Hà Nội hơn 8 triệu người (2,22 triệu hộ dân cư). Trung bình mỗi năm, dân số Thủ đô tăng thêm khoảng 160.000 người, tương đương một huyện lớn. Gia tăng dân số đang tạo áp lực lên hệ thống cơ sở hạ tầng giao thông đô thị, y tế, giáo dục, môi trường, văn minh đô thị và nhà ở của Thủ đô.
-</p>
+As of April 1, 2019, the total population of Hanoi is over 8 million people (2.22 million households). On average, the capital's population increases by about 160,000 people each year, equivalent to a large district. The population growth is putting pressure on the urban transportation system, healthcare, education, environment, urban culture, and housing in the capital.</p>
 <p align="justify">
-Giao thông và logistics yếu kém chính là những vấn đề lớn nhất của Hà Nội. Các phương tiện công cộng như xe bus, lượng người sử dụng không nhiều, chủ yếu là ở học sinh, sinh viên và người lớn tuổi, hầu như mọi người đều sử dụng phương tiện cá nhân. Do đó, lượng xe cộ tham gia lưu thông quá lớn (khoảng 7 triệu xe máy và 1 triệu ô tô) đã khiến hạ tầng của Hà Nội phải chịu nhiều áp lực. Ngoài ra, thành phố cũng chứng kiến sự bùng nổ của các phương tiện mới như xe đạp, xe máy điện và hình thức vận tải công nghệ như Grap,… Tất cả đã làm cho tình trạng giao thông ở Hà Nội ngày càng tăng và phức tạp.
-</p>
+Weak transportation and logistics are the major issues in Hanoi. Public transportation such as buses, with a low number of users, mainly consists of students, elderly people, and very few adults, as most people rely on personal vehicles. Therefore, the large number of vehicles on the road (about 7 million motorbikes and 1 million cars) has put immense pressure on Hanoi's infrastructure. Additionally, the city is witnessing the surge of new means of transportation such as bicycles, electric scooters, and technology-based transport services like Grab. All these factors contribute to the increasing and complex traffic situation in Hanoi.</p>
 
-## 4.3. THÁCH THỨC
-<a name="thachthuc"></a>
+## 4.3. ISSUES
+<a name="issues"></a>
 <p align="justify">
-Hiện Hà Nội đang có rất nhiều thuận lợi trong việc xây dựng Smart City. Đó là dễ kêu gọi sự đầu tư của các tập đoàn, doanh nghiệp trong, ngoài nước như Viettel, VNPT, FPT, CMC... và một số tập đoàn nước ngoài lớn như Microsoft, Dell,… để thực hiện.
+Currently, Hanoi is in a favorable position for building a Smart City. It is easy to attract investments from both domestic and international corporations such as Viettel, VNPT, FPT, CMC, and major foreign companies like Microsoft, Dell.</p>
+<p align="justify">
+Countries with experience in building Smart Cities, such as Singapore, are also eager to cooperate with Hanoi in these areas. Prime Minister Ly Hien Long, during a meeting with Hanoi's leadership, expressed Singapore's desire to collaborate with Hanoi in investing and developing high-tech zones, software industry, and promoting cooperation in the field of Smart City.</p>
+<p align="justify">
+Singapore is willing to facilitate the participation of officials from Hanoi and Vietnam in training courses in Singapore, including at the Ly Quang Dieu School of Public Administration.
 </p>
 <p align="justify">
-Nhiều nước có kinh nghiệm xây dựng Smart City như Singapore cũng đang mong muốn hợp tác với Hà Nội trong các lĩnh vực này. Thủ tướng Lý Hiển Long trong một lần hội đàm với lãnh đạo Hà Nội cũng cho biết, Singapore luôn mong muốn hợp tác với Hà Nội để đầu tư, xây dựng các khu công nghệ cao, phát triển khu công nghiệp phần mềm và thúc đẩy hợp tác trong lĩnh vực Smart City. 
-</p>
+Moreover, Hanoi has several advantages that other localities may not have, such as intellectual potential with nearly 80% of professors, associate professors, over 80% of leading experts, and over one-third of universities and research institutes working directly in the area. Of course, Hanoi still faces many challenges and difficulties on the path to building a Smart City. In addition to challenges related to outdated ICT technical infrastructure, general technical infrastructure is causing congestion in traffic, water shortages, flooding of wastewater, rainwater, and environmental pollution from waste.</p>
 <p align="justify">
-Singapore sẵn sàng tạo điều kiện cho các cán bộ của thành phố Hà Nội cũng như của Việt Nam tham gia các khóa đào tạo tại Singapore, trong đó có Trường Hành chính công Lý Quang Diệu.
-</p>
+According to Hoang Trung Hai, Secretary of the Hanoi Party Committee, another core challenge is how to have a workforce of sufficient quality to meet the needs of Smart City and operate e-government. Technology is a crucial platform for Smart City, creating connections between the government, businesses, and citizens. However, human resources ultimately determine the success or failure of Smart City.</p>
 <p align="justify">
-Mặt khác, Hà Nội còn có nhiều lợi thế mà các địa phương khác không thể có, đó là tiềm năng chất xám với gần 80% số giáo sư, phó giáo sư; trên 80% chuyên gia đầu ngành và trên 1/3 trường đại học, viện nghiên cứu làm việc trực tiếp trên địa bàn. Tất nhiên, Hà Nội vẫn còn không ít khó khăn, thách thức trên lộ trình xây dựng Smart City. Ngoài những khó khăn về hạ tầng kỹ thuật ICT chưa hiện đại thì nền tảng hạ tầng kỹ thuật chung đang làm tắc nghẽn giao thông, thiếu nước sinh hoạt, ngập úng nước thải, nước mưa, rác thải ô nhiễm môi trường...
-</p>
+Despite these challenges, in recent times, Hanoi has made significant preparations on a solid foundation for building a Smart City according to the outlined plan. Recently, the People's Council of the city passed a resolution adjusting the "Program on the Application of Information Technology Objectives in the Activities of State Agencies in Hanoi City in the 2016-2020 period.</p>
 <p align="justify">
-Ngoài ra, theo Bí thư Thành ủy Hà Nội Hoàng Trung Hải, một khó khăn cốt lõi nữa là làm sao có nguồn nhân lực đủ chất lượng đáp ứng cho Smart City, vận hành chính phủ điện tử. Công nghệ là nền tảng quan trọng của Smart City tạo ra sự kết nối giữa chính phủ, doanh nghiệp với người dân, nhưng con người mới quyết định sự thành bại của Smart City.
-</p>
+With the adjusted implementation budget increased from 1,252 billion VND to 3,000 billion VND, the program is a crucial platform for Hanoi to develop e-government, Smart City, and comprehensively advance economic and social sectors.</p>
 <p align="justify">
-Khó khăn, thách thức như vậy, nhưng thời gian qua Hà Nội đã có những bước chuẩn bị về nền tảng khá tốt để xây dựng Smart City đúng lộ trình đề ra. Và mới đây Hội đồng Nhân dân thành phố đã thông qua Nghị quyết về điều chỉnh "Chương trình mục tiêu ứng dụng công nghệ thông tin trong hoạt động các cơ quan nhà nước thành phố Hà Nội giai đoạn 2016-2020". 
-</p>
-<p align="justify">
-Với mức kinh phí thực hiện được điều chỉnh từ 1.252 tỷ đồng lên 3.000 tỷ đồng, chương trình là nền tảng quan trọng để Hà Nội xây dựng chính phủ điện tử, Smart City nhằm phát triển toàn diện các lĩnh vực kinh tế - xã hội.
-Bí thư Thành ủy Hà Nội cũng yêu cầu chính quyền Hà Nội bước sang năm 2018 cần kiên quyết thực hiện tốt 3 khâu đột mà Đại hội Đảng bộ thành phố đã đề ra.
-</p>
-<p align="justify">
-Đó là phát triển đồng bộ hiện đại hóa từng bước kết cấu hạ tầng đô thị và nông thôn; đẩy mạnh cải cách hành chính, cải thiện môi trường đầu tư; nâng cao chất lượng nguồn nhân lực... Những đột phá đó sẽ tác động mạnh mẽ đến tốc độ thực hiện mục tiêu đưa Hà Nội trở thành Smart City vào năm 2030.
-</p>
+Secretary of the Hanoi Party Committee also demanded that the Hanoi authorities firmly implement the three breakthrough stages that the Party Committee of the city has set for 2018. These stages include synchronously developing the modernization of urban and rural infrastructure, intensifying administrative reforms, improving the investment environment, and enhancing the quality of human resources. These breakthroughs will have a significant impact on the speed of achieving the goal of making Hanoi a Smart City by 2030.</p>
 
-## 4.4. CÁC YẾU TỐ CỐT LÕI ĐỂ HÀ NỘI ĐI LÊN SMART CITY
-<a name="cacyeutocotloidehanoidilensmartcity"></a>
+## 4.4. CORE ELEMENTS TO UPGRADE HANOI TO SMART CITY
+<a name="core-elements-to-upgrade-hanoi-to-smart-city"></a>
 <p align="justify">
 Thứ nhất, Hà Nội cần một hệ thống hạ tầng kỹ thuật công nghệ thông tin và truyền thông (ICT) hiện đại đủ phủ kín thành phố. Hệ thống ICT đảm bảo trong thành phố "vạn vật được kết nối" (Internet of Things). Tức là qua hỗ trợ của ICT cư dân sống trong thành phố sẽ kết nối được với thiên nhiên, nhà ở, đường xá, cây cối, nhà bếp, xe cộ... Để làm được điều đó, người ta phải sử dụng các thiết bị công nghệ cao (high technical) như các cảm biến đa (sensor), camera, mạng không dây tốc độ cao, các đường truyền cáp quang, xử lý dữ liệu lớn, tốc độ cực nhanh, kết nối liên thông các lĩnh vực kỹ thuật và phi kỹ thuật, thêm vào nữa là ứng dụng tự động hoá trong sản xuất và đời sống, chẳng hạn robot, xe không người lái....
 </p>
@@ -236,8 +225,8 @@ Thứ tư, cần phải có một đội ngũ chuyên gia cực giỏi, toàn di
 Thứ năm, cần phải có "chính quyền thông minh", "lãnh đạo thông minh", gồm những người có tài, có tâm, minh bạch, bởi chính quyền thông minh sẽ biết ra quyết sách đúng, lựa chọn đúng lĩnh vực ưu tiên, quyết định mức đầu tư phù hợp và biết cách duy trì thành quả lâu dài cho Smart City.
 </p>
 
-## 4.5. LỘ TRÌNH XÂY DỰNG HÀ NỘI SMART CITY
-<a name="lotrinhxaydunghanoismartcity"></a>
+## 4.5. HANOI SMART CITY DEVELOPMENT ROADMAP
+<a name="hanoi-smart-city-development-roadmap"></a>
 Được chia làm 3 giai đoạn chính
 -	Giai đoạn 1 từ 2016-2020: hình thành cơ bản các thành phần như nền tảng cơ sở hạ tầng; xây dựng hệ thống thông minh: giao thông, chính phủ, kinh tế, giáo dục…
 -	Giai đoạn hai 2020-2025: coi người dân là trung tâm, tập trung xây dựng các khu dân cư công nghệ cao, người dân sẽ được tham gia quản lý, hình thành kinh tế số.
