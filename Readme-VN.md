@@ -31,7 +31,8 @@
    5.5. [ỨNG DỤNG SMART CITY HÀ NỘI](#ungdungsmartcityhanoi)  
      - [THÔNG TIN ỨNG DỤNG](#thongtinungdung)  
      - [SỔ LIÊN LẠC ĐIỆN TỬ](#solienlacdientu)
-       
+     - [CỔNG DỊCH VỤ CÔNG QUỐC GIA](#congdichvucong)
+
    5.6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)  
    5.7. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
       - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
@@ -258,34 +259,46 @@ Thứ năm, cần phải có "chính quyền thông minh", "lãnh đạo thông 
 
 
 
-# 5. ỨNG DỤNG SMART CITY HÀ NỘI
-<a name="ungdungsmartcityhanoi"></a>
+# 5. NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC
+<a name="nhungtinhnangthongminhhanoidaxaydungduoc"></a>
 
-## 5.1. THÔNG TIN ỨNG DỤNG
-<a name="thongtinungdung"></a>
+## 5.1. GIAO THÔNG THÔNG MINH
+<a name="giaothongthongminh"></a>
 
-## 5.2. SỔ LIÊN LẠC ĐIỆN TỬ
-<a name="solienlacdientu"></a>
+### 5.1.1. XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS
+<a name="xaydunghethonggiaothongthongminh"></a>
 
-## 5.3. CỔNG DỊCH VỤ CÔNG QUỐC GIA
-<a name="congdichvucong"></a>
+### 5.1.2. MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS
+<a name="motsotuyenduongdatrienkhai"></a>
+
+### 5.1.3. HỆ THỐNG CCTV CỦA ĐÀI VOV
+<a name="hethongcctvcuadaivov"></a>
+
+### 5.1.4. HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG
+<a name="hethongdieukhientinhieugiaothong"></a>
 
 
-# 6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)
-# 7. [NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC](#nhungtinhnangthongminhhanoidaxaydungduoc)  
-   7.1. [GIAO THÔNG THÔNG MINH](#giaothongthongminh)  
-      - [XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS](#xaydunghethonggiaothongthongminh)  
-      - [MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS](#motsotuyenduongdatrienkhai)  
-      - [HỆ THỐNG CCTV CỦA ĐÀI VOV](#hethongcctvcuadaivov)  
-      - [HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG](#hethongdieukhientinhieugiaothong)
-   
-   7.2. [ĐỖ XE THÔNG MINH](#doxethongminh)  
+   5.2. [ĐỖ XE THÔNG MINH](#doxethongminh)  
       - [ỨNG DỤNG IPARKING](#ungdungiparking)  
       - [XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP](#xaydungnhungbaidauxethongminhdangthap)
    
-   7.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)  
-   7.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)  
-   7.5. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
+   5.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)  
+   5.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)
+
+# 5.5. ỨNG DỤNG SMART CITY HÀ NỘI
+<a name="ungdungsmartcityhanoi"></a>
+
+### 5.5.1. THÔNG TIN ỨNG DỤNG
+<a name="thongtinungdung"></a>
+
+### 5.5.2. SỔ LIÊN LẠC ĐIỆN TỬ
+<a name="solienlacdientu"></a>
+
+### 5.5.3. CỔNG DỊCH VỤ CÔNG QUỐC GIA
+<a name="congdichvucong"></a>
+     
+   5.6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)  
+   5.7. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
       - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
       - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG](#trungtamgiamsatdieuhanhanninhcongcong)  
       - [TRUNG TÂM ỨNG CỨU KHẨN CẤP](#trungtamungcuukhancap)  
@@ -293,9 +306,9 @@ Thứ năm, cần phải có "chính quyền thông minh", "lãnh đạo thông 
       - [TRUNG TÂM GIÁM SÁT BẢO MẬT AN TOÀN THÔNG TIN](#trungtamgiamsatbaomatantoanthongtin)  
       - [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#trungtamhoidapykienphucvunguoidan)  
       - [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
-      - [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)  
-
-
+      - [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)
+         
+6. [NGUỒN THAM KHẢO](#nguonthamkhao)
 
 
     
