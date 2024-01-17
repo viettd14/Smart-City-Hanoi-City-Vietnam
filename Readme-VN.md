@@ -373,7 +373,7 @@ Với 110 camera giao thông được lắp trên cao tốc Hà Nội - Lào Cai
 </p>
 <p align="justify">Trong giờ cao điểm, đường phố Hà Nội bị tắc nghẽn bởi hàng ngàn xe trên mỗi ngã tư. Với hệ thống kiểm soát lưu lượng của Siemens thông qua việc phân tích các video. Hệ thống sẽ tự động phát hiện và thay đổi thời gian tín hiệu đèn giao thông để phù hợp trên tuyến phố để tối ưu lưu lượng giao thông một cách tốt nhất có thể. Ví dụ, vào giờ cao điểm buổi sáng, hệ thống sẽ tự động thay đổi thời gian đèn xanh hoặc đèn đỏ của tuyến số 1 nhiều hơn thời điểm bình thường (thời điểm bình thường đèn xanh của tuyến 1 là 30s sẽ được tăng lên thành 50s, để có thể tránh kẹt xe hoặc ùn ứ nhiều xe ở tuyến 2), và giờ cao điểm vào buổi chiều thì sẽ tự động thay đổi ngược lại.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/kxQBXhG.png" alt="Phân luồng ngã tư của hệ thống Siements">
+  <img width="600" src="https://i.imgur.com/MTe3ylW.png" alt="Phân luồng ngã tư của hệ thống Siements">
 </p>
 <p align="center">
   <em>Hình 11: phân luồng ngã tư của hệ thống Siements</em>
