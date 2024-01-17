@@ -332,11 +332,23 @@ Bao gồm 9 hệ thống riêng, được chia làm 3 mảng rõ rệt bao gồm
 - Mảng giám sát giao thông: hệ thống camera CCTV dọc tuyến, camera dò xe, hệ thống giám sát tải trọng xe, hệ thống biển báo hiệu điện tử và Trung tâm điều hành tuyến. (hệ thống bao gồm 58 camera và trung tâm làm việc 24/7)
 - Mảng tiếp theo là mảng thu phí: gồm hệ thống thu phí khép kín, hệ thống điện thoại liên lạc nội bộ.
 - Cuối cùng là mảng phụ trợ bao gồm hệ thống truyền dẫn, hệ thống cung cấp nguồn, và hệ thống bổ sung như loa phát thanh, camera giám sát cầu vượt.
-
+  
+`Cao tốc Hà Nội – Lào Cai`  
 <p align="justify">
- 
+Với 110 camera giao thông được lắp trên cao tốc Hà Nội - Lào Cai để giám sát, phân tích, đánh giá, theo dõi lượng phương tiện hoạt động trên tuyến; tích hợp được dữ liệu các loại xe như dữ liệu đăng ký xe, dữ liệu quản lý Giấy phép lái xe, dữ liệu đăng kiểm, dữ liệu xe tang vật xe mất cắp; hệ thống giám sẽ tự động phát hiện các xe sử dụng biển số giả, các xe gây tai nạn bỏ chạy, các xe quá niên hạn sử dụng, xe mất cắp. Đồng thời quan sát, ghi nhận các phương tiện trên tuyến tại các điểm phức tạp về trật tự giao thông...
+</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/tBaR2GF.png" alt="hệ thống 110 camera tại cao tốc Hà Nội – Lào Cai">
+</p>
+<p align="center">
+  <em>Hình 8: hệ thống 110 camera tại cao tốc Hà Nội – Lào Cai</em>
 </p>
 
+`Nội đô Hà Nội` 
+<p align="justify">Hiện Hà Nội có khoảng 400 camera kết nối với 46 màn hình đặt tại Trung tâm điều khiển đèn tín hiệu giao thông Hà Nội. Khi các tín hiệu báo về cho thấy có ùn tắc hay sự cố ở tuyến đường nào, trung tâm sẽ xác định hướng phân luồng để giải quyết nhanh nhất.</p>
+<p align="justify">Sắp tới, Công an TP. Hà Nội sẽ phối hợp với Sở Giao thông vận tải tiếp tục kiến nghị việc phát triển thêm các thiết bị ngoại vi và hệ thống ưu tiên xe bus, xe cứu thương, xe chữa cháy… để tối ưu hóa về mặt giao thông.</p>
+<p align="justify">Hệ thống ưu tiên này đang được triển khai thử nghiệm tại tuyến xe bus Kim Mã - Yên Nghĩa. Trên tuyến đường này, khi xe bus đi qua những điểm giao cắt có tín hiệu đèn đỏ, tín hiệu đèn sẽ mở ưu tiên cho xe bus đi qua nhằm giảm tối đa thời gian xe bus di chuyển từ điểm đầu đến điểm cuối, tránh ùn tắc giao thông.</p>
+  
 ### 5.1.3. HỆ THỐNG CCTV CỦA ĐÀI VOV
 <a name="hethongcctvcuadaivov"></a>
 
