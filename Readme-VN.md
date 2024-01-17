@@ -567,7 +567,9 @@ Cá nhân, tổ chức dễ dàng truy cập Cổng Dịch vụ công Quốc gia
      
 ## 5.6. BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI
 <a name="bandoquihoachdatdai"></a>
-<p align="justify"></p>
+`https://quyhoach.hanoi.vn/`  
+Bản đồ qui hoạch này, cung cấp thông tin qui hoạch đất ở Hà Nội tới năm 2030.  
+<p align="justify">Phù hợp với những người đầu tư bất động sản hoặc mua đất, mua nhà để ở. Trên bản đồ, thể hiện rõ về quy hoạch chi tiết, phân lô, phân cụm, phân chia đất công – tư – quân đội rõ ràng.</p>
 
 
 ## 5.7. TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH
