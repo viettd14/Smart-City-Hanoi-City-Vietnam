@@ -327,6 +327,12 @@ Lộ trình phát triển hệ thống ITS tại Hà Nội
 
 ### 5.1.2. MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS
 <a name="motsotuyenduongdatrienkhai"></a>
+`Cao tốc Hà Nội - Hải Phòng`  
+Bao gồm 9 hệ thống riêng, được chia làm 3 mảng rõ rệt bao gồm:
+- Mảng giám sát giao thông: hệ thống camera CCTV dọc tuyến, camera dò xe, hệ thống giám sát tải trọng xe, hệ thống biển báo hiệu điện tử và Trung tâm điều hành tuyến. (hệ thống bao gồm 58 camera và trung tâm làm việc 24/7)
+- Mảng tiếp theo là mảng thu phí: gồm hệ thống thu phí khép kín, hệ thống điện thoại liên lạc nội bộ.
+- Cuối cùng là mảng phụ trợ bao gồm hệ thống truyền dẫn, hệ thống cung cấp nguồn, và hệ thống bổ sung như loa phát thanh, camera giám sát cầu vượt.
+
 <p align="justify">
  
 </p>
