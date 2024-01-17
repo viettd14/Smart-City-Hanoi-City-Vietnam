@@ -546,7 +546,8 @@ Chức năng của sổ liên lạc điện tử:
 
 ### 5.5.3. CỔNG DỊCH VỤ CÔNG QUỐC GIA
 <a name="congdichvucong"></a>
-<p align="justify"></p>
+<p align="justify">Cổng Dịch vụ công Quốc gia cung cấp thông tin về các thủ tục hành chính và dịch vụ công trực tuyến, hỗ trợ thực hiện, giám sát, đánh giá việc giải quyết thủ tục hành chính, dịch vụ công trực tuyến và tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức trên toàn quốc.</p>
+
 Cá nhân, tổ chức dễ dàng truy cập Cổng Dịch vụ công Quốc gia tại địa chỉ: `www.dichvucong.gov.vn` để hưởng nhiều lợi ích từ Cổng Dịch vụ công Quốc gia, như:
 -	Nộp thuế điện tử (thuế thu nhập cá nhân, cá nhân kinh doanh).
 -	Cấp mã số đơn vị quan hệ ngân sách; hủy tờ khai hải quan.
@@ -555,7 +556,13 @@ Cá nhân, tổ chức dễ dàng truy cập Cổng Dịch vụ công Quốc gia
 -	Thu phạt vi phạm giao thông đường bộ; đổi giấy phép lái xe (mức độ 4).
 -	Cấp mới giấy phép lái xe, giấy phép đăng ký kinh doanh.
 -	Và nhiều dịch vụ khác…
-
+  
+<p align="center">
+  <img width="600" src="https://i.imgur.com/UX1i0l1.png" alt="Cổng dịch vụ công quốc gia">
+</p>
+<p align="center">
+  <em>Hình 15: Cổng dịch vụ công quốc gia</em>
+</p>
      
 5.6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)  
 5.7. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
