@@ -125,6 +125,50 @@ Lợi ích mà di động thông minh đem lại
 
 
 
+# 4. HIỆN TRẠNG HÀ NỘI
+<a name="hientranghanoi"></a>
+
+## 4.1. TÌNH HÌNH PHÁT TRIỂN SMART CITY Ở HÀ NỘI(#)
+<a name="tinhhinhphattriensmartcityhanoi"></a>
+## 4.2. KHÓ KHĂN
+<a name="khokhan"></a>
+## 4.3. THÁCH THỨC
+<a name="thachthuc"></a>
+## 4.4. CÁC YẾU TỐ CỐT LÕI ĐỂ HÀ NỘI ĐI LÊN SMART CITY
+<a name="cacyeutocotloidehanoidilensmartcity"></a>
+## 4.5. LỘ TRÌNH XÂY DỰNG HÀ NỘI SMART CITY
+<a name="lotrinhxaydunghanoismartcity"></a>
+
+
+
+# 5. [ỨNG DỤNG SMART CITY HÀ NỘI](#ungdungsmartcityhanoi)  
+   5.1. [THÔNG TIN ỨNG DỤNG](#thongtinungdung)  
+   5.2. [SỔ LIÊN LẠC ĐIỆN TỬ](#solienlacdientu)  
+   5.3. [CỔNG DỊCH VỤ CÔNG QUỐC GIA](#congdichvucong)   
+# 6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)
+# 7. [NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC](#nhungtinhnangthongminhhanoidaxaydungduoc)  
+   7.1. [GIAO THÔNG THÔNG MINH](#giaothongthongminh)  
+      - [XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS](#xaydunghethonggiaothongthongminh)  
+      - [MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS](#motsotuyenduongdatrienkhai)  
+      - [HỆ THỐNG CCTV CỦA ĐÀI VOV](#hethongcctvcuadaivov)  
+      - [HỆ THỐNG ĐIỀU KHIỂN TÍN HIỆU GIAO THÔNG](#hethongdieukhientinhieugiaothong)
+   
+   7.2. [ĐỖ XE THÔNG MINH](#doxethongminh)  
+      - [ỨNG DỤNG IPARKING](#ungdungiparking)  
+      - [XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP](#xaydungnhungbaidauxethongminhdangthap)
+   
+   7.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)  
+   7.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)  
+   7.5. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
+      - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
+      - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG](#trungtamgiamsatdieuhanhanninhcongcong)  
+      - [TRUNG TÂM ỨNG CỨU KHẨN CẤP](#trungtamungcuukhancap)  
+      - [TRUNG TÂM PHÂN TÍCH DỮ LIỆU](#trungtamphantichdulieu)  
+      - [TRUNG TÂM GIÁM SÁT BẢO MẬT AN TOÀN THÔNG TIN](#trungtamgiamsatbaomatantoanthongtin)  
+      - [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#trungtamhoidapykienphucvunguoidan)  
+      - [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
+      - [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)  
+
 
 
 
