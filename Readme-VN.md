@@ -201,14 +201,58 @@ Tổng dân số và nhà ở trên địa bàn Hà Nội, tính đến 1/4/2019
 Giao thông và logistics yếu kém chính là những vấn đề lớn nhất của Hà Nội. Các phương tiện công cộng như xe bus, lượng người sử dụng không nhiều, chủ yếu là ở học sinh, sinh viên và người lớn tuổi, hầu như mọi người đều sử dụng phương tiện cá nhân. Do đó, lượng xe cộ tham gia lưu thông quá lớn (khoảng 7 triệu xe máy và 1 triệu ô tô) đã khiến hạ tầng của Hà Nội phải chịu nhiều áp lực. Ngoài ra, thành phố cũng chứng kiến sự bùng nổ của các phương tiện mới như xe đạp, xe máy điện và hình thức vận tải công nghệ như Grap,… Tất cả đã làm cho tình trạng giao thông ở Hà Nội ngày càng tăng và phức tạp.
 </p>
 
-
-
 ## 4.3. THÁCH THỨC
 <a name="thachthuc"></a>
+<p align="justify">
+Hiện Hà Nội đang có rất nhiều thuận lợi trong việc xây dựng Smart City. Đó là dễ kêu gọi sự đầu tư của các tập đoàn, doanh nghiệp trong, ngoài nước như Viettel, VNPT, FPT, CMC... và một số tập đoàn nước ngoài lớn như Microsoft, Dell,… để thực hiện.
+</p>
+<p align="justify">
+Nhiều nước có kinh nghiệm xây dựng Smart City như Singapore cũng đang mong muốn hợp tác với Hà Nội trong các lĩnh vực này. Thủ tướng Lý Hiển Long trong một lần hội đàm với lãnh đạo Hà Nội cũng cho biết, Singapore luôn mong muốn hợp tác với Hà Nội để đầu tư, xây dựng các khu công nghệ cao, phát triển khu công nghiệp phần mềm và thúc đẩy hợp tác trong lĩnh vực Smart City. 
+</p>
+<p align="justify">
+Singapore sẵn sàng tạo điều kiện cho các cán bộ của thành phố Hà Nội cũng như của Việt Nam tham gia các khóa đào tạo tại Singapore, trong đó có Trường Hành chính công Lý Quang Diệu.
+</p>
+<p align="justify">
+Mặt khác, Hà Nội còn có nhiều lợi thế mà các địa phương khác không thể có, đó là tiềm năng chất xám với gần 80% số giáo sư, phó giáo sư; trên 80% chuyên gia đầu ngành và trên 1/3 trường đại học, viện nghiên cứu làm việc trực tiếp trên địa bàn. Tất nhiên, Hà Nội vẫn còn không ít khó khăn, thách thức trên lộ trình xây dựng Smart City. Ngoài những khó khăn về hạ tầng kỹ thuật ICT chưa hiện đại thì nền tảng hạ tầng kỹ thuật chung đang làm tắc nghẽn giao thông, thiếu nước sinh hoạt, ngập úng nước thải, nước mưa, rác thải ô nhiễm môi trường...
+</p>
+<p align="justify">
+Ngoài ra, theo Bí thư Thành ủy Hà Nội Hoàng Trung Hải, một khó khăn cốt lõi nữa là làm sao có nguồn nhân lực đủ chất lượng đáp ứng cho Smart City, vận hành chính phủ điện tử. Công nghệ là nền tảng quan trọng của Smart City tạo ra sự kết nối giữa chính phủ, doanh nghiệp với người dân, nhưng con người mới quyết định sự thành bại của Smart City.
+</p>
+<p align="justify">
+Khó khăn, thách thức như vậy, nhưng thời gian qua Hà Nội đã có những bước chuẩn bị về nền tảng khá tốt để xây dựng Smart City đúng lộ trình đề ra. Và mới đây Hội đồng Nhân dân thành phố đã thông qua Nghị quyết về điều chỉnh "Chương trình mục tiêu ứng dụng công nghệ thông tin trong hoạt động các cơ quan nhà nước thành phố Hà Nội giai đoạn 2016-2020". 
+</p>
+<p align="justify">
+Với mức kinh phí thực hiện được điều chỉnh từ 1.252 tỷ đồng lên 3.000 tỷ đồng, chương trình là nền tảng quan trọng để Hà Nội xây dựng chính phủ điện tử, Smart City nhằm phát triển toàn diện các lĩnh vực kinh tế - xã hội.
+Bí thư Thành ủy Hà Nội cũng yêu cầu chính quyền Hà Nội bước sang năm 2018 cần kiên quyết thực hiện tốt 3 khâu đột mà Đại hội Đảng bộ thành phố đã đề ra.
+</p>
+<p align="justify">
+Đó là phát triển đồng bộ hiện đại hóa từng bước kết cấu hạ tầng đô thị và nông thôn; đẩy mạnh cải cách hành chính, cải thiện môi trường đầu tư; nâng cao chất lượng nguồn nhân lực... Những đột phá đó sẽ tác động mạnh mẽ đến tốc độ thực hiện mục tiêu đưa Hà Nội trở thành Smart City vào năm 2030.
+</p>
+
 ## 4.4. CÁC YẾU TỐ CỐT LÕI ĐỂ HÀ NỘI ĐI LÊN SMART CITY
 <a name="cacyeutocotloidehanoidilensmartcity"></a>
+<p align="justify">
+Thứ nhất, Hà Nội cần một hệ thống hạ tầng kỹ thuật công nghệ thông tin và truyền thông (ICT) hiện đại đủ phủ kín thành phố. Hệ thống ICT đảm bảo trong thành phố "vạn vật được kết nối" (Internet of Things). Tức là qua hỗ trợ của ICT cư dân sống trong thành phố sẽ kết nối được với thiên nhiên, nhà ở, đường xá, cây cối, nhà bếp, xe cộ... Để làm được điều đó, người ta phải sử dụng các thiết bị công nghệ cao (high technical) như các cảm biến đa (sensor), camera, mạng không dây tốc độ cao, các đường truyền cáp quang, xử lý dữ liệu lớn, tốc độ cực nhanh, kết nối liên thông các lĩnh vực kỹ thuật và phi kỹ thuật, thêm vào nữa là ứng dụng tự động hoá trong sản xuất và đời sống, chẳng hạn robot, xe không người lái....
+</p>
+<p align="justify">
+Thứ hai, phải quy hoạch xây dựng một hạ tầng hiện đại, các lĩnh vực như giao thông, bệnh viện, trường học... phải được đưa vào các ứng dụng thông minh và phải được quy hoạch trong hệ thống nền móng quản lý đô thị bài bản.
+</p>
+<p align="justify">
+Thứ ba, đó là công dân thông minh (Smart Citizen) có việc làm đầy đủ với thu nhập cao. Đây được coi là một trong số các yếu tố quyết định sự thành bại của Smart City.
+</p>
+<p align="justify">
+Thứ tư, cần phải có một đội ngũ chuyên gia cực giỏi, toàn diện và trung thành với lợi ích nhân dân để quản lý, vận hành một hệ thống kỹ thuật của Smart City.
+</p>
+<p align="justify">
+Thứ năm, cần phải có "chính quyền thông minh", "lãnh đạo thông minh", gồm những người có tài, có tâm, minh bạch, bởi chính quyền thông minh sẽ biết ra quyết sách đúng, lựa chọn đúng lĩnh vực ưu tiên, quyết định mức đầu tư phù hợp và biết cách duy trì thành quả lâu dài cho Smart City.
+</p>
+
 ## 4.5. LỘ TRÌNH XÂY DỰNG HÀ NỘI SMART CITY
 <a name="lotrinhxaydunghanoismartcity"></a>
+Được chia làm 3 giai đoạn chính
+-	Giai đoạn 1 từ 2016-2020: hình thành cơ bản các thành phần như nền tảng cơ sở hạ tầng; xây dựng hệ thống thông minh: giao thông, chính phủ, kinh tế, giáo dục…
+-	Giai đoạn hai 2020-2025: coi người dân là trung tâm, tập trung xây dựng các khu dân cư công nghệ cao, người dân sẽ được tham gia quản lý, hình thành kinh tế số.
+-	Giai đoạn ba từ 2025-2030: Hà Nội sẽ là Smart City phát triển cao...
 
 
 
