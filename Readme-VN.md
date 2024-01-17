@@ -427,7 +427,26 @@ Ngoài tính năng chính là hỗ trợ cho tài xế tìm các bãi đậu xe 
 
 ### 5.2.2. XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP
 <a name="xaydungnhungbaidauxethongminhdangthap"></a>
-<p align="justify"></p>
+<p align="justify">Hà Nội đã và đang xây dựng các bãi đỗ xe ở dạng thông minh ở dạng tháp (Tower Parking) chỉ với khoảng 2 đến 3 phút để đưa xe vào hoặc lấy ra, chỉ với một không gian nhỏ, có thể chứa được nhiều xe, vì vậy sẽ tiết kiệm được không gian.</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/10JtH7t.png" alt="tower parking Nguyễn Công Trứ">
+</p>
+<p align="center">
+  <em>Hình 14: Tower parking Nguyễn Công Trứ</em>
+</p>
+
+Với hình thức này, Hà Nội đã triển khai tại các bãi đỗ xe:
+-	Bãi đỗ xe Nguyễn Công Trứ với diện tích 126m2, cao 5 tầng với 4 dãy, chứa tổng cộng được 30 xe.
+-	Bãi đỗ xe Nguyễn Công Hoan với diện tích hơn 1.000 m2, cao 4 tầng, sức chứa 221 ôtô.
+-	Bãi đỗ xe tại phố Trần Nhật Duật có khả năng chứa được 91 xe cùng lúc.
+
+<p align="center">
+  <img width="600" src="https://i.imgur.com/BphHhN2.png" alt="tower parking">
+</p>
+<p align="center">
+  <em>Hình 14: Tower parking</em>
+</p>
+<p align="justify">Ngoài các bãi thông minh đã được nêu trên, thì theo em nghĩ trong tương lai, Hà Nội sẽ còn tiếp tục và phát triển những hình thức đậu đỗ xe như thế và kết hợp với app iParking này để hỗ trợ người dân trong việc đậu đỗ xe.</p>
 
 
 ## 5.3. PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ
