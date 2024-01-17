@@ -210,28 +210,30 @@ Secretary of the Hanoi Party Committee also demanded that the Hanoi authorities 
 ## 4.4. CORE ELEMENTS TO UPGRADE HANOI TO SMART CITY
 <a name="core-elements-to-upgrade-hanoi-to-smart-city"></a>
 <p align="justify">
-Thứ nhất, Hà Nội cần một hệ thống hạ tầng kỹ thuật công nghệ thông tin và truyền thông (ICT) hiện đại đủ phủ kín thành phố. Hệ thống ICT đảm bảo trong thành phố "vạn vật được kết nối" (Internet of Things). Tức là qua hỗ trợ của ICT cư dân sống trong thành phố sẽ kết nối được với thiên nhiên, nhà ở, đường xá, cây cối, nhà bếp, xe cộ... Để làm được điều đó, người ta phải sử dụng các thiết bị công nghệ cao (high technical) như các cảm biến đa (sensor), camera, mạng không dây tốc độ cao, các đường truyền cáp quang, xử lý dữ liệu lớn, tốc độ cực nhanh, kết nối liên thông các lĩnh vực kỹ thuật và phi kỹ thuật, thêm vào nữa là ứng dụng tự động hoá trong sản xuất và đời sống, chẳng hạn robot, xe không người lái....
-</p>
+Firstly, Hanoi needs a modern information and communication technology (ICT) infrastructure that fully covers the city. The ICT system ensures that the city becomes an "Internet of Things" (IoT) environment. This means that through ICT support, residents in the city can connect with nature, homes, roads, trees, kitchens, vehicles, and more. To achieve this, high-tech devices such as sensors, cameras, high-speed wireless networks, fiber optic transmissions, large data processing, extremely fast speeds, and interconnected applications in technical and non-technical fields are required. Additionally, automation applications in production and daily life, such as robots and unmanned vehicles, are essential.</p>
 <p align="justify">
-Thứ hai, phải quy hoạch xây dựng một hạ tầng hiện đại, các lĩnh vực như giao thông, bệnh viện, trường học... phải được đưa vào các ứng dụng thông minh và phải được quy hoạch trong hệ thống nền móng quản lý đô thị bài bản.
-</p>
+Secondly, it is necessary to plan and construct modern infrastructure. Areas such as transportation, hospitals, schools, etc., must be integrated into intelligent applications and carefully planned within the urban management system.</p>
 <p align="justify">
-Thứ ba, đó là công dân thông minh (Smart Citizen) có việc làm đầy đủ với thu nhập cao. Đây được coi là một trong số các yếu tố quyết định sự thành bại của Smart City.
-</p>
+Thirdly, smart citizens must have sufficient employment opportunities with high incomes. This is considered one of the decisive factors for the success of a Smart City.</p>
 <p align="justify">
-Thứ tư, cần phải có một đội ngũ chuyên gia cực giỏi, toàn diện và trung thành với lợi ích nhân dân để quản lý, vận hành một hệ thống kỹ thuật của Smart City.
-</p>
+Fourthly, there needs to be a team of highly skilled, comprehensive, and dedicated experts to manage and operate the technical system of the Smart City.</p>
 <p align="justify">
-Thứ năm, cần phải có "chính quyền thông minh", "lãnh đạo thông minh", gồm những người có tài, có tâm, minh bạch, bởi chính quyền thông minh sẽ biết ra quyết sách đúng, lựa chọn đúng lĩnh vực ưu tiên, quyết định mức đầu tư phù hợp và biết cách duy trì thành quả lâu dài cho Smart City.
-</p>
+Fifthly, a "smart government" or "smart leadership" is essential. This includes individuals with competence, integrity, transparency, who make informed decisions, prioritize key areas, determine appropriate investment levels, and know how to sustain long-term success for the Smart City.</p>
 
 ## 4.5. HANOI SMART CITY DEVELOPMENT ROADMAP
 <a name="hanoi-smart-city-development-roadmap"></a>
-Được chia làm 3 giai đoạn chính
--	Giai đoạn 1 từ 2016-2020: hình thành cơ bản các thành phần như nền tảng cơ sở hạ tầng; xây dựng hệ thống thông minh: giao thông, chính phủ, kinh tế, giáo dục…
--	Giai đoạn hai 2020-2025: coi người dân là trung tâm, tập trung xây dựng các khu dân cư công nghệ cao, người dân sẽ được tham gia quản lý, hình thành kinh tế số.
--	Giai đoạn ba từ 2025-2030: Hà Nội sẽ là Smart City phát triển cao...
-
+The Smart City development plan for Hanoi is divided into three main stages:
+- Stage 1 (2016-2020):
+  - Formation of basic components such as infrastructure foundations.
+  - Construction of intelligent systems in various sectors: transportation, government, economy, education, etc.
+- Stage 2 (2020-2025):
+  - Focus on placing citizens at the center of development.
+  - Concentration on constructing high-tech residential areas where citizens actively participate in management.
+  - Formation of a digital economy.
+- Stage 3 (2025-2030):
+  - Hanoi aims to become a highly developed Smart City.
+  - These stages indicate a progressive development approach, starting with the establishment of fundamental components, moving towards citizen-centric urban planning and the integration of advanced technologies, and finally, achieving a high level of smart city development by 2030.
+    
 
 
 # 5. NHỮNG TÍNH NĂNG THÔNG MINH HÀ NỘI ĐÃ XÂY DỰNG ĐƯỢC
