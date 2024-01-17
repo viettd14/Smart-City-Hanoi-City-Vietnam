@@ -41,19 +41,66 @@
       - [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#trungtamhoidapykienphucvunguoidan)  
       - [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
       - [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)  
-8. [TÀI LIỆU THAM KHẢO](#tailieuthamkhao)
+8. [NGUỒN THAM KHẢO](#nguonthamkhao)
+
+
 
 # 1. DANH MỤC TỪ VIẾT TẮT
 <a name="danhmuctuviettat"></a>
 
-| STT | Từ khóa | Từ viết tắt |
+| STT | Từ khóa | Từ viết tắt/ Chú thích |
 |:---:|:-------:|:-----------:|
 | 1 | Công nghệ thông tin | CNTT |
 | 2 | Hệ thống giám sát bằng camera | CCTV |
-| 3 | Công nghệ thông tin | CNTT |
-| 4 | Đô thị thông minh/ Thành phố thông minh | ĐTTM/ TPTM |
-| 5 |  |  |
-| 6 |  |  |
-|  |  |  |
-|  |  |  |
+| 3 | Đô thị thông minh/ Thành phố thông minh | ĐTTM/ TPTM |
+| 5 | Phòng họp không giấy tờ | e-Cabinet |
+| 5 | Giao thông vận tải | GTVT |
+| 6 | Công nghệ cao | High technical |
+| 7 | Hệ thống hạ tầng kỹ thuật công nghệ thông tin và truyền thông | ICT |
+| 8 | Trung tâm điều khiển toàn bộ thành phố thông minh | IOC |
+| 9 | Vạn vật kết nối | Internet of Things (IOT) |
+| 10 | Hệ thống giao thông thông minh | ITS |
+| 11 | Cảm biến | Sensor |
+| 12 | Đô thị thông minh/ Thành phố thông minh | Smart City |
+| 13 | Hệ thống điều khiển tín hiệu đèn giao thông | POC |
+| 14 | Thành phố | TP |
+| 15 | Trường trung học cơ sở | THCS |
+| 16 | Trường trung học phổ thông | THPT |
+| 17 | Viettel Solution (thành viên của tập đoàn Viettel) | VTS |
+| 18 | Đài tiếng nói Việt Nam | VOV |
 
+
+
+# 2. ĐẶT VẤN ĐỀ
+
+<a name="datvande"></a>
+Ở Việt Nam, cùng với quá trình đô thị hóa, số lượng người dân tập trung sinh sống và làm việc tại các thành phố lớn như Hà Nội, TP. HCM, Đà Nẵng ngày càng tăng. Việc gia tăng dân số đã ảnh hưởng đáng kể đến sự phát triển của các thành phố, bởi tình trạng ô nhiễm môi trường, thiếu thốn các nguồn lực như: Nước sạch, đất đai, không gian và năng lượng...  
+Thực tế cho thấy, các đô thị ở Việt Nam ngày càng phát triển mạnh mẽ nhất là trong bối cảnh cuộc Cách mạng công nghiệp 4.0. Sự phát triển đô thị bắt buộc phải đi kèm với thông minh để đáp ứng được nhu cầu ngày càng cao của con người, việc xây dựng các đô thị thông minh đã ngày càng trở nên quan trọng đối với Việt Nam. Trong bối cảnh đó, ngày 1/8/2018, Thủ tướng Chính phủ ban hành Quyết định số 950/QĐ-TTg phê duyệt Đề án Phát triển đô thị thông minh bền vững Việt Nam giai đoạn 2018 – 2025 và định hướng đến năm 2030. [1]  
+Tuy nhiên, hiện nay việc xây dựng và phát triển thành phố thông minh (Smart City) ở Việt Nam đang đối diện với không ít thách thức nảy sinh như: hội nhập, cạnh tranh đô thị, biến đổi khí hậu, nước biển dâng cao, phát triển bền vững đi kèm với tăng trưởng xanh. Các vấn đề phức tạp của quá trình đô thị hóa và phát triển đô thị như chênh lệch giàu nghèo, nhà ở, lao động, việc làm; phát triển vùng ven đô, liên kết đô thị - nông thôn (liên kết vùng), tiết kiệm nguồn tài nguyên thiên nhiên…  
+Bên cạnh đó, nhận thức của người dân về phát triển thành phố thông minh hiện còn ở mức hạn chế. Mặc dù, khái niệm thành phố thông minh xuất hiện gần 20 năm trên thế giới, nhưng đến nay vẫn còn nhiều tranh luận và chưa có sự thống nhất. Để đưa ra những gợi ý về phát triển TPTM cho Việt Nam, bài viết nghiên cứu các quan điểm về phát triển TPTM trên thế giới, thảo luận về mô hình phát triển đô thị thông minh ở Việt Nam và đề xuất một số kiến nghị.
+
+
+
+8. NGUỒN THAM KHẢO(#tailieuthamkhao)
+<a name="nguonthamkhao"></a>
+
+[1] http://vneconomy.vn/xay-dung-ha-noi-thanh-smart-city-vao-nam-2030-20180212182115575.htm
+https://solutions.viettel.vn/giai-phap?tab=vtproducts_business&cat=giao-thong-thong-minh
+https://vfossa.vn/uploads/news/2015_09/sfd-hn-2015-lethanhtung-bo-gtvt.pdf
+https://www.youtube.com/watch?v=GiOUxcJdsr4
+https://solutions.viettel.vn/uncategorized-vi/hien-thuc-hoa-quyet-tam-chinh-phu-phi-giay-to-it-hop-hanh.html
+https://vietteldng.net/ecabinet-he-thong-thong-tin-phuc-vu-hop-va-xu-ly-cong-viec-cua-chinh-phu-la-gi.html
+https://solutions.viettel.vn/san-pham-dich-vu/gioi-thieu-trung-tam-dieu-hanh-thanh-pho-thong-minh.html
+https://www.itu.int/en/ITU-D/RegionalPresence/AsiaPacific/Documents/Events/2018/ssceg2018/Presentation%20and%20Bio/17.%20Session%206_Le%20Quoc%20%20Huu_Viettel_IOC.pdf
+https://www.smartcitiesworld.net/news/smart-city-tech-demonstrated-in-hanoi-3415
+https://www.vir.com.vn/big-expectations-for-vietnam-in-sustainable-smart-city-development-71067.html
+https://hub.beesmart.city/en/smart-city-indicators
+https://www.vir.com.vn/big-expectations-for-vietnam-in-sustainable-smart-city-development-71067.html
+https://www.smartcity.press/smart-city-hanoi/
+https://www.tandfonline.com/doi/full/10.1080/13658816.2019.1673397
+https://www.marketopportunities.fi/home/2020/smart-city-projects-in-vietnam-look-for-solutions/
+https://www.smartcitiesworld.net/news/news/work-begins-on-hanois-42-billion-smart-city-4666
+https://opengovasia.com/vietnam-holds-ceremony-for-first-smart-city-project-in-hanoi/
+https://www.youtube.com/watch?v=JIlFH-Ljv-8&t=29s (IOC Viettel)
+https://www.youtube.com/watch?v=rsaDXYhX3U4 (ứng dụng smart city – bản đồ covid 19)
+https://www.youtube.com/watch?v=V6NVX5uxaKU&t=3s (iparking)
