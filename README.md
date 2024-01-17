@@ -15,7 +15,7 @@
    4.4. [CORE ELEMENTS TO UPGRADE HANOI TO SMART CITY](#core-elements-to-upgrade-hanoi-to-smart-city)  
    4.5. [HANOI SMART CITY DEVELOPMENT ROADMAP](#hanoi-smart-city-development-roadmap)  
 
-5. [SMART FEATURES IMPLEMENTED IN HANOI](#smartfeaturesimplementedinhanoi)
+5. [SMART FEATURES IMPLEMENTED IN HANOI](#smartfeaturesimplementedinhanoi)  
    5.1. [SMART TRAFFIC](#smarttraffic)
       - [BUILDING THE INTELLIGENT TRANSPORTATION SYSTEM (ITS)](#buildingtheintelligenttransportationsystem)
       - [DEPLOYMENT OF ITS ON SELECTED ROADS](#deploymentofitsonselectedroads)
