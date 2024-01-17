@@ -563,25 +563,53 @@ Cá nhân, tổ chức dễ dàng truy cập Cổng Dịch vụ công Quốc gia
 <p align="center">
   <em>Hình 15: Cổng dịch vụ công quốc gia</em>
 </p>
+
      
-5.6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)  
-5.7. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
-5.7.1. [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
-5.7.2. [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG](#trungtamgiamsatdieuhanhanninhcongcong)  
-5.7.3. [TRUNG TÂM ỨNG CỨU KHẨN CẤP](#trungtamungcuukhancap)  
-5.7.4. [TRUNG TÂM PHÂN TÍCH DỮ LIỆU](#trungtamphantichdulieu)  
-5.7.5. [TRUNG TÂM GIÁM SÁT BẢO MẬT AN TOÀN THÔNG TIN](#trungtamgiamsatbaomatantoanthongtin)  
-5.7.6. [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#trungtamhoidapykienphucvunguoidan)  
-5.7.7. [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
-5.7.8. [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)
+## 5.6. BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI
+<a name="bandoquihoachdatdai"></a>
+<p align="justify"></p>
+
+
+## 5.7. TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH
+<a name="trungtamdieukhienthanhphothongminh"></a>
+<p align="justify"></p>
+
+### 5.7.1. TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG
+<a name="trungtamgiamsatdieuhanhgiaothong"></a>
+<p align="justify"></p>
+
+### 5.7.2. TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG
+<a name="trungtamgiamsatdieuhanhanninhcongcong"></a>
+<p align="justify"></p>
+
+### 5.7.3. TRUNG TÂM ỨNG CỨU KHẨN CẤP
+<a name="trungtamungcuukhancap"></a>
+<p align="justify"></p>
+
+### 5.7.4. TRUNG TÂM PHÂN TÍCH DỮ LIỆU
+<a name="trungtamphantichdulieu"></a>
+<p align="justify"></p>
+
+### 5.7.5. TRUNG TÂM GIÁM SÁT BẢO MẬT AN TOÀN THÔNG TIN
+<a name="trungtamgiamsatbaomatantoanthongtin"></a>
+<p align="justify"></p>
+
+### 5.7.6. TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN
+<a name="trungtamhoidapykienphucvunguoidan"></a>
+<p align="justify"></p>
+
+### 5.7.7. TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG
+<a name="trungtamgiamsatthongtinbaochivatruyenthong"></a>
+<p align="justify"></p>
+
+### 5.7.8. TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH
+<a name="trungtamgiamsatdichvucong"></a>
+<p align="justify"></p>
+
+
          
-6. [NGUỒN THAM KHẢO](#nguonthamkhao)
-
-
-    
 # 8. NGUỒN THAM KHẢO
 <a name="nguonthamkhao"></a>
-
 http://vneconomy.vn/xay-dung-ha-noi-thanh-smart-city-vao-nam-2030-20180212182115575.htm  
 https://solutions.viettel.vn/giai-phap?tab=vtproducts_business&cat=giao-thong-thong-minh  
 https://vfossa.vn/uploads/news/2015_09/sfd-hn-2015-lethanhtung-bo-gtvt.pdf  
