@@ -73,10 +73,18 @@
 
 # 2. ĐẶT VẤN ĐỀ
 <a name="datvande"></a>
-Ở Việt Nam, cùng với quá trình đô thị hóa, số lượng người dân tập trung sinh sống và làm việc tại các thành phố lớn như Hà Nội, TP. HCM, Đà Nẵng ngày càng tăng. Việc gia tăng dân số đã ảnh hưởng đáng kể đến sự phát triển của các thành phố, bởi tình trạng ô nhiễm môi trường, thiếu thốn các nguồn lực như: Nước sạch, đất đai, không gian và năng lượng...  
-Thực tế cho thấy, các đô thị ở Việt Nam ngày càng phát triển mạnh mẽ nhất là trong bối cảnh cuộc Cách mạng công nghiệp 4.0. Sự phát triển đô thị bắt buộc phải đi kèm với thông minh để đáp ứng được nhu cầu ngày càng cao của con người, việc xây dựng các đô thị thông minh đã ngày càng trở nên quan trọng đối với Việt Nam. Trong bối cảnh đó, ngày 1/8/2018, Thủ tướng Chính phủ ban hành Quyết định số 950/QĐ-TTg phê duyệt Đề án Phát triển đô thị thông minh bền vững Việt Nam giai đoạn 2018 – 2025 và định hướng đến năm 2030.  
-Tuy nhiên, hiện nay việc xây dựng và phát triển thành phố thông minh (Smart City) ở Việt Nam đang đối diện với không ít thách thức nảy sinh như: hội nhập, cạnh tranh đô thị, biến đổi khí hậu, nước biển dâng cao, phát triển bền vững đi kèm với tăng trưởng xanh. Các vấn đề phức tạp của quá trình đô thị hóa và phát triển đô thị như chênh lệch giàu nghèo, nhà ở, lao động, việc làm; phát triển vùng ven đô, liên kết đô thị - nông thôn (liên kết vùng), tiết kiệm nguồn tài nguyên thiên nhiên…  
+<p align="justify">
+Ở Việt Nam, cùng với quá trình đô thị hóa, số lượng người dân tập trung sinh sống và làm việc tại các thành phố lớn như Hà Nội, TP. HCM, Đà Nẵng ngày càng tăng. Việc gia tăng dân số đã ảnh hưởng đáng kể đến sự phát triển của các thành phố, bởi tình trạng ô nhiễm môi trường, thiếu thốn các nguồn lực như: Nước sạch, đất đai, không gian và năng lượng...
+</p>
+<p align="justify">
+Thực tế cho thấy, các đô thị ở Việt Nam ngày càng phát triển mạnh mẽ nhất là trong bối cảnh cuộc Cách mạng công nghiệp 4.0. Sự phát triển đô thị bắt buộc phải đi kèm với thông minh để đáp ứng được nhu cầu ngày càng cao của con người, việc xây dựng các đô thị thông minh đã ngày càng trở nên quan trọng đối với Việt Nam. Trong bối cảnh đó, ngày 1/8/2018, Thủ tướng Chính phủ ban hành Quyết định số 950/QĐ-TTg phê duyệt Đề án Phát triển đô thị thông minh bền vững Việt Nam giai đoạn 2018 – 2025 và định hướng đến năm 2030.
+</p>
+<p align="justify">
+Tuy nhiên, hiện nay việc xây dựng và phát triển thành phố thông minh (Smart City) ở Việt Nam đang đối diện với không ít thách thức nảy sinh như: hội nhập, cạnh tranh đô thị, biến đổi khí hậu, nước biển dâng cao, phát triển bền vững đi kèm với tăng trưởng xanh. Các vấn đề phức tạp của quá trình đô thị hóa và phát triển đô thị như chênh lệch giàu nghèo, nhà ở, lao động, việc làm; phát triển vùng ven đô, liên kết đô thị - nông thôn (liên kết vùng), tiết kiệm nguồn tài nguyên thiên nhiên…
+</p>
+<p align="justify">
 Bên cạnh đó, nhận thức của người dân về phát triển thành phố thông minh hiện còn ở mức hạn chế. Mặc dù, khái niệm thành phố thông minh xuất hiện gần 20 năm trên thế giới, nhưng đến nay vẫn còn nhiều tranh luận và chưa có sự thống nhất. Để đưa ra những gợi ý về phát triển TPTM cho Việt Nam, bài viết nghiên cứu các quan điểm về phát triển TPTM trên thế giới, thảo luận về mô hình phát triển đô thị thông minh ở Việt Nam và đề xuất một số kiến nghị.
+</p>
 
 
 
@@ -85,8 +93,12 @@ Bên cạnh đó, nhận thức của người dân về phát triển thành ph
 
 ## 3.1. [THÀNH PHỐ THÔNG MINH LÀ GÌ?](#thanhphothongminhlagi)  
 <a name="thanhphothongminhlagi"></a>
+<p align="justify">
 Thành phố thông minh là một thành phố luôn đổi mới và sáng tạo: sử dụng các công nghệ thông tin, truyền thông và các phương tiện khác để nâng cao chất lượng cuộc sống, hiệu quả hoạt động – dịch vụ đô thị, tính cạnh tranh, đồng thời đảm bảo đáp ứng được nhu cầu của các thế hệ hiện tại và tương lai về các khía cạnh kinh tế, xã hội, môi trường và văn hóa.
+</p>
+<p align="justify">
 Thành phố thông minh là nơi thực hiện chiến lược phát triển tổng thể, thống nhất dựa trên các công nghệ và giải pháp thông minh với từ 5 – 8 thành phần: công dân thông minh, năng lượng thông minh, chăm sóc sức khỏe thông minh, tòa nhà thông minh, di động thông minh, cơ sở hạ tầng, công nghệ và điều hành thông minh của chính quyền và giáo dục thông minh.
+</p>
 
 ## 3.2. [NHỮNG TIÊU CHÍ ĐÁNH GIÁ THÀNH PHỐ THÔNG MINH](#nhungtieuchidanhgiathanhphothongminh)
 <a name="nhungtieuchidanhgiathanhphothongminh"></a>
@@ -97,10 +109,19 @@ Thành phố thông minh là nơi thực hiện chiến lược phát triển t�
   <em>Hình 1: 6 tiêu chí của Smart City</em>
 </p>
 
-`Chính phủ thông minh (chính phủ điện tử):` Xây dựng đô thị thông minh phải gắn kết, không được tách rời việc phát triển chính quyền điện tử. Lấy chính quyền điện tử làm nòng cốt để xây dựng đô thị thông minh (ĐTTM) tạo điều kiện thuận lợi nhất cho người dân và doanh nghiệp khi giao tiếp với cơ quan chính quyền.  
-Người dân phải được cung cấp các ứng dụng để giao tiếp với chính quyền và mọi ý kiến phản ánh của người dân phải được giải đáp nhanh và thoả đáng. Mục tiêu là làm giảm chi phí cung cấp các dịch vụ công, đảm bảo sự liên lạc tốt hơn giữa chính phủ với công dân bằng cách làm cho người dân dễ dàng tiếp cận với chính phủ thông qua web hoặc các ứng dụng mà chính phủ cung cấp. Từ đó, người dân giảm thiểu thời gian và chi phí trong quá trình thực hiện một giao dịch hoặc yêu cầu với chính phủ hoặc cơ quan quản lý.  
-Chính phủ cũng cung cấp các dịch vụ điện tử để hỗ trợ doanh nghiệp như: các chính sách, các quy định, thể chế, truy xuất các thông tin về kinh doanh (quy hoạch sử dụng đất, phát triển đô thị, đấu thầu, xây dựng, ...), tải các mẫu đơn, gia hạn giấy phép, đăng ký kinh doanh, xin cấp phép và nộp thuế.  
-`Kinh tế thông minh` là qui trình và công nghệ mà các doanh nghiệp dùng để kiểm soát dữ liệu, khai phá tri thức giúp cho các doanh nghiệp có thể đưa các các quyết định hiệu quả hơn trong hoạt động kinh doanh của mình. Công nghệ kinh doanh thông minh cung cấp một cách nhìn toàn cảnh hoạt động của doanh nghiệp từ quá khứ, hiện tại và các dự đoán tương lai. Một số hoạt động của kinh tế thông minh như: marketing online, sale online, sử dụng một số phần mềm để quản lý nhân viên, sản phẩm,…  
+<p align="justify">
+`Chính phủ thông minh (chính phủ điện tử):` Xây dựng đô thị thông minh phải gắn kết, không được tách rời việc phát triển chính quyền điện tử. Lấy chính quyền điện tử làm nòng cốt để xây dựng đô thị thông minh (ĐTTM) tạo điều kiện thuận lợi nhất cho người dân và doanh nghiệp khi giao tiếp với cơ quan chính quyền.
+</p>
+<p align="justify">
+Người dân phải được cung cấp các ứng dụng để giao tiếp với chính quyền và mọi ý kiến phản ánh của người dân phải được giải đáp nhanh và thoả đáng. Mục tiêu là làm giảm chi phí cung cấp các dịch vụ công, đảm bảo sự liên lạc tốt hơn giữa chính phủ với công dân bằng cách làm cho người dân dễ dàng tiếp cận với chính phủ thông qua web hoặc các ứng dụng mà chính phủ cung cấp. Từ đó, người dân giảm thiểu thời gian và chi phí trong quá trình thực hiện một giao dịch hoặc yêu cầu với chính phủ hoặc cơ quan quản lý.
+</p>
+<p align="justify">
+Chính phủ cũng cung cấp các dịch vụ điện tử để hỗ trợ doanh nghiệp như: các chính sách, các quy định, thể chế, truy xuất các thông tin về kinh doanh (quy hoạch sử dụng đất, phát triển đô thị, đấu thầu, xây dựng, ...), tải các mẫu đơn, gia hạn giấy phép, đăng ký kinh doanh, xin cấp phép và nộp thuế.
+</p>
+<p align="justify">
+`Kinh tế thông minh` là qui trình và công nghệ mà các doanh nghiệp dùng để kiểm soát dữ liệu, khai phá tri thức giúp cho các doanh nghiệp có thể đưa các các quyết định hiệu quả hơn trong hoạt động kinh doanh của mình. Công nghệ kinh doanh thông minh cung cấp một cách nhìn toàn cảnh hoạt động của doanh nghiệp từ quá khứ, hiện tại và các dự đoán tương lai. Một số hoạt động của kinh tế thông minh như: marketing online, sale online, sử dụng một số phần mềm để quản lý nhân viên, sản phẩm,…
+</p>
+<p align="justify">
 `Môi trường thông minh` sử dụng các thiết bị thông minh khác nhau để làm cho cuộc sống của người dân thoải mái hơn bằng cách thay thế công việc nguy hiểm, lao động chân tay và các nhiệm vụ lặp đi lặp lại bằng các máy móc hoặc thiết bị tự động. Các loại môi trường thông minh:
 - Môi trường máy tính ảo: cho phép các thiết bị thông minh truy cập các dịch vụ thích hợp ở mọi nơi và mọi lúc.
 - Môi trường vật lý: với nhiều loại thiết bị thông minh bao gồm thẻ, cảm biến và bộ điều khiển.
@@ -112,17 +133,26 @@ Tính năng:
 - IOT.
 - Khả năng dự đoán và ra quyết định.
 
-`Cuộc sống thông minh` nhằm mục đích tăng chất lượng cuộc sống cho người dân và du khách bằng cách đưa các công nghệ vào đời sống của mọi người như: wifi, điện thoại di động, hoặc các thiết bị hỗ trợ kết nối xã hội. Cung cấp các dịch vụ cải thiện chăm sóc sức khỏe và chăm sóc người già (ví dụ như eHealth, Ambient Living Living), nhà thông minh.  
-`Di động thông minh (giao thông)` là sự tích hợp các hình thức vận chuyển (xe, tàu, máy bay..) và cơ sở hạ tầng hiện có để làm cho việc đi lại an toàn hơn, sạch hơn và hiệu quả hơn. Có thể làm giảm việc sử dụng xe chạy bằng xăng. Di động thông minh sử dụng IoT để hỗ trợ người dùng giao tiếp giữa các phương tiện giao thông thông qua mạng không dây.  
-Di động thông minh sẽ phân tích dữ liệu theo thời gian thực và tự học máy để hỗ trợ điều tiết giao thông như: tự động tính toán và thay đổi thời gian tín hiệu đèn xanh đèn đỏ hay quản lý cơ sở hạ tầng vật lý như chỗ đỗ xe.  
+</p>
+<p align="justify">
+`Cuộc sống thông minh` nhằm mục đích tăng chất lượng cuộc sống cho người dân và du khách bằng cách đưa các công nghệ vào đời sống của mọi người như: wifi, điện thoại di động, hoặc các thiết bị hỗ trợ kết nối xã hội. Cung cấp các dịch vụ cải thiện chăm sóc sức khỏe và chăm sóc người già (ví dụ như eHealth, Ambient Living Living), nhà thông minh.
+</p>
+<p align="justify">
+`Di động thông minh (giao thông)` là sự tích hợp các hình thức vận chuyển (xe, tàu, máy bay..) và cơ sở hạ tầng hiện có để làm cho việc đi lại an toàn hơn, sạch hơn và hiệu quả hơn. Có thể làm giảm việc sử dụng xe chạy bằng xăng. Di động thông minh sử dụng IoT để hỗ trợ người dùng giao tiếp giữa các phương tiện giao thông thông qua mạng không dây.
+</p>
+<p align="justify">
+Di động thông minh sẽ phân tích dữ liệu theo thời gian thực và tự học máy để hỗ trợ điều tiết giao thông như: tự động tính toán và thay đổi thời gian tín hiệu đèn xanh đèn đỏ hay quản lý cơ sở hạ tầng vật lý như chỗ đỗ xe.
+
 Lợi ích mà di động thông minh đem lại
 -	Giảm tai nạn giao thông.
 -	Giảm tắc nghẽn giao thông.
 -	Nền kinh tế được cải thiện.
 -	Giảm ô nhiễm.
 
+</p>
+<p align="justify">
 `Công dân thông minh` người dân phải có việc làm đầy đủ với thu nhập cao. Đây được coi là một trong số các yếu tố quyết định sự thành bại của Smart City.
-
+</p>
 
 
 # 4. HIỆN TRẠNG HÀ NỘI
@@ -152,10 +182,10 @@ Ngoài ra, cơ sở dữ liệu hơn 8 triệu dân Thủ đô đã được xâ
 Do chiến tranh và thời kỳ bao cấp, đã làm cho Hà Nội chậm chân với hiện đại hóa sau nhiều thập niên. Ngày nay, Hà Nội đang không ngừng mở rộng, hướng tới vị thế của một đô thị quốc tế với khuynh hướng thông minh. Xu hướng toàn cầu hóa và bối cảnh cạnh tranh quyết liệt giữa các thành phố lớn, nhất là tại khu vực châu Á – Thái Bình Dương, đã và đang mang tới những đổi thay đáng kể cho Hà Nội trên nhiều lĩnh vực, đồng thời đặt ra các thách thức mới đối với công tác quản trị, tăng cường thu hút đầu tư, mở cửa hội nhập và chú trọng phát triển bền vững.
 </p>
 <p align="justify">
-  Tổng dân số và nhà ở trên địa bàn Hà Nội, tính đến 1/4/2019 dân số Hà Nội hơn 8 triệu người (2,22 triệu hộ dân cư). Trung bình mỗi năm, dân số Thủ đô tăng thêm khoảng 160.000 người, tương đương một huyện lớn. Gia tăng dân số đang tạo áp lực lên hệ thống cơ sở hạ tầng giao thông đô thị, y tế, giáo dục, môi trường, văn minh đô thị và nhà ở của Thủ đô.
+Tổng dân số và nhà ở trên địa bàn Hà Nội, tính đến 1/4/2019 dân số Hà Nội hơn 8 triệu người (2,22 triệu hộ dân cư). Trung bình mỗi năm, dân số Thủ đô tăng thêm khoảng 160.000 người, tương đương một huyện lớn. Gia tăng dân số đang tạo áp lực lên hệ thống cơ sở hạ tầng giao thông đô thị, y tế, giáo dục, môi trường, văn minh đô thị và nhà ở của Thủ đô.
 </p>
 <p align="justify">
-  Giao thông và logistics yếu kém chính là những vấn đề lớn nhất của Hà Nội. Các phương tiện công cộng như xe bus, lượng người sử dụng không nhiều, chủ yếu là ở học sinh, sinh viên và người lớn tuổi, hầu như mọi người đều sử dụng phương tiện cá nhân. Do đó, lượng xe cộ tham gia lưu thông quá lớn (khoảng 7 triệu xe máy và 1 triệu ô tô) đã khiến hạ tầng của Hà Nội phải chịu nhiều áp lực. Ngoài ra, thành phố cũng chứng kiến sự bùng nổ của các phương tiện mới như xe đạp, xe máy điện và hình thức vận tải công nghệ như Grap,… Tất cả đã làm cho tình trạng giao thông ở Hà Nội ngày càng tăng và phức tạp.
+Giao thông và logistics yếu kém chính là những vấn đề lớn nhất của Hà Nội. Các phương tiện công cộng như xe bus, lượng người sử dụng không nhiều, chủ yếu là ở học sinh, sinh viên và người lớn tuổi, hầu như mọi người đều sử dụng phương tiện cá nhân. Do đó, lượng xe cộ tham gia lưu thông quá lớn (khoảng 7 triệu xe máy và 1 triệu ô tô) đã khiến hạ tầng của Hà Nội phải chịu nhiều áp lực. Ngoài ra, thành phố cũng chứng kiến sự bùng nổ của các phương tiện mới như xe đạp, xe máy điện và hình thức vận tải công nghệ như Grap,… Tất cả đã làm cho tình trạng giao thông ở Hà Nội ngày càng tăng và phức tạp.
 </p>
 
 
