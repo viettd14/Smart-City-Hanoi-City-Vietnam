@@ -129,17 +129,17 @@ Chính phủ cũng cung cấp các dịch vụ điện tử để hỗ trợ doa
 <p align="justify">
 Sử dụng các thiết bị thông minh khác nhau để làm cho cuộc sống của người dân thoải mái hơn bằng cách thay thế công việc nguy hiểm, lao động chân tay và các nhiệm vụ lặp đi lặp lại bằng các máy móc hoặc thiết bị tự động. Các loại môi trường thông minh:
 </p>
-- Môi trường máy tính ảo: cho phép các thiết bị thông minh truy cập các dịch vụ thích hợp ở mọi nơi và mọi lúc.
-- Môi trường vật lý: với nhiều loại thiết bị thông minh bao gồm thẻ, cảm biến và bộ điều khiển.
+- Môi trường máy tính ảo: cho phép các thiết bị thông minh truy cập các dịch vụ thích hợp ở mọi nơi và mọi lúc.  
+- Môi trường vật lý: với nhiều loại thiết bị thông minh bao gồm thẻ, cảm biến và bộ điều khiển.  
 - Môi trường của con người: với các thiết bị thông minh như điện thoại di động, laptop, smartwatch hoặc các thiết bị hỗ trợ sức khỏe như: máy tạo nhịp tim để duy trì hoạt động của tim khỏe mạnh hoặc kính áp tròng AR.
 
 <p align="justify">
 Tính năng:
 </p>
-- Điều khiển thiết bị từ xa.
-- Khả năng kết nối – giao tiếp giữa các thiết: sử dụng phần mềm trung gian hoặc các kết nối không dây để tạo thành một hệ thống.
-- Thu thập thông tin từ các cảm biến.
-- IOT.
+- Điều khiển thiết bị từ xa.  
+- Khả năng kết nối – giao tiếp giữa các thiết: sử dụng phần mềm trung gian hoặc các kết nối không dây để tạo thành một hệ thống.  
+- Thu thập thông tin từ các cảm biến.  
+- IOT.  
 - Khả năng dự đoán và ra quyết định.
 
 `Cuộc sống thông minh`
