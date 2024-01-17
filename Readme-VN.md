@@ -277,14 +277,58 @@ Thứ năm, cần phải có "chính quyền thông minh", "lãnh đạo thông 
 ### 5.1.1. XÂY DỰNG HỆ THỐNG GIAO THÔNG THÔNG MINH - ITS
 <a name="xaydunghethonggiaothongthongminh"></a>
 <p align="justify">
-  
+Để phát triển được thành phố thông minh, Hà Nội bắt buộc phải phát triển được hệ thống giao thông thông minh. Với số lượng phương tiện giao thông đang ngày một tăng cao, điều này đã gây ra không ít khó khăn và trở ngại trong việc điều hành, quản lý trong giao thông Hà Nội, minh chứng là các tuyến phố, việc kẹt xe trở nên thường xuyên.
+<p align="center">
+  <img width="600" src="https://i.imgur.com/DtxHnN4.png" alt="ITS là gì">
+</p>
+<p align="center">
+  <em>Hình 4: ITS là gì?</em>
+</p>
 </p>
 <p align="justify">
-  
+Giao thông luôn được coi là huyết mạch của mỗi đô thị hay mỗi quốc gia. Đối với bất kỳ một thành phố nào, việc phát triển hạ tầng giao thông luôn là lựa chọn hàng đầu trong việc phát triển của thành phố. Cũng chính vì vậy, giao thông thông minh (ITS) là một trong những thành phần quan trọng nhất để hình thành nên Smart City.
+</p>
+<p align="justify">
+Hệ thống ITS là sự tích hợp giữa cơ sở hạ tầng GTVT với công nghệ thông tin hỗ trợ quản lý, vận hành hạ tầng giao thông một cách hiệu quả, đảm bảo an toàn giao thông, giảm thời gian và chi phí đi lại, bảo vệ môi trường.</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/ZdKF46l.png" alt="những công nghệ được sử dụng trong ITS">
+</p>
+<p align="center">
+  <em>Hình 5: những công nghệ được sử dụng trong ITS</em>
+</p>
+<p align="justify">
+Giao thông luôn được coi là huyết mạch của mỗi đô thị hay mỗi quốc gia. Đối với bất kỳ một thành phố nào, việc phát triển hạ tầng giao thông luôn là lựa chọn hàng đầu trong việc phát triển của thành phố. Cũng chính vì vậy, giao thông thông minh (ITS) là một trong những thành phần quan trọng nhất để hình thành nên Smart City.
+</p>
+<p align="justify">
+Hệ thống ITS là sự tích hợp giữa cơ sở hạ tầng GTVT với công nghệ thông tin hỗ trợ quản lý, vận hành hạ tầng giao thông một cách hiệu quả, đảm bảo an toàn giao thông, giảm thời gian và chi phí đi lại, bảo vệ môi trường.
+</p>
+Các chức năng chính của ITS bao gồm:
+- Quản lý, điều hành vận tải.
+- Giám sát tình trạng giao thông.
+- Đảm bảo trật tự an toàn giao thông.
+- Thu phí đường bộ tự động: hiện đại hoá các trạm thu phí tự động và trạm cân điện tử.
+- Quản lý điều khiển giao thông.
+- Hệ thống thông tin giao thông
+<p align="center">
+  <img width="600" src="https://i.imgur.com/BH3luqx.png" alt="chức năng của ITS">
+</p>
+<p align="center">
+  <em>Hình 6: chức năng của ITS</em>
+</p>
+
+Lộ trình phát triển hệ thống ITS tại Hà Nội
+<p align="center">
+  <img width="600" src="https://i.imgur.com/xpJ7tzH.png" alt="lộ trình phát triển hệ thống ITS">
+</p>
+<p align="center">
+  <em>Hình 7: lộ trình phát triển hệ thống ITS</em>
 </p>
 
 ### 5.1.2. MỘT SỐ TUYẾN ĐƯỜNG ĐÃ TRIỂN KHAI ITS
 <a name="motsotuyenduongdatrienkhai"></a>
+<p align="justify">
+ 
+</p>
 
 ### 5.1.3. HỆ THỐNG CCTV CỦA ĐÀI VOV
 <a name="hethongcctvcuadaivov"></a>
