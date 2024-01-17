@@ -379,35 +379,94 @@ Với 110 camera giao thông được lắp trên cao tốc Hà Nội - Lào Cai
 </p>
 
 
-   5.2. [ĐỖ XE THÔNG MINH](#doxethongminh)  
-      - [ỨNG DỤNG IPARKING](#ungdungiparking)  
-      - [XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP](#xaydungnhungbaidauxethongminhdangthap)
-   
-   5.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)  
-   5.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)
+## 5.2. ĐỖ XE THÔNG MINH
+<a name="doxethongminh"></a>
+<p align="justify">Đi kèm với việc phát triển hệ thống giao thông chính là việc các phương tiện tham gia giao thông của người dân cũng xe tăng lên, sẽ dẫn tới những vấn đề mới cần giải quyết là đó chính là các bãi đậu đỗ xe ở các trung tâm thương mại, ở những khu chung cư, các địa điểm công cộng hoặc văn phòng.</p>
 
-# 5.5. ỨNG DỤNG SMART CITY HÀ NỘI
+### 5.2.1. ỨNG DỤNG IPARKING
+<a name="ungdungiparking"></a>
+<p align="justify">Những năm gần đây Hà Nội có tốc độ tăng trưởng phương tiện ô tô, xe gắn máy cao. Việc đầu tư kết cấu hạ tầng giao thông chưa đáp ứng kịp với tốc độ tăng trưởng của phương tiện cá nhân đã tạo áp lực lớn đối với hệ thống kết cấu hạ tầng, nhất là khu vực trung tâm Thành phố.</p>
+<p align="center">
+  <img width="600" src="https://i.imgur.com/wlEbovr.png" alt="Ứng dụng iParking">
+</p>
+<p align="center">
+  <em>Hình 12: Ứng dụng iParking</em>
+</p>
+<p align="justify">Để đảm bảo nhu cầu giao thông hiện tại, bên cạnh việc khuyến khích đầu tư xây dựng các bãi đỗ xe ngầm, hiện đại, tập trung, sử dụng các tầng hầm để đỗ xe trong các tòa nhà và khu chung cư… thì Hà Nội vẫn phải sử dụng tạm thời lòng đường, hè phố trông giữ xe để đáp ứng nhu cầu dừng, đỗ xe của các tổ chức và cá nhân theo các quy định của pháp luật.</p>
+<p align="justify">Để giải quyết vấn đề này, từ tháng 5/2017, TP. Hà Nội phối hợp với một số đối tác như: Công ty Khai thác điểm đỗ xe Hà Nội, Công ty CIS bắt triển khai thực hiện ứng dụng công nghệ trông giữ xe ô tô qua điện thoại di động Iparking.</p>
+<p align="justify">Bắt đầu thí điểm từ tháng 5/2017 đến nay, dịch vụ iparking đã thu hút được 13 doanh nghiệp tham gia, trông giữ xe tại 174 vị trí, thuộc địa bàn 8 quận.</p>
+<p align="justify">Với số lượng trên 700.000 ô tô và tốc độ gia tăng vào khoảng 10%/năm trên đia bàn Hà Nội hiện nay trong khi tổng diện tích đỗ xe theo iparking của 13 doanh nghiệp mới đáp ứng khoảng 7.000 chỗ đỗ (khoảng 1%) nên tiềm năng phát triển iparking ở Hà Nội là rất lớn.</p>
+
+Các tính năng mà ứng dụng đem lại cho người dùng:
+- Tìm kiếm dễ dàng: iParking cung cấp danh sách các điểm đỗ và số chỗ còn trống quanh khu vực người dùng muốn đỗ xe. Hiện tại, Hà Nôi có tới iparking 174 vị trí đỗ xe, thuộc địa bàn 8 quận: Hoàn Kiếm, Ba Đình, Đống Đa, Hai Bà Trưng, Thanh Xuân, Cầu Giấy, Nam Từ Liêm, Tây Hồ.
+-	Tự động cập nhật số chỗ trống: số chỗ trống tại mỗi điểm đỗ được cập nhật liên tục theo thời gian thực.
+-	Thanh toán thuận tiện: Người dùng có thể thanh toán qua thẻ thanh toán quốc tế, nội địa hoặc Internet Banking.
+-	Tối ưu hoá hiệu quả sử dụng các điểm đỗ xe: iParking giúp cho các đơn vị khai thác điểm đỗ xe nâng cao khả năng tiếp cận khách hàng cũng như cung cấp những công cụ giám sát, quản lý chuyên nghiệp nhất.
+-	Thông báo trước khi hết giờ: Ứng dụng iParking tự động thông báo cho người dùng 15 phút trước khi hết giờ đỗ xe. Người dùng có thể thực hiện thêm giờ hoặc gia hạn tự động từ xa thông qua ứng dụng.
+
+Các tính năng mà ứng dụng đem lại cho nhà quản lý.
+-	Bãi đỗ xe được tối ưu hóa.
+-	Lưu lượng giao thông giảm: Thay vì lái xe vòng quanh hàng giờ đồng hồ để tìm kiếm chỗ đỗ hợp lí, các chủ xe hoàn toàn có thể tiếp cận các bãi đỗ xe thông minh một cách dễ dàng và nhanh chóng.
+-	Giảm ô nhiễm: Giải pháp đỗ xe tối ưu làm giảm lượng chất thải của xe hàng ngày do giảm bớt được thời gian tìm kiếm, giảm bớt lượng đốt cháy nhiên liệu.
+-	Tăng doanh thu.
+-	Tăng độ an toàn.
+-	Giảm thiểu chi phí quản lí.
+
+<p align="center">
+  <img width="600" src="https://i.imgur.com/axCg1xU.png" alt="Tính năng tìm bãi đỗ xe trên ứng dụng iParking">
+</p>
+<p align="center">
+  <em>Hình 13: Tính năng tìm bãi đỗ xe trên ứng dụng iParking</em>
+</p>
+
+Ngoài tính năng chính là hỗ trợ cho tài xế tìm các bãi đậu xe thông minh, thì ứng dụng còn cung cấp các tính năng phụ khác nhưng cũng rất có ích với tài xế:
+-	Tìm trạm xăng gần nhất.
+-	Tìm các dịch vụ rửa xe gần nhất.
+-	Tìm các gara ô tô hoặc những địa điểm sửa xe.
+-	Tìm các địa điểm cứu hộ ô tô gần nhất và đi kèm sẽ là thông tin liên lạc để tài xế có thể dễ dàng ứng cứu với trường hợp xe hư hỏng bất ngờ.
+
+### 5.2.2. XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP
+<a name="xaydungnhungbaidauxethongminhdangthap"></a>
+<p align="justify"></p>
+
+
+## 5.3. PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ
+<a name="phonghopchinhphuphigiayto"></a>
+<p align="justify"></p>
+
+
+## 5.4. TRƯỜNG HỌC THÔNG MINH
+<a name="truonghocthongminh"></a>
+<p align="justify"></p>
+
+
+## 5.5. ỨNG DỤNG SMART CITY HÀ NỘI
 <a name="ungdungsmartcityhanoi"></a>
+<p align="justify"></p>
 
 ### 5.5.1. THÔNG TIN ỨNG DỤNG
 <a name="thongtinungdung"></a>
+<p align="justify"></p>
 
 ### 5.5.2. SỔ LIÊN LẠC ĐIỆN TỬ
 <a name="solienlacdientu"></a>
+<p align="justify"></p>
 
 ### 5.5.3. CỔNG DỊCH VỤ CÔNG QUỐC GIA
 <a name="congdichvucong"></a>
+<p align="justify"></p>
+
      
-   5.6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)  
-   5.7. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
-      - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
-      - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG](#trungtamgiamsatdieuhanhanninhcongcong)  
-      - [TRUNG TÂM ỨNG CỨU KHẨN CẤP](#trungtamungcuukhancap)  
-      - [TRUNG TÂM PHÂN TÍCH DỮ LIỆU](#trungtamphantichdulieu)  
-      - [TRUNG TÂM GIÁM SÁT BẢO MẬT AN TOÀN THÔNG TIN](#trungtamgiamsatbaomatantoanthongtin)  
-      - [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#trungtamhoidapykienphucvunguoidan)  
-      - [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
-      - [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)
+5.6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)  
+5.7. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
+5.7.1. [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
+5.7.2. [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG](#trungtamgiamsatdieuhanhanninhcongcong)  
+5.7.3. [TRUNG TÂM ỨNG CỨU KHẨN CẤP](#trungtamungcuukhancap)  
+5.7.4. [TRUNG TÂM PHÂN TÍCH DỮ LIỆU](#trungtamphantichdulieu)  
+5.7.5. [TRUNG TÂM GIÁM SÁT BẢO MẬT AN TOÀN THÔNG TIN](#trungtamgiamsatbaomatantoanthongtin)  
+5.7.6. [TRUNG TÂM HỎI ĐÁP Ý KIẾN PHỤC VỤ NGƯỜI DÂN](#trungtamhoidapykienphucvunguoidan)  
+5.7.7. [TRUNG TÂM GIÁM SÁT THÔNG TIN BÁO CHÍ VÀ TRUYỀN THÔNG](#trungtamgiamsatthongtinbaochivatruyenthong)  
+5.7.8. [TRUNG TÂM GIÁM SÁT DỊCH VỤ CÔNG ÍCH](#trungtamgiamsatdichvucong)
          
 6. [NGUỒN THAM KHẢO](#nguonthamkhao)
 
