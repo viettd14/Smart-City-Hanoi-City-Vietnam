@@ -33,7 +33,7 @@
      - [ELECTRONIC CONTACT BOOK](#electroniccontactbook)
      - [NATIONAL PUBLIC SERVICES PORTAL](#nationalpublicservicesportal)
 
-   5.6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)  
+   5.6. [LAND PLANNING MAP IN HANOI](#landplanningmapinhanoi)  
    5.7. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
       - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH GIAO THÔNG](#trungtamgiamsatdieuhanhgiaothong)  
       - [TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG](#trungtamgiamsatdieuhanhanninhcongcong)  
@@ -573,8 +573,8 @@ Individuals and organizations can easily access the National Public Service Port
 </p>
 
      
-## 5.6. BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI
-<a name="bandoquihoachdatdai"></a>
+## 5.6. LAND PLANNING MAP IN HANOI
+<a name="landplanningmapinhanoi"></a>
 `https://quyhoach.hanoi.vn/`  
 This land planning map provides information on residential land planning in Hanoi until the year 2030.
 <p align="justify">Suitable for real estate investors or homebuyers. On the map, it clearly illustrates detailed planning, subdivision, clustering, and distinct allocation of land for public, private, and military use.</p>
