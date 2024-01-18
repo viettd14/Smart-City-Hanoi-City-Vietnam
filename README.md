@@ -490,24 +490,40 @@ Furthermore, schools in Hanoi also offer some special features such as:
   <em>Figure 15: Smart City application</em>
 </p>
 
-Các tính năng của úng dụng Smart City Hà Nội
--	`Thông tin chi tiết dịch bệnh trên Thủ Đô Hà Nội và cả nước:` bao gồm các mục: bản đồ dịch bệnh, thống kê tình hình dịch, khai báo y tế và phản ánh.  
-Người dân có thể nắm bắt thông tin về tình hình dịch bệnh Covid 19, tiếp đến có thể biết chính xác khu vực có người mắc Covid 19 qua bản đồ dịch, khu vực có người cách ly để nhận biết các khu vực nguy hiểm, khu vực cách ly, chủ động phòng tráng phù hợp.  
-Người dân có thể nắm bắt vị trí những ca dương tính nCoV đang điều trị (F0), các trường hợp tiếp xúc gần từ F1 đến F5, hiển thị lần lượt bằng chấm màu đỏ đến màu xanh dương.
--	`Các dịch vụ công ích:` Nộp hồ sơ trực tuyến, theo dõi tình trạng xử lý hồ sơ, đánh giá mức độ hài lòng, giao tiếp với cơ quan công quyền thông qua việc gửi kiến nghị, góp ý, làm đánh giá khảo sát, thanh toán dịch vụ công mức 4.
--	`Dịch vụ về giáo dục:`
-Sổ liên lạc: giúp phụ huynh có thể theo dõi thường xuyên tình hình học tập của con ở trường và phối hợp với nhà trường đôn đốc việc học tập của con em mình.  
-Đăng ký tuyển sinh các cấp: Mầm non, Tiểu học, THCS, THPT.  
-Cung cấp chức năng nhắn tin trao đổi với giáo viên và với các phụ huynh trong lớp.  
-Thông báo các hoạt động của và tình hình của trẻ tại trường (điểm danh, nhận xét, khám sức khỏe, chia sẻ hình ảnh hoạt động của lớp,…).	  
-Nhận thông báo về học phí và thanh toán học phí qua ứng dụng.  
--	`Các dịch vụ về Y tế:`
-Quản lý và theo dõi được tình hình sức khỏe & quá trình khám chữa bệnh của mình và người thân.  
-Đặt lịch khám bệnh trực tuyến với các bệnh viện công trên địa bàn thành phố.  
-Theo dõi, nhắc lịch tái khám.  
-Thanh toán viện phí.  
-Đánh giá mức độ hài lòng khi sử dụng các dịch vụ tại các cơ sở khám chữa bệnh.  
--	`Dịch vụ khác:` Thanh toán hóa đơn điện, nước, thẻ điện thoại, xe bus, tàu điện.
+Smart City Hanoi Application Features:
+- `Detailed Information on Disease Outbreaks in Hanoi and Nationwide:`
+  - Disease Map: Users can access a map displaying the spread of Covid-19, identifying areas with confirmed cases.
+  - Outbreak Statistics: Real-time statistics on the pandemic situation, including the number of cases and areas affected.
+  - Health Declaration: Allows individuals to submit health declarations for monitoring and contact tracing purposes.
+  - Feedback and Reporting: Users can provide feedback and report issues related to the pandemic.
+  - Users can stay informed about the Covid-19 situation, identify high-risk areas, and proactively take preventive measures.
+
+- `Public Utility Services:`
+  - Online Document Submission: Enables citizens to submit documents online.
+  - Application Status Tracking: Users can monitor the processing status of their submitted documents.
+  - Satisfaction Evaluation: Provides a platform for users to assess their satisfaction with public services.
+  - Communication with Authorities: Allows users to communicate with government agencies by submitting recommendations and feedback.
+  - Service Fee Payment: Facilitates online payment for public services.
+
+- `Educational Services:`
+  - School Communication:
+  - Parent-Teacher Communication: Enables parents to stay updated on their child's academic progress and communicate with teachers.
+  - Enrollment Registration: Streamlines the online registration process for different education levels (Preschool, Primary, Secondary, High School).
+  - Messaging Function: Allows communication between parents and teachers within class groups.
+  - School Activities Notifications: Keeps parents informed about their child's activities, attendance, health checkups, and shares images of class activities.
+  - Tuition Fee Notifications and Payments: Provides notifications and facilitates online payment for tuition fees.
+
+- `Health Services:`
+  -  Personal Health Monitoring: Allows individuals to manage and monitor their health status and medical treatment history.
+  - Online Doctor Appointment Booking: Facilitates online appointment scheduling with public hospitals in the city.
+  - Appointment Reminders: Sends reminders for upcoming medical appointments.
+  - Medical Bill Payments: Enables users to pay medical bills through the application.
+  - Satisfaction Feedback: Allows users to provide feedback on their satisfaction with healthcare services.
+
+- `Other Services:`
+  - Utility Bill Payments: Supports the payment of electricity, water, phone bills, as well as public transportation fees (bus and train).
+
+
 <p align="center">
   <img width="600" src="https://i.imgur.com/SU1hwkg.png" alt="Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội">
 </p>
