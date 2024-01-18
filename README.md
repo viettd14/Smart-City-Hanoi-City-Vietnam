@@ -295,7 +295,7 @@ The main functions of ITS include:
 
 The Development Path of ITS System in Hanoi
 <p align="center">
-  <img width="600" src="https://i.imgur.com/xpJ7tzH.png" alt="The Development Path of ITS System in Hanoi">
+  <img width="600" src="https://i.imgur.com/tfmoLbe.png" alt="The Development Path of ITS System in Hanoi">
 </p>
 <p align="center">
   <em>Figure 7: The Development Path of ITS System in Hanoi</em>
@@ -314,7 +314,7 @@ It comprises 9 separate systems, clearly divided into 3 distinct categories, inc
 <p align="justify">
 With 110 traffic cameras installed on the Hanoi - Lao Cai expressway for monitoring, analyzing, evaluating, and tracking the volume of vehicles on the route. It integrates data on various types of vehicles, such as vehicle registration data, driver's license management data, inspection data, and data on stolen vehicles. The monitoring system will automatically detect vehicles using fake license plates, hit-and-run vehicles, vehicles exceeding the age limit, and stolen vehicles. It also observes and records vehicles on the route at complex traffic points.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/tBaR2GF.png" alt="The system of 110 cameras on the Hanoi – Lao Cai expressway">
+  <img width="600" src="https://i.imgur.com/lg6vBCn.png" alt="The system of 110 cameras on the Hanoi – Lao Cai expressway">
 </p>
 <p align="center">
   <em>Figure 8: The system of 110 cameras on the Hanoi – Lao Cai expressway</em>
