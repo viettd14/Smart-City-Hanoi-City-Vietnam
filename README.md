@@ -676,5 +676,5 @@ https://www.marketopportunities.fi/home/2020/smart-city-projects-in-vietnam-look
 https://www.smartcitiesworld.net/news/news/work-begins-on-hanois-42-billion-smart-city-4666  
 https://opengovasia.com/vietnam-holds-ceremony-for-first-smart-city-project-in-hanoi/  
 https://www.youtube.com/watch?v=JIlFH-Ljv-8&t=29s (IOC Viettel)  
-https://www.youtube.com/watch?v=rsaDXYhX3U4 (ứng dụng smart city – bản đồ covid 19)  
+https://www.youtube.com/watch?v=rsaDXYhX3U4 (smart city application)  
 https://www.youtube.com/watch?v=V6NVX5uxaKU&t=3s (iparking)  
