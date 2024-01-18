@@ -525,21 +525,28 @@ Smart City Hanoi Application Features:
 
 
 <p align="center">
-  <img width="600" src="https://i.imgur.com/SU1hwkg.png" alt="Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội">
+  <img width="600" src="https://i.imgur.com/SU1hwkg.png" alt="Monitor the CoVID epidemic map through the Smart City Hanoi application">
 </p>
 <p align="center">
-  <em>Hình 16: Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội</em>
+  <em>Hình 16: Monitor the CoVID epidemic map through the Smart City Hanoi application</em>
 </p>
 
 ### 5.5.2. ELECTRONIC CONTACT BOOK
 <a name="electroniccontactbook"></a>
-<p align="justify">Sổ liên lạc điện tử là tính năng của ứng dụng smart city Hà Nội được dùng để kết nối thông tin giữa nhà trường và phụ huynh học sinh, giúp cho phụ huynh học sinh có thể theo dõi quá trình học tập, rèn luyện của con em mình một cách chính xác và nhanh nhất.</p>
-Chức năng của sổ liên lạc điện tử:
--	Xem thời khóa biểu.
--	Xem bảng điểm, điểm danh.
--	Nhận thông báo của nhà trường, liên hệ với giáo viên giảng dạy.
--	Liên hệ với phụ huynh khác.
--	Góp ý với nhà trường…
+
+Electronic School Diary (e-School Diary) Feature in the Smart City Hanoi Application:
+- The electronic school diary is a feature of the Smart City Hanoi application designed to facilitate communication and information exchange between schools and parents, allowing parents to accurately and promptly monitor their children's learning and development.
+
+Functions of the e-School Diary:
+- View Class Schedule: Allows users to access and view the class timetable, keeping parents informed about their child's daily schedule.
+- Check Grades and Attendance: Provides the ability to review and monitor academic performance, including viewing grades and attendance records.
+- Receive School Notifications: Notifies parents about important updates and announcements from the school, ensuring they stay informed about school-related events.
+- Contact Teachers: Enables direct communication with teachers, allowing parents to engage with educators to discuss their child's progress and address any concerns.
+- Connect with Other Parents: Facilitates communication and networking among parents, fostering a sense of community and enabling collaboration on various matters.
+- Provide Feedback to the School: Allows parents to submit feedback and suggestions to the school, fostering a collaborative relationship between parents and educational institutions.
+  
+This electronic school diary feature serves as a comprehensive tool for parents to actively participate in their child's education, promoting transparency and effective communication between schools and families within the Smart City Hanoi framework.
+
 
 ### 5.5.3. NATIONAL PUBLIC SERVICES PORTAL
 <a name="nationalpublicservicesportal"></a>
