@@ -22,16 +22,16 @@
       - [VOV'S CCTV SYSTEM](#vovcctvsystem)
       - [TRAFFIC SIGNAL CONTROL SYSTEM](#trafficsignalcontrolsystem)
    
-   5.2. [ĐỖ XE THÔNG MINH](#doxethongminh)  
-      - [ỨNG DỤNG IPARKING](#ungdungiparking)  
-      - [XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP](#xaydungnhungbaidauxethongminhdangthap)
+   5.2. [SMART PARKING](#smartparking)  
+      - [IPARKING APPLICATION](#iparkingapplication)  
+      - [CONSTRUCTION OF SMART MULTI-STORY PARKING LOTS](#constructionofsmartmultistoryparkinglots)
    
-   5.3. [PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ](#phonghopchinhphuphigiayto)   
-   5.4. [TRƯỜNG HỌC THÔNG MINH](#truonghocthongminh)  
-   5.5. [ỨNG DỤNG SMART CITY HÀ NỘI](#ungdungsmartcityhanoi)  
-     - [THÔNG TIN ỨNG DỤNG](#thongtinungdung)  
-     - [SỔ LIÊN LẠC ĐIỆN TỬ](#solienlacdientu)
-     - [CỔNG DỊCH VỤ CÔNG QUỐC GIA](#congdichvucong)
+   5.3. [PAPERLESS GOVERNMENT MEETING ROOM](#paperlessgovernmentmeetingroom)   
+   5.4. [SMART SCHOOLS](#smartschools)  
+   5.5. [HANOI SMART CITY APPLICATIONS](#hanoismartcityapplications)  
+     - [APPLICATION INFORMATION](#applicationinformation)  
+     - [ELECTRONIC CONTACT BOOK](#electroniccontactbook)
+     - [NATIONAL PUBLIC SERVICES PORTAL](#nationalpublicservicesportal)
 
    5.6. [BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI](#bandoquihoachdatdai)  
    5.7. [TRUNG TÂM ĐIỀU KHIỂN THÀNH PHỐ THÔNG MINH](#trungtamdieukhienthanhphothongminh)
@@ -354,54 +354,57 @@ With 110 traffic cameras installed on the Hanoi - Lao Cai expressway for monitor
 </p>
 
 
-## 5.2. ĐỖ XE THÔNG MINH
-<a name="doxethongminh"></a>
-<p align="justify">Đi kèm với việc phát triển hệ thống giao thông chính là việc các phương tiện tham gia giao thông của người dân cũng xe tăng lên, sẽ dẫn tới những vấn đề mới cần giải quyết là đó chính là các bãi đậu đỗ xe ở các trung tâm thương mại, ở những khu chung cư, các địa điểm công cộng hoặc văn phòng.</p>
+## 5.2. SMART PARKING
+<a name="smartparking"></a>
+<p align="justify">Alongside the development of the transportation system, the number of vehicles participating in traffic is increasing, leading to new issues that need to be addressed, such as smart parking lots in commercial centers, residential areas, public places, or offices.</p>
 
-### 5.2.1. ỨNG DỤNG IPARKING
-<a name="ungdungiparking"></a>
-<p align="justify">Những năm gần đây Hà Nội có tốc độ tăng trưởng phương tiện ô tô, xe gắn máy cao. Việc đầu tư kết cấu hạ tầng giao thông chưa đáp ứng kịp với tốc độ tăng trưởng của phương tiện cá nhân đã tạo áp lực lớn đối với hệ thống kết cấu hạ tầng, nhất là khu vực trung tâm Thành phố.</p>
+### 5.2.1. IPARKING APPLICATION
+<a name="iparkingapplication"></a>
+<p align="justify">In recent years, Hanoi has experienced a rapid growth in the number of automobiles and motorcycles. The investment in transportation infrastructure has not kept up with the pace of the growth of individual vehicles, creating significant pressure on the infrastructure system, especially in the central areas of the city.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/wlEbovr.png" alt="Ứng dụng iParking">
+  <img width="600" src="https://i.imgur.com/wlEbovr.png" alt="iParking application">
 </p>
 <p align="center">
-  <em>Hình 12: Ứng dụng iParking</em>
+  <em>Hình 12: iParking application</em>
 </p>
-<p align="justify">Để đảm bảo nhu cầu giao thông hiện tại, bên cạnh việc khuyến khích đầu tư xây dựng các bãi đỗ xe ngầm, hiện đại, tập trung, sử dụng các tầng hầm để đỗ xe trong các tòa nhà và khu chung cư… thì Hà Nội vẫn phải sử dụng tạm thời lòng đường, hè phố trông giữ xe để đáp ứng nhu cầu dừng, đỗ xe của các tổ chức và cá nhân theo các quy định của pháp luật.</p>
-<p align="justify">Để giải quyết vấn đề này, từ tháng 5/2017, TP. Hà Nội phối hợp với một số đối tác như: Công ty Khai thác điểm đỗ xe Hà Nội, Công ty CIS bắt triển khai thực hiện ứng dụng công nghệ trông giữ xe ô tô qua điện thoại di động Iparking.</p>
-<p align="justify">Bắt đầu thí điểm từ tháng 5/2017 đến nay, dịch vụ iparking đã thu hút được 13 doanh nghiệp tham gia, trông giữ xe tại 174 vị trí, thuộc địa bàn 8 quận.</p>
-<p align="justify">Với số lượng trên 700.000 ô tô và tốc độ gia tăng vào khoảng 10%/năm trên đia bàn Hà Nội hiện nay trong khi tổng diện tích đỗ xe theo iparking của 13 doanh nghiệp mới đáp ứng khoảng 7.000 chỗ đỗ (khoảng 1%) nên tiềm năng phát triển iparking ở Hà Nội là rất lớn.</p>
+<p align="justify">To meet the current traffic demand, alongside encouraging investments in the construction of modern underground parking lots in concentrated areas, utilizing basement levels for parking in buildings and residential areas, Hanoi still relies on temporary solutions like on-road and sidewalk parking to meet the stopping and parking needs of organizations and individuals within the legal regulations.</p>
+<p align="justify">To address this issue, since May 2017, Hanoi, in collaboration with partners such as the Hanoi Parking Lot Operation Company and CIS Company, has implemented the iparking technology application for car monitoring through mobile phones.</p>
+<p align="justify">Starting as a pilot program from May 2017 until now, the iparking service has attracted 13 businesses participating in monitoring cars at 174 locations across 8 districts.</p>
+<p align="justify">With over 700,000 cars and a growth rate of about 10% per year in Hanoi, while the total parking spaces according to iparking from the 13 new businesses meet only about 7,000 spots (approximately 1%), the development potential of iparking in Hanoi is substantial.</p>
 
-Các tính năng mà ứng dụng đem lại cho người dùng:
-- Tìm kiếm dễ dàng: iParking cung cấp danh sách các điểm đỗ và số chỗ còn trống quanh khu vực người dùng muốn đỗ xe. Hiện tại, Hà Nôi có tới iparking 174 vị trí đỗ xe, thuộc địa bàn 8 quận: Hoàn Kiếm, Ba Đình, Đống Đa, Hai Bà Trưng, Thanh Xuân, Cầu Giấy, Nam Từ Liêm, Tây Hồ.
--	Tự động cập nhật số chỗ trống: số chỗ trống tại mỗi điểm đỗ được cập nhật liên tục theo thời gian thực.
--	Thanh toán thuận tiện: Người dùng có thể thanh toán qua thẻ thanh toán quốc tế, nội địa hoặc Internet Banking.
--	Tối ưu hoá hiệu quả sử dụng các điểm đỗ xe: iParking giúp cho các đơn vị khai thác điểm đỗ xe nâng cao khả năng tiếp cận khách hàng cũng như cung cấp những công cụ giám sát, quản lý chuyên nghiệp nhất.
--	Thông báo trước khi hết giờ: Ứng dụng iParking tự động thông báo cho người dùng 15 phút trước khi hết giờ đỗ xe. Người dùng có thể thực hiện thêm giờ hoặc gia hạn tự động từ xa thông qua ứng dụng.
 
-Các tính năng mà ứng dụng đem lại cho nhà quản lý.
--	Bãi đỗ xe được tối ưu hóa.
--	Lưu lượng giao thông giảm: Thay vì lái xe vòng quanh hàng giờ đồng hồ để tìm kiếm chỗ đỗ hợp lí, các chủ xe hoàn toàn có thể tiếp cận các bãi đỗ xe thông minh một cách dễ dàng và nhanh chóng.
--	Giảm ô nhiễm: Giải pháp đỗ xe tối ưu làm giảm lượng chất thải của xe hàng ngày do giảm bớt được thời gian tìm kiếm, giảm bớt lượng đốt cháy nhiên liệu.
--	Tăng doanh thu.
--	Tăng độ an toàn.
--	Giảm thiểu chi phí quản lí.
+Iparking application features for users:
+- Easy Search: iParking provides a list of parking spots and available spaces around the user's desired area. Currently, Hanoi has 174 parking locations under iparking, covering 8 districts: Hoan Kiem, Ba Dinh, Dong Da, Hai Ba Trung, Thanh Xuan, Cau Giay, Nam Tu Liem, Tay Ho.
+- Automatic Real-time Space Updates: The availability of parking spaces at each spot is continuously updated in real-time.
+- Convenient Payment: Users can make payments through international, domestic debit/credit cards, or Internet Banking.
+- Optimizing Parking Space Utilization: iParking helps parking spot operators improve customer accessibility and provides the most professional monitoring and management tools.
+- Advance Notification: iParking automatically notifies users 15 minutes before their parking time expires. Users can extend or renew remotely through the app.
+
+Iparking application features for managers:
+- Optimized Parking Lots: Efficient management of parking areas.
+- Reduced Traffic Flow: Instead of driving around for hours to find a suitable parking spot, vehicle owners can easily access smart parking lots.
+- Reduced Pollution: Optimized parking solutions reduce daily vehicle emissions by saving search time and minimizing fuel combustion.
+- Increased Revenue: Higher accessibility and efficient management contribute to increased revenue.
+- Enhanced Safety: Improved safety measures.
+- Minimized Management Costs: Efficient management tools help minimize administrative expenses.
 
 <p align="center">
-  <img width="600" src="https://i.imgur.com/axCg1xU.png" alt="Tính năng tìm bãi đỗ xe trên ứng dụng iParking">
+  <img width="600" src="https://i.imgur.com/axCg1xU.png" alt="Parking Space Search Feature on iParking Application">
 </p>
 <p align="center">
-  <em>Hình 13: Tính năng tìm bãi đỗ xe trên ứng dụng iParking</em>
+  <em>Figure 13: Parking Space Search Feature on iParking Application</em>
 </p>
 
-Ngoài tính năng chính là hỗ trợ cho tài xế tìm các bãi đậu xe thông minh, thì ứng dụng còn cung cấp các tính năng phụ khác nhưng cũng rất có ích với tài xế:
--	Tìm trạm xăng gần nhất.
--	Tìm các dịch vụ rửa xe gần nhất.
--	Tìm các gara ô tô hoặc những địa điểm sửa xe.
--	Tìm các địa điểm cứu hộ ô tô gần nhất và đi kèm sẽ là thông tin liên lạc để tài xế có thể dễ dàng ứng cứu với trường hợp xe hư hỏng bất ngờ.
+In addition to its primary function of assisting drivers in finding smart parking spaces, the iParking application offers several other auxiliary features that are equally valuable to drivers:
+- Find Nearest Gas Stations: Quickly locate the nearest gas stations to ensure drivers have access to fuel when needed.
+- Locate Car Wash Services: Easily find nearby car wash services for vehicle maintenance and cleanliness.
+- Discover Auto Garages: Locate auto garages or repair shops in the vicinity for vehicle repairs and maintenance.
+- Identify Towing Services: Find the nearest towing services, accompanied by contact information for swift assistance in case of unexpected vehicle breakdowns.
+  
+These additional features enhance the overall utility of the iParking application, providing drivers with a comprehensive tool for various aspects of their journey, from finding parking spaces to accessing essential services for their vehicles.
 
-### 5.2.2. XÂY DỰNG NHỮNG BÃI ĐẬU XE THÔNG MINH DẠNG THÁP
-<a name="xaydungnhungbaidauxethongminhdangthap"></a>
+### 5.2.2. CONSTRUCTION OF SMART MULTI-STORY PARKING LOTS
+<a name="constructionofsmartmultistoryparkinglots"></a>
 <p align="justify">Hà Nội đã và đang xây dựng các bãi đỗ xe ở dạng thông minh ở dạng tháp (Tower Parking) chỉ với khoảng 2 đến 3 phút để đưa xe vào hoặc lấy ra, chỉ với một không gian nhỏ, có thể chứa được nhiều xe, vì vậy sẽ tiết kiệm được không gian.</p>
 <p align="center">
   <img width="600" src="https://i.imgur.com/10JtH7t.png" alt="tower parking Nguyễn Công Trứ">
@@ -424,8 +427,8 @@ Với hình thức này, Hà Nội đã triển khai tại các bãi đỗ xe:
 <p align="justify">Ngoài các bãi thông minh đã được nêu trên, thì theo em nghĩ trong tương lai, Hà Nội sẽ còn tiếp tục và phát triển những hình thức đậu đỗ xe như thế và kết hợp với app iParking này để hỗ trợ người dân trong việc đậu đỗ xe.</p>
 
 
-## 5.3. PHÒNG HỌP CHÍNH PHỦ PHI GIẤY TỜ
-<a name="phonghopchinhphuphigiayto"></a>
+## 5.3. PAPERLESS GOVERNMENT MEETING ROOM
+<a name="paperlessgovernmentmeetingroom"></a>
 <p align="justify">Viettel Solution (VTS) đã phối hợp với chính quyền Hà Nội xây dựng hệ sinh thái chính phủ điện tử sử dụng CNTT để tự động hóa các quy trình của chính phủ để giảm thiểu các thủ tục hành chính, tiết kiệm thời gian, cho phép các cơ quan chính phủ cung cấp dịch vụ công chất lượng cao, giảm chi tiêu ngân sách quốc gia.</p>
 <p align="justify">Hiện tại, Chính phủ có thể họp hoàn toàn phi giấy tờ với Viettel e-Cabinet và biểu quyết sử dụng chữ ký số điện tử của Ban Cơ yếu Chính phủ trên các thiết bị di động. Ngay trong phiên họp, Thủ tướng có thể ký ngay Quyết định để ban hành qua mạng và ngay lập tức tới tất cả bộ, địa phương. Hệ thống này cũng có thể được tuỳ biến để triển khai cho các bộ, ngành và địa phương.</p>
 
@@ -455,8 +458,8 @@ Biểu quyết:
 -	Tổng hợp số phiếu bầu.
 
 
-## 5.4. TRƯỜNG HỌC THÔNG MINH
-<a name="truonghocthongminh"></a>
+## 5.4. SMART SCHOOLS
+<a name="smartschools"></a>
 <p align="justify">Ngoài việc cung cấp tính năng sổ liên liệc lạc điện tử được đi kèm trong ứng dụng Smart City Hà Nội đã được đề cập và giới thiệu ở phần sau.</p>
 <p align="justify">Trong điều kiện dịch bệnh đang xảy ra trên toàn quốc, các trường học đã tổ chức việc học online thông qua các ứng dụng như: Zoom, MS Team,…</p>
 Ngoài ra, các trường trên Hà Nội còn cung cấp một số các tính năng đặc biệt như:
@@ -467,11 +470,11 @@ Ngoài ra, các trường trên Hà Nội còn cung cấp một số các tính 
 -	Nhận thông báo về học phí và thanh toán học phí qua ứng dụng.
 
 
-## 5.5. ỨNG DỤNG SMART CITY HÀ NỘI
-<a name="ungdungsmartcityhanoi"></a>
+## 5.5. HANOI SMART CITY APPLICATIONS
+<a name="hanoismartcityapplications"></a>
 
-### 5.5.1. THÔNG TIN ỨNG DỤNG
-<a name="thongtinungdung"></a>
+### 5.5.1. APPLICATION INFORMATION
+<a name="applicationinformation"></a>
 <p align="justify"></p>
 
 <p align="justify">Ứng dụng điện thoại Hà Nội SmartCity được phát triển bởi Trung tâm tin học Hà Nội thuộc Văn phòng UBND thành phố, kích hoạt từ tối 18/3. Người dân có thể cài đặt Hà Nội Smart City qua Google Play hoặc App Store.</p>
@@ -509,8 +512,8 @@ Thanh toán viện phí.
   <em>Hình 14: Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội</em>
 </p>
 
-### 5.5.2. SỔ LIÊN LẠC ĐIỆN TỬ
-<a name="solienlacdientu"></a>
+### 5.5.2. ELECTRONIC CONTACT BOOK
+<a name="electroniccontactbook"></a>
 <p align="justify">Sổ liên lạc điện tử là tính năng của ứng dụng smart city Hà Nội được dùng để kết nối thông tin giữa nhà trường và phụ huynh học sinh, giúp cho phụ huynh học sinh có thể theo dõi quá trình học tập, rèn luyện của con em mình một cách chính xác và nhanh nhất.</p>
 Chức năng của sổ liên lạc điện tử:
 -	Xem thời khóa biểu.
@@ -519,8 +522,8 @@ Chức năng của sổ liên lạc điện tử:
 -	Liên hệ với phụ huynh khác.
 -	Góp ý với nhà trường…
 
-### 5.5.3. CỔNG DỊCH VỤ CÔNG QUỐC GIA
-<a name="congdichvucong"></a>
+### 5.5.3. NATIONAL PUBLIC SERVICES PORTAL
+<a name="nationalpublicservicesportal"></a>
 <p align="justify">Cổng Dịch vụ công Quốc gia cung cấp thông tin về các thủ tục hành chính và dịch vụ công trực tuyến, hỗ trợ thực hiện, giám sát, đánh giá việc giải quyết thủ tục hành chính, dịch vụ công trực tuyến và tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức trên toàn quốc.</p>
 
 Cá nhân, tổ chức dễ dàng truy cập Cổng Dịch vụ công Quốc gia tại địa chỉ: `www.dichvucong.gov.vn` để hưởng nhiều lợi ích từ Cổng Dịch vụ công Quốc gia, như:
