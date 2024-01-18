@@ -479,14 +479,15 @@ Furthermore, schools in Hanoi also offer some special features such as:
 <a name="applicationinformation"></a>
 <p align="justify"></p>
 
-<p align="justify">Ứng dụng điện thoại Hà Nội SmartCity được phát triển bởi Trung tâm tin học Hà Nội thuộc Văn phòng UBND thành phố, kích hoạt từ tối 18/3. Người dân có thể cài đặt Hà Nội Smart City qua Google Play hoặc App Store.</p>
-<p align="justify">Thông qua ứng dụng này, người dân có thể cập nhật được tất cả mọi tình hình của TP. Hà Nội hay những thông báo của chính quyền tới những người dân.</p>
-<p align="justify">Theo chủ tịch thành phố Hà Nội, ngoài cung cấp thông tin về tình hình dịch COVID-19, cung cấp bản đồ dịch, ứng dụng còn hỗ trợ các lực lượng giám sát người cách ly tại nhà qua GPS khi đăng ký điện thoại thông minh của người cách ly.</p>
+<p align="justify">The Hanoi SmartCity mobile application was developed by the Hanoi Information Technology Center under the Hanoi People's Committee, activated since the evening of March 18. Citizens can install Hanoi SmartCity through Google Play or the App Store.</p>
+<p align="justify">Through this application, citizens can update all the situations in Hanoi or announcements from the authorities to the public.</p>
+<p align="justify">According to the chairman of Hanoi city, besides providing information about the COVID-19 situation and offering an epidemic map, the application also supports monitoring of people in home quarantine through GPS when they register their smartphones.</p>
+
 <p align="center">
-  <img width="600" src="https://i.imgur.com/5HL9dV1.png" alt="Ứng dụng Smart City">
+  <img width="600" src="https://i.imgur.com/5HL9dV1.png" alt="Smart City application">
 </p>
 <p align="center">
-  <em>Hình 13: Ứng dụng Smart City</em>
+  <em>Figure 15: Smart City application</em>
 </p>
 
 Các tính năng của úng dụng Smart City Hà Nội
@@ -511,7 +512,7 @@ Thanh toán viện phí.
   <img width="600" src="https://i.imgur.com/SU1hwkg.png" alt="Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội">
 </p>
 <p align="center">
-  <em>Hình 14: Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội</em>
+  <em>Hình 16: Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội</em>
 </p>
 
 ### 5.5.2. ELECTRONIC CONTACT BOOK
@@ -541,7 +542,7 @@ Cá nhân, tổ chức dễ dàng truy cập Cổng Dịch vụ công Quốc gia
   <img width="600" src="https://i.imgur.com/UX1i0l1.png" alt="Cổng dịch vụ công quốc gia">
 </p>
 <p align="center">
-  <em>Hình 15: Cổng dịch vụ công quốc gia</em>
+  <em>Hình 17: Cổng dịch vụ công quốc gia</em>
 </p>
 
      
@@ -554,7 +555,7 @@ Bản đồ qui hoạch này, cung cấp thông tin qui hoạch đất ở Hà N
   <img width="600" src="https://i.imgur.com/z1Qj6Vy.png" alt="Bản đồ quy hoạch đất đai ở Hà Nội">
 </p>
 <p align="center">
-  <em>Hình 16: Bản đồ quy hoạch đất đai ở Hà Nội</em>
+  <em>Hình 18: Bản đồ quy hoạch đất đai ở Hà Nội</em>
 </p>
 
 
@@ -565,7 +566,7 @@ Bản đồ qui hoạch này, cung cấp thông tin qui hoạch đất ở Hà N
   <img width="600" src="https://i.imgur.com/wsh0X0u.png" alt="Các chức năng của trung tâm điều khiển thành phố Hà Nội đang được Viettel xây dựng">
 </p>
 <p align="center">
-  <em>Hình 17: Các chức năng của trung tâm điều khiển thành phố Hà Nội đang được Viettel xây dựng</em>
+  <em>Hình 19: Các chức năng của trung tâm điều khiển thành phố Hà Nội đang được Viettel xây dựng</em>
 </p>
 <p align="justify">Trung tâm điều hành thông minh đóng vai trò là bộ não tổng hợp, chỉ huy, điều hành toàn bộ các hoạt động của thành phố Hà Nội thông qua việc giám sát, điều hành các lĩnh vực ảnh hưởng trực tiếp đến hoạt động của thành phố như: Giao thông, An ninh công cộng, Ứng cứu khẩn cấp, Cứu nạn, cứu hộ, Cung cấp điện, Chiếu sáng đô thị, Cấp thoát nước, Thời tiết, Môi trường… của các cơ quan quản lý nhà nước, các doanh nghiệp dịch vụ công ích của thành phố.</p>
 
@@ -576,7 +577,7 @@ Bản đồ qui hoạch này, cung cấp thông tin qui hoạch đất ở Hà N
   <img width="600" src="https://i.imgur.com/vHxHSKP.png" alt="Trung tâm giám sát điều hành giao thông">
 </p>
 <p align="center">
-  <em>Hình 18: Trung tâm giám sát điều hành giao thông</em>
+  <em>Hình 20: Trung tâm giám sát điều hành giao thông</em>
 </p>
 
 ### 5.7.2. TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG
