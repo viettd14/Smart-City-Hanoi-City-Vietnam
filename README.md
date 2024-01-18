@@ -287,7 +287,7 @@ The main functions of ITS include:
 - Traffic information system.
   
 <p align="center">
-  <img width="600" src="https://i.imgur.com/BH3luqx.png" alt="The functions of ITS">
+  <img width="600" src="https://i.imgur.com/Nf03Khz.png" alt="The functions of ITS">
 </p>
 <p align="center">
   <em>Figure 6: The functions of ITS</em>
