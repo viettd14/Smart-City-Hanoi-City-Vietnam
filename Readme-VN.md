@@ -508,7 +508,7 @@ Ngoài ra, các trường trên Hà Nội còn cung cấp một số các tính 
   <img width="600" src="https://i.imgur.com/5HL9dV1.png" alt="Ứng dụng Smart City">
 </p>
 <p align="center">
-  <em>Hình 13: Ứng dụng Smart City</em>
+  <em>Hình 15: Ứng dụng Smart City</em>
 </p>
 
 Các tính năng của úng dụng Smart City Hà Nội
@@ -533,7 +533,7 @@ Thanh toán viện phí.
   <img width="600" src="https://i.imgur.com/SU1hwkg.png" alt="Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội">
 </p>
 <p align="center">
-  <em>Hình 14: Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội</em>
+  <em>Hình 16: Theo dõi dịch nCoV thông qua ứng dụng Smart City Hà Nội</em>
 </p>
 
 ### 5.5.2. SỔ LIÊN LẠC ĐIỆN TỬ
@@ -563,7 +563,7 @@ Cá nhân, tổ chức dễ dàng truy cập Cổng Dịch vụ công Quốc gia
   <img width="600" src="https://i.imgur.com/UX1i0l1.png" alt="Cổng dịch vụ công quốc gia">
 </p>
 <p align="center">
-  <em>Hình 15: Cổng dịch vụ công quốc gia</em>
+  <em>Hình 17: Cổng dịch vụ công quốc gia</em>
 </p>
 
      
@@ -576,7 +576,7 @@ Bản đồ qui hoạch này, cung cấp thông tin qui hoạch đất ở Hà N
   <img width="600" src="https://i.imgur.com/z1Qj6Vy.png" alt="Bản đồ quy hoạch đất đai ở Hà Nội">
 </p>
 <p align="center">
-  <em>Hình 16: Bản đồ quy hoạch đất đai ở Hà Nội</em>
+  <em>Hình 18: Bản đồ quy hoạch đất đai ở Hà Nội</em>
 </p>
 
 
@@ -587,7 +587,7 @@ Bản đồ qui hoạch này, cung cấp thông tin qui hoạch đất ở Hà N
   <img width="600" src="https://i.imgur.com/wsh0X0u.png" alt="Các chức năng của trung tâm điều khiển thành phố Hà Nội đang được Viettel xây dựng">
 </p>
 <p align="center">
-  <em>Hình 17: Các chức năng của trung tâm điều khiển thành phố Hà Nội đang được Viettel xây dựng</em>
+  <em>Hình 19: Các chức năng của trung tâm điều khiển thành phố Hà Nội đang được Viettel xây dựng</em>
 </p>
 <p align="justify">Trung tâm điều hành thông minh đóng vai trò là bộ não tổng hợp, chỉ huy, điều hành toàn bộ các hoạt động của thành phố Hà Nội thông qua việc giám sát, điều hành các lĩnh vực ảnh hưởng trực tiếp đến hoạt động của thành phố như: Giao thông, An ninh công cộng, Ứng cứu khẩn cấp, Cứu nạn, cứu hộ, Cung cấp điện, Chiếu sáng đô thị, Cấp thoát nước, Thời tiết, Môi trường… của các cơ quan quản lý nhà nước, các doanh nghiệp dịch vụ công ích của thành phố.</p>
 
@@ -598,7 +598,7 @@ Bản đồ qui hoạch này, cung cấp thông tin qui hoạch đất ở Hà N
   <img width="600" src="https://i.imgur.com/vHxHSKP.png" alt="Trung tâm giám sát điều hành giao thông">
 </p>
 <p align="center">
-  <em>Hình 18: Trung tâm giám sát điều hành giao thông</em>
+  <em>Hình 20: Trung tâm giám sát điều hành giao thông</em>
 </p>
 
 ### 5.7.2. TRUNG TÂM GIÁM SÁT ĐIỀU HÀNH AN NINH CÔNG CỘNG
