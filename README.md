@@ -405,18 +405,25 @@ These additional features enhance the overall utility of the iParking applicatio
 
 ### 5.2.2. CONSTRUCTION OF SMART MULTI-STORY PARKING LOTS
 <a name="constructionofsmartmultistoryparkinglots"></a>
-<p align="justify">Hà Nội đã và đang xây dựng các bãi đỗ xe ở dạng thông minh ở dạng tháp (Tower Parking) chỉ với khoảng 2 đến 3 phút để đưa xe vào hoặc lấy ra, chỉ với một không gian nhỏ, có thể chứa được nhiều xe, vì vậy sẽ tiết kiệm được không gian.</p>
+<p align="justify">Hanoi is currently constructing smart tower parking lots, which only take about 2 to 3 minutes to park or retrieve a vehicle. These tower parking structures are designed to efficiently utilize small spaces while accommodating multiple vehicles, resulting in space savings.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/10JtH7t.png" alt="tower parking Nguyễn Công Trứ">
+  <img width="600" src="https://i.imgur.com/10JtH7t.png" alt="Nguyen Cong Tru tower parking">
 </p>
 <p align="center">
-  <em>Hình 14: Tower parking Nguyễn Công Trứ</em>
+  <em>Figure 14: Nguyen Cong Tru tower parking</em>
 </p>
 
 Với hình thức này, Hà Nội đã triển khai tại các bãi đỗ xe:
 -	Bãi đỗ xe Nguyễn Công Trứ với diện tích 126m2, cao 5 tầng với 4 dãy, chứa tổng cộng được 30 xe.
 -	Bãi đỗ xe Nguyễn Công Hoan với diện tích hơn 1.000 m2, cao 4 tầng, sức chứa 221 ôtô.
 -	Bãi đỗ xe tại phố Trần Nhật Duật có khả năng chứa được 91 xe cùng lúc.
+
+
+<p align="justify">With this approach, Hanoi has implemented smart tower parking at various locations:</p>
+<ul>
+    <li><strong>Nguyen Cong Tru Parking Lot:</strong> With an area of 126m2, this 5-story tower has 4 rows and can accommodate a total of 30 vehicles.</li>
+    <li><strong>Nguyen Cong Hoan Parking Lot:</strong> Covering an area of over 1,000m2, this 4-story tower has a capacity for 221 cars.</li>
+    <li><strong>Tran Nhat Duat Street Parking Lot:</strong> This parking lot can accommodate 91 cars simultaneously.</li>
 
 <p align="center">
   <img width="600" src="https://i.imgur.com/BphHhN2.png" alt="tower parking">
