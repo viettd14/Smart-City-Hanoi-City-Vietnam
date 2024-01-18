@@ -434,7 +434,7 @@ These additional features enhance the overall utility of the iParking applicatio
 <p align="justify">Currently, the Government can conduct paperless meetings with Viettel e-Cabinet, and decisions can be voted on using the digital signatures of the Government's Office on mobile devices. During meetings, the Prime Minister can sign decisions for online issuance, immediately reaching all ministries and localities. The system can also be customized for deployment across various ministries, sectors, and localities.</p>
 
 `Effectiveness of the System`  
-- After nearly 1 year of operation (2019), the system has saved over 1,200 billion VND from electronic documents, helping delegates use electronic documents instead of printing or copying nearly 50,000 paper documents. -- It processed 229 opinions of government members, replacing the issuance of more than 6,183 paper opinion forms and 28,161 accompanying files and documents.
+- After nearly 1 year of operation (2019), the system has saved over 1,200 billion VND from electronic documents, helping delegates use electronic documents instead of printing or copying nearly 50,000 paper documents. It processed 229 opinions of government members, replacing the issuance of more than 6,183 paper opinion forms and 28,161 accompanying files and documents.
 - This system has successfully served 12 paperless meetings of the Government (2019).
 - Reduced at least 30% of the time for meetings compared to the average in previous years.
 - Achieved the government's main goal of being paperless, with 100% electronic documents (except for classified state documents).
