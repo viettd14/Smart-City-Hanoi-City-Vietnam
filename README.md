@@ -413,12 +413,6 @@ These additional features enhance the overall utility of the iParking applicatio
   <em>Figure 14: Nguyen Cong Tru tower parking</em>
 </p>
 
-Với hình thức này, Hà Nội đã triển khai tại các bãi đỗ xe:
--	Bãi đỗ xe Nguyễn Công Trứ với diện tích 126m2, cao 5 tầng với 4 dãy, chứa tổng cộng được 30 xe.
--	Bãi đỗ xe Nguyễn Công Hoan với diện tích hơn 1.000 m2, cao 4 tầng, sức chứa 221 ôtô.
--	Bãi đỗ xe tại phố Trần Nhật Duật có khả năng chứa được 91 xe cùng lúc.
-
-
 <p align="justify">With this approach, Hanoi has implemented smart tower parking at various locations:</p>
 <ul>
     <li><strong>Nguyen Cong Tru Parking Lot:</strong> With an area of 126m2, this 5-story tower has 4 rows and can accommodate a total of 30 vehicles.</li>
@@ -431,38 +425,38 @@ Với hình thức này, Hà Nội đã triển khai tại các bãi đỗ xe:
 <p align="center">
   <em>Hình 14: Tower parking</em>
 </p>
-<p align="justify">Ngoài các bãi thông minh đã được nêu trên, thì theo em nghĩ trong tương lai, Hà Nội sẽ còn tiếp tục và phát triển những hình thức đậu đỗ xe như thế và kết hợp với app iParking này để hỗ trợ người dân trong việc đậu đỗ xe.</p>
+<p align="justify">In addition to the mentioned smart parking lots, I believe that in the future, Hanoi will continue to explore and develop innovative parking solutions, possibly expanding on the existing smart parking concepts. Integration with apps like iParking will likely play a crucial role in assisting citizens with parking needs.</p>
 
 
 ## 5.3. PAPERLESS GOVERNMENT MEETING ROOM
 <a name="paperlessgovernmentmeetingroom"></a>
-<p align="justify">Viettel Solution (VTS) đã phối hợp với chính quyền Hà Nội xây dựng hệ sinh thái chính phủ điện tử sử dụng CNTT để tự động hóa các quy trình của chính phủ để giảm thiểu các thủ tục hành chính, tiết kiệm thời gian, cho phép các cơ quan chính phủ cung cấp dịch vụ công chất lượng cao, giảm chi tiêu ngân sách quốc gia.</p>
-<p align="justify">Hiện tại, Chính phủ có thể họp hoàn toàn phi giấy tờ với Viettel e-Cabinet và biểu quyết sử dụng chữ ký số điện tử của Ban Cơ yếu Chính phủ trên các thiết bị di động. Ngay trong phiên họp, Thủ tướng có thể ký ngay Quyết định để ban hành qua mạng và ngay lập tức tới tất cả bộ, địa phương. Hệ thống này cũng có thể được tuỳ biến để triển khai cho các bộ, ngành và địa phương.</p>
+<p align="justify">Viettel Solution (VTS) has collaborated with the Hanoi government to build an e-government ecosystem utilizing information technology to automate government processes. This initiative aims to streamline administrative procedures, save time, and enable government agencies to provide high-quality public services while reducing national budget expenditures.</p>
+<p align="justify">Currently, the Government can conduct paperless meetings with Viettel e-Cabinet, and decisions can be voted on using the digital signatures of the Government's Office on mobile devices. During meetings, the Prime Minister can sign decisions for online issuance, immediately reaching all ministries and localities. The system can also be customized for deployment across various ministries, sectors, and localities.</p>
 
-`Hiệu quả hệ thống mang lại`  
--	Sau gần 1 năm đi vào hoạt động (2019), hệ thống đã tiết kiệm trên 1.200 tỷ đồng từ văn bản điện tử, giúp các đại biểu sử dụng tài liệu điện tử thay thế việc in ấn, sao chụp gần 50.000 tài liệu giấy; thực hiện xử lý 229 phiếu lấy ý kiến thành viên Chính phủ thay thế việc phát hành hơn 6.183 phiếu lấy ý kiến giấy và 28.161 hồ sơ, tài liệu kèm theo. 
--	Hệ thống này đã phục vụ thành công 12 cuộc họp phi giấy tờ của Chính phủ. (2019).
--	Giảm ít nhất 30% thời gian các phiên họp so với trung bình các năm trước.
--	Đạt mục tiêu chính phủ không giấy tờ, 100% văn bản điện tử (trừ văn bản mật của nhà nước).
--	100% xin ý kiến thành viên Chính phủ được xử lý trên môi trường mạng  minh bạch trong việc quản lý.
+`Effectiveness of the System`  
+- After nearly 1 year of operation (2019), the system has saved over 1,200 billion VND from electronic documents, helping delegates use electronic documents instead of printing or copying nearly 50,000 paper documents. -- It processed 229 opinions of government members, replacing the issuance of more than 6,183 paper opinion forms and 28,161 accompanying files and documents.
+- This system has successfully served 12 paperless meetings of the Government (2019).
+- Reduced at least 30% of the time for meetings compared to the average in previous years.
+- Achieved the government's main goal of being paperless, with 100% electronic documents (except for classified state documents).
+- 100% of opinions from government members are processed on the network environment, ensuring transparency in management.
 
-`Một số tính năng e-Cabinet cung cấp để hỗ trợ chính phủ:`  
-Lợi ích dịch vụ:
--	Các đại biểu dễ dàng tham dự cuộc họp mọi lúc, mọi nơi.
--	Trong suốt quá trình cuộc họp diễn ra, các đại biểu dễ dàng tương tác đa chiều, tức thời trao đổi và chia sẻ đa dạng dữ liệu.
--	e-Cabinet có giao diện Website đơn giản, trực quan, người dùng có thể dễ dàng tiếp cận, sử dụng và khai thác tối đa các tiện ích mà e-Cabinet mang lại.
+`Some features e-Cabinet provides to support the government:`  
+Service benefits:
+- Delegates can easily participate in meetings anytime, anywhere.
+- Throughout the meeting, delegates can interact in real-time, exchanging and sharing diverse data.
+- e-Cabinet has a simple, intuitive website interface, making it easy for users to access, use, and maximize the utilities that e-Cabinet brings.
 
-Thiết lập phiên họp:
--	Xác định chủ trì, thành viên, khách mời.
--	Gửi lịch họp.
--	Đăng ký tham gia.
--	Gửi, nhận tài liệu họp và được tích hợp với hệ thống vOffice.
--	Chữ ký số.
--	Tích hợp với hệ thống email và SMS
+Meeting setup:
+- Determine the chairperson, members, and guests.
+- Send meeting schedules.
+- Register for participation.
+- Send and receive meeting documents, integrated with the vOffice system.
+- Digital signatures.
+- Integration with email and SMS systems.
 
-Biểu quyết:
--	Tổng hợp ý kiến góp ý.
--	Tổng hợp số phiếu bầu.
+Voting:
+- Synthesize feedback.
+- Consolidate voting results.
 
 
 ## 5.4. SMART SCHOOLS
