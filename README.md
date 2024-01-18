@@ -329,7 +329,7 @@ With 110 traffic cameras installed on the Hanoi - Lao Cai expressway for monitor
 <a name="vovcctvsystem"></a>
 <p align="justify">The road monitoring system utilizes cameras installed on all streets of Hanoi by the Voice of Vietnam (VOV) radio station. The images collected by the system are transmitted in real-time to law enforcement agencies and the VOV system, providing information on traffic jams, accidents, or construction sites affecting traffic. VOV will then notify users through radio broadcasts, the internet, or directly on the radio system of vehicles.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/kxQBXhG.png" alt="VOV's CCTV">
+  <img width="600" src="https://i.imgur.com/kxQBXhG.png" alt="VOV's CCTV">https://github.com/viettd14/Smart-City-Hanoi-City-Vietnam-/blob/main/README.md
 </p>
 <p align="center">
   <em>Figure 9: CVOV's CCTV</em>
@@ -347,7 +347,7 @@ With 110 traffic cameras installed on the Hanoi - Lao Cai expressway for monitor
 </p>
 <p align="justify">During peak hours, the streets of Hanoi are congested with thousands of vehicles at each intersection. With Siemens' traffic control system, which analyzes video footage, the system will automatically detect and adjust traffic signal timings along the street to optimize traffic flow as efficiently as possible. For example, during the morning peak hours, the system will automatically increase the green or red light duration for route 1 compared to normal times (the normal green light duration for route 1 is 30 seconds, which will be increased to 50 seconds, to avoid congestion or a queue of vehicles on route 2), and during the evening peak hours, it will automatically adjust it the other way around.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/MTe3ylW.png" alt=""Lane division at the Siemens system intersection.">
+  <img width="600" src="https://i.imgur.com/MNMbhIx.png" alt=""Lane division at the Siemens system intersection.">
 </p>
 <p align="center">
   <em>Figure 11: Lane division at the Siemens system intersection.</em>
