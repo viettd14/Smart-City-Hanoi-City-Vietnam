@@ -461,14 +461,15 @@ Voting:
 
 ## 5.4. SMART SCHOOLS
 <a name="smartschools"></a>
-<p align="justify">Ngoài việc cung cấp tính năng sổ liên liệc lạc điện tử được đi kèm trong ứng dụng Smart City Hà Nội đã được đề cập và giới thiệu ở phần sau.</p>
-<p align="justify">Trong điều kiện dịch bệnh đang xảy ra trên toàn quốc, các trường học đã tổ chức việc học online thông qua các ứng dụng như: Zoom, MS Team,…</p>
-Ngoài ra, các trường trên Hà Nội còn cung cấp một số các tính năng đặc biệt như:
--	Sổ liên lạc: giúp phụ huynh có thể theo dõi thường xuyên tình hình học tập của con ở trường và phối hợp với nhà trường đôn đốc việc học tập của con em mình.
--	Đăng ký tuyển sinh các cấp: Mầm non, Tiểu học, THCS, THPT.
--	Cung cấp chức năng nhắn tin trao đổi với giáo viên và với các phụ huynh trong lớp.
--	Thông báo các hoạt động của và tình hình của trẻ tại trường (điểm danh, nhận xét, khám sức khỏe, chia sẻ hình ảnh hoạt động của lớp,…).
--	Nhận thông báo về học phí và thanh toán học phí qua ứng dụng.
+<p align="justify">In addition to providing the electronic contact book feature included in the Smart City Hanoi application as mentioned and introduced in the following section.</p>
+<p align="justify">In the current pandemic situation across the country, schools have organized online learning through applications such as Zoom, MS Team,...</p>
+
+Furthermore, schools in Hanoi also offer some special features such as:
+- Contact book: Helps parents monitor their children's academic situation at school regularly and coordinate with the school to promote their children's learning.
+- Enrollment registration at all levels: Kindergarten, Primary school, Secondary school, High school.
+- Provides messaging functionality for communication with teachers and with parents in the class.
+- Announces school activities and the situation of children at school (attendance, comments, health check-ups, shares images of class activities,...).
+- Receives notifications about tuition fees and makes tuition fee payments through the application.
 
 
 ## 5.5. HANOI SMART CITY APPLICATIONS
