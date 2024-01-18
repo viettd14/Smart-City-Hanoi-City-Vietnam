@@ -485,6 +485,7 @@ Biểu quyết:
 <a name="truonghocthongminh"></a>
 <p align="justify">Ngoài việc cung cấp tính năng sổ liên liệc lạc điện tử được đi kèm trong ứng dụng Smart City Hà Nội đã được đề cập và giới thiệu ở phần sau.</p>
 <p align="justify">Trong điều kiện dịch bệnh đang xảy ra trên toàn quốc, các trường học đã tổ chức việc học online thông qua các ứng dụng như: Zoom, MS Team,…</p>
+
 Ngoài ra, các trường trên Hà Nội còn cung cấp một số các tính năng đặc biệt như:
 -	Sổ liên lạc: giúp phụ huynh có thể theo dõi thường xuyên tình hình học tập của con ở trường và phối hợp với nhà trường đôn đốc việc học tập của con em mình.
 -	Đăng ký tuyển sinh các cấp: Mầm non, Tiểu học, THCS, THPT.
