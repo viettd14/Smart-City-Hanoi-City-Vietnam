@@ -545,40 +545,44 @@ Functions of the e-School Diary:
 - Connect with Other Parents: Facilitates communication and networking among parents, fostering a sense of community and enabling collaboration on various matters.
 - Provide Feedback to the School: Allows parents to submit feedback and suggestions to the school, fostering a collaborative relationship between parents and educational institutions.
   
-This electronic school diary feature serves as a comprehensive tool for parents to actively participate in their child's education, promoting transparency and effective communication between schools and families within the Smart City Hanoi framework.
+<p align="justify">This electronic school diary feature serves as a comprehensive tool for parents to actively participate in their child's education, promoting transparency and effective communication between schools and families within the Smart City Hanoi framework.</p>
 
 
 ### 5.5.3. NATIONAL PUBLIC SERVICES PORTAL
 <a name="nationalpublicservicesportal"></a>
-<p align="justify">Cổng Dịch vụ công Quốc gia cung cấp thông tin về các thủ tục hành chính và dịch vụ công trực tuyến, hỗ trợ thực hiện, giám sát, đánh giá việc giải quyết thủ tục hành chính, dịch vụ công trực tuyến và tiếp nhận, xử lý phản ánh, kiến nghị của cá nhân, tổ chức trên toàn quốc.</p>
 
-Cá nhân, tổ chức dễ dàng truy cập Cổng Dịch vụ công Quốc gia tại địa chỉ: `www.dichvucong.gov.vn` để hưởng nhiều lợi ích từ Cổng Dịch vụ công Quốc gia, như:
--	Nộp thuế điện tử (thuế thu nhập cá nhân, cá nhân kinh doanh).
--	Cấp mã số đơn vị quan hệ ngân sách; hủy tờ khai hải quan.
--	Khai bổ sung hồ sơ hải quan.
--	Thu phí, lệ phí trước bạ xe ô tô, xe gắn máy
--	Thu phạt vi phạm giao thông đường bộ; đổi giấy phép lái xe (mức độ 4).
--	Cấp mới giấy phép lái xe, giấy phép đăng ký kinh doanh.
--	Và nhiều dịch vụ khác…
-  
+<p align="justify">National Public Service Portal: Accessible and Convenient Services</p>
+<p align="justify">The National Public Service Portal provides information on administrative procedures and online public services, supporting the execution, monitoring, and evaluation of administrative procedures and online public services. It also handles the reception, processing of feedback, and recommendations from individuals and organizations nationwide.</p>
+
+Individuals and organizations can easily access the National Public Service Portal at `www.dichvucong.gov.vn` to enjoy various benefits, such as:
+- Electronic Tax Filing: Enables electronic filing of taxes, including personal income tax and business income tax.
+- Issuance of Budget Relationship Unit Code; Customs Declaration Cancellation: Facilitates the issuance of codes for budgetary relationships and the cancellation of customs declarations.
+- Supplementary Customs Declaration: Streamlines the process for supplementary customs declarations.
+- Vehicle Tax and Fees Payment: Allows for the payment of vehicle taxes and fees, including those for cars and motorcycles.
+- Traffic Violation Fines; Driver's License Renewal (Level 4): Handles the payment of fines for traffic violations and the renewal of driver's licenses (Level 4).
+- New Driver's License Issuance; Business Registration Certificate Issuance: Facilitates the issuance of new driver's licenses and business registration certificates.
+- And Many Other Services…
+
+<p align="justify">The National Public Service Portal serves as a centralized platform for individuals and organizations to access a wide range of government services online. It aims to enhance efficiency, transparency, and convenience in interacting with government agencies, contributing to the modernization and simplification of administrative procedures across the country.</p>
+
 <p align="center">
-  <img width="600" src="https://i.imgur.com/UX1i0l1.png" alt="Cổng dịch vụ công quốc gia">
+  <img width="600" src="https://i.imgur.com/UX1i0l1.png" alt="National Public Service Portal">
 </p>
 <p align="center">
-  <em>Hình 17: Cổng dịch vụ công quốc gia</em>
+  <em>Figure 17: National Public Service Portal</em>
 </p>
 
      
 ## 5.6. BẢN ĐÔ QUY HOẠCH ĐẤT ĐAI
 <a name="bandoquihoachdatdai"></a>
 `https://quyhoach.hanoi.vn/`  
-Bản đồ qui hoạch này, cung cấp thông tin qui hoạch đất ở Hà Nội tới năm 2030.  
-<p align="justify">Phù hợp với những người đầu tư bất động sản hoặc mua đất, mua nhà để ở. Trên bản đồ, thể hiện rõ về quy hoạch chi tiết, phân lô, phân cụm, phân chia đất công – tư – quân đội rõ ràng.</p>
+This land planning map provides information on residential land planning in Hanoi until the year 2030.
+<p align="justify">Suitable for real estate investors or homebuyers. On the map, it clearly illustrates detailed planning, subdivision, clustering, and distinct allocation of land for public, private, and military use.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/z1Qj6Vy.png" alt="Bản đồ quy hoạch đất đai ở Hà Nội">
+  <img width="600" src="https://i.imgur.com/z1Qj6Vy.png" alt="Land planning map in Hanoi">
 </p>
 <p align="center">
-  <em>Hình 18: Bản đồ quy hoạch đất đai ở Hà Nội</em>
+  <em>Figure 18: Land planning map in Hanoi</em>
 </p>
 
 
