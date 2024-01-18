@@ -257,7 +257,7 @@ To develop a smart city, Hanoi must establish an intelligent transportation syst
 <p align="justify">
 To develop a smart city, Hanoi must develop a smart transportation system. With the increasing number of vehicles, this has caused numerous difficulties and obstacles in the management and operation of traffic in Hanoi, evidenced by frequent traffic jams on various streets.
 <p align="center">
-  <img width="600" src="https://i.imgur.com/DtxHnN4.png" alt="What is ITS?">
+  <img width="600" src="https://i.imgur.com/cXGsNYa.png" alt="What is ITS?">
 </p>
 <p align="center">
   <em>Figure 4: What is ITS?</em>
