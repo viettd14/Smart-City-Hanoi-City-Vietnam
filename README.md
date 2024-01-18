@@ -268,7 +268,7 @@ Traffic is always considered the lifeblood of every city or country. For any cit
 <p align="justify">
 The ITS system is an integration of transportation infrastructure with information technology to efficiently manage and operate the transportation infrastructure. It ensures traffic safety, reduces travel time and costs, and protects the environment.</p>
 <p align="center">
-  <img width="600" src="https://i.imgur.com/ZdKF46l.png" alt="The technologies used in ITS">
+  <img width="600" src="https://i.imgur.com/RQOwMRJ.png" alt="The technologies used in ITS">
 </p>
 <p align="center">
   <em>Figure 5: The technologies used in ITS</em>
