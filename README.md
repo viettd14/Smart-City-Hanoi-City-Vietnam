@@ -57,7 +57,7 @@
 | 1 | Information Technology | IT |
 | 2 | Closed-Circuit Television | CCTV |
 | 3 | Information and Communication Technology | ICT |
-| 4 | Trung tâm điều khiển toàn bộ thành phố thông minh | IOC |
+| 4 | Intelligent Operations Center | IOC |
 | 5 | Internet of Things | IOT |
 | 6 | Intelligent Transportation System | ITS |
 | 7 | Viettel Solution | VTS |
